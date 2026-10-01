@@ -20,9 +20,9 @@ sources: [raw/vocab-fr-inbox.md]
 
 ## 进度
 
-- 词条：**49**（new 49 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
-- 待处理：inbox **积压清零**（六批共 49 条已编译，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
-- 词条（49）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]
+- 词条：**50**（new 50 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
+- 待处理：inbox **积压清零**（六批共 49 条已编译；`la` 经用户确认为宾语代词用法、拆出 [[la-pron]]，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
+- 词条（50）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]
 - **待回补（联网后）**：前五批共 **38** 条未对照 CNRTL（年代与借入路径细节逐条标「待验证」）。**第六批 11 条**（2026-10-01）已经「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——未入回补清单；个别细节（banque 首见年代、en 首见年代、vouloir 最早文献、部分英语借入年代）在词条内标「待验证」。法语词源一律以 CNRTL/TLFi 为准
 
 ## 怎么用
@@ -74,7 +74,7 @@ sources: [raw/vocab-fr-inbox.md]
 | --- | --- | --- |
 | [[detective]]（法语） | detective | 英语 detective 若日后收词建页，按「后建者加语言后缀」规则记为 `detective-en.md`，两页互链 |
 | [[sur-prep]]（法语） | sur | sur（介词）与 sûr（确定的，adj.）近形对——预置词性后缀 `sur-prep.md`；日后收 sûr 记为 `sur-adj.md` |
-| [[la-art]]（法语） | la | la（冠词 / 代词）与 là（副词「那里」）近形对——预置 `la-art.md`；日后收 là 记为 `la-adv.md`；inbox 的 `la` 若实指 là 请告知 |
+| [[la-art]] / [[la-pron]]（法语） | la | la 按词性分页：冠词 `la-art.md`、宾语代词 `la-pron.md`（2026-10-01 用户确认 inbox 的 `la` 为宾语用法）；与 là（副词「那里」）近形——日后收 là 记为 `la-adv.md` |
 
 ## 词族 / 综合页
 

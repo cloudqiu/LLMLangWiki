@@ -234,3 +234,11 @@
 - **日志更正（append-only）**：第五批条目称句子拆解「均已收」——其中 **y 当时未建页**（本次补建）；另「预置词性后缀」在 la 上首次实装（`la-art.md`）
 - 更新：[[french-vocabulary]]（进度 38→49、积压清零、待回补 38 条不变 + 第六批不入账说明、命名登记表 +la-art、词族候选 ×5（littera / velle / y-en / parler / banca）、capere 候选更新）、`index.md`（Stats：fr 38→49，总 55→66；Backlog 记检索通道发现）
 - **待办（向用户）**：① 存量 38+7 条待回补可改走 WebSearch 转引批量清账（**待确认**）；② `la` 的 inbox 本义（冠词 / 代词 / là）**待确认**；③ 第三至六批来源（推断 Duolingo）**待确认**
+
+## [2026-10-01] ingest | vocab-fr: `la` 确认为宾语代词——拆页 [[la-pron]]（与 [[la-art]] 并存）
+
+- 触发：用户确认 inbox 的 `la` 为**直接宾语代词**用法（je la vois 类）——第六批曾按最高频（定冠词）编译于 `la-art.md` 并标待确认
+- 新建 [[la-pron]]：宾语代词全貌——位置（动词前 / 复合过去助动词前 / 否定包夹 / 命令式后置）、省音 l'、**COD 前置的分词配合**（je l'ai vue）、代词叠用顺序（me/te/se → le/la/les → lui/leur → y → en）、la vs lui；词源与冠词同出拉丁 illa（宾格 illam，9 世纪——CNRTL/Académie 经检索转引）
+- [[la-art]] 调整：收录说明改为「用户确认宾语用法 + 代词详页指向 [[la-pron]]」；闪卡改为纯冠词卡（正面 `la（冠词）`），与 [[la-pron]] 的代词卡（正面 `la（代词）`）分工，防 SRS 同面混淆
+- hub [[french-vocabulary]]：命名登记表行更新（la 按词性分页：la-art / la-pron；là → la-adv 待收）、词条数 49→50、待处理注记；`index.md` Stats（fr 49→50，总 66→67）
+- 并行：同批已发 workflow「存量清账」（45 词，8 批子代理 + 1 核查代理）——结果与收尾见随后条目

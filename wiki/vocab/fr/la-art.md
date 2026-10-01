@@ -10,7 +10,7 @@ lang: fr
 sources: [raw/vocab-fr-inbox.md]
 word: la
 ipa: /la/
-pos: art. déf.（定冠词 f.sg.；另作 pron. 代词）
+pos: art. déf.（定冠词 f.sg.）
 gender: ""
 plural: ""
 root: "拉丁 illa（ille「那个」的阴性）——指示代词弱化为定冠词"
@@ -18,10 +18,10 @@ root: "拉丁 illa（ille「那个」的阴性）——指示代词弱化为定�
 
 # la
 
-> 命名说明：本页文件名为 `la-art.md`（非 `la.md`）——按 hub「命名消歧」约定，la（冠词 / 代词）与 là（副词「那里」，带重音符）是近形对，预置词性后缀；日后收 là 时记为 `la-adv.md`。
-> 收录说明：inbox 形式 `la` 未标注语境——按最高频用法（定冠词）编译，同页附代词 la；若用户本意是 **là**（副词），请告知，另立 `la-adv.md`。
+> 命名说明：本页文件名为 `la-art.md`（非 `la.md`）——按 hub「命名消歧」约定，la 按词性分页：本页为定冠词、宾语代词见 [[la-pron]]；与 là（副词「那里」，带重音符）是近形对，日后收 là 时记为 `la-adv.md`。
+> 收录说明：2026-10-01 用户确认——inbox 的 `la` 为**宾语代词**用法，代词详页见 [[la-pron]]；本页保留为定冠词词条（两页互链）。
 
-**释义**：（1）(定冠词) 这个、那个——阴性单数名词前（la table 桌子）；（2）(代词) 她、它——代替阴性单数直接宾语（Je la vois. 我看见她） ｜ article défini féminin ; pronom personnel féminin COD
+**释义**：（1）(定冠词) 这个、那个——阴性单数名词前（la table 桌子）；（2）(代词) 她、它——代替阴性单数直接宾语（Je la vois. 我看见她；详解见 [[la-pron]]） ｜ article défini féminin ; pronom personnel féminin COD
 
 **例句**
 - _La maison est grande._ 这房子很大。
@@ -30,7 +30,7 @@ root: "拉丁 illa（ille「那个」的阴性）——指示代词弱化为定�
 
 **形态要点**
 - 定冠词阴性单数：**la**（le 阳性 / la 阴性 / les 复数）；元音或哑音 h 前省音为 **l'**（l'amie、l'heure）；与介词缩合：au ＝ à + le、aux ＝ à + les、du ＝ de + le、des ＝ de + les（**la / l' 不缩合**）
-- 代词：第三人称阴性单数直接宾语 la（le / la / les 一组）；位置在动词前（je la vois）；复合过去在助动词前（je l'ai vue——过去分词配合）
+- 代词：第三人称阴性单数直接宾语 la（le / la / les 一组）；位置在动词前（je la vois）；复合过去在助动词前（je l'ai vue——过去分词配合）——全貌见 [[la-pron]]
 
 **词源 / 构词**
 - **拆解**：拉丁 **illa**——指示代词 **ille / illa / illud**「那个（人 / 物）」的阴性；古典拉丁里表强调指示，晚期 / 中世纪拉丁逐渐弱化泛用 → 定冠词
@@ -51,15 +51,15 @@ root: "拉丁 illa（ille「那个」的阴性）——指示代词弱化为定�
 
 ## 闪卡 #flashcards/fr
 
-la
+la（冠词）
 ??
-**art. déf. / pron.** 定冠词阴性单数（la table）；代词「她、它」（je la vois）
-**形态**：le / la / les；元音前 l'；代词置动词前，复合过去 je l'ai vue
+**art. déf.** 定冠词阴性单数（la table）；le / la / les；元音前 l'
+**形态**：与介词缩合 au / aux / du / des（la、l' 不缩合）
 **词源**：拉丁 illa（ille「那个」的阴性）→ 俗拉丁 ela → 古法语 la（9 世纪，Académie）
 **英法交叉**：英 à la / à la mode ← 法语短语（16 世纪末）；the 为日耳曼词（语法化路径平行）
-**易混**：la 冠词（无重音）≠ là 那里（带重音）；la 直接宾语 vs lui 间接宾语
+**易混**：la 冠词（无重音）≠ là 那里（带重音）；代词用法见 la-pron 词条
 
 ## 来源
 
-- raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `la` 语境不明，按定冠词编译、附代词义——若指 `là` 请告知）
+- raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `la` 经用户确认为宾语代词用法——代词详情移至 [[la-pron]]，本页为定冠词词条）
 - 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 CNRTL / Académie 9e（「LE」条）核对：9 世纪、源 illa 宾格；à la 入英年代（etymonline 转引）标**待验证**
