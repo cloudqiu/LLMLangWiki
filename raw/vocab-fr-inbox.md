@@ -60,7 +60,31 @@ parler
 aujourd'hui
 la
 en
-
+parfois
+il fait
+marcher
+tout
+aller
+appel
+important
+carriere
+compte
+salaire
+etre
+choix
+un seul
+classeur
+amener
+ouvert
+paire
+precieux
+brulant
+royal
+morceau
+casser
+proche
+dispute
+produit
 
 
 

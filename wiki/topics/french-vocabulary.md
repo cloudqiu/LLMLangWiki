@@ -20,10 +20,11 @@ sources: [raw/vocab-fr-inbox.md]
 
 ## 进度
 
-- 词条：**51**（new 51 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
-- 待处理：inbox **积压清零**（六批 49 条 + 追加 `en` 1 条已编译；`la` 拆出 [[la-pron]]、`en` 建 [[en-pron]]，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
-- 词条（51）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]、[[en-pron]]
+- 词条：**76**（new 76 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
+- 待处理：inbox **积压清零**（第七批 25 条已编译——`il fait`→[[faire]]、`un seul`→[[seul]]、`ouvert`→[[ouvrir]] 归并到 lemma，2026-10-01）；第一二批标注 Duolingo，第三至七批 inbox **未标注来源**——推断 Duolingo，**待确认**
+- 词条（76）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]、[[en-pron]]、[[parfois]]、[[faire]]、[[marcher]]、[[tout]]、[[aller]]、[[appel]]、[[important]]、[[carriere]]、[[compte]]、[[salaire]]、[[etre]]、[[choix]]、[[seul]]、[[classeur]]、[[amener]]、[[ouvrir]]、[[paire]]、[[precieux]]、[[brulant]]、[[royal]]、[[morceau]]、[[casser]]、[[proche]]、[[dispute]]、[[produit]]
 - **待回补清账（2026-10-01 完成，两批共 13 个子代理）**：前五批 **38** 条 + 第六批新页细节已经「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——多处实质订正（détective 1871、découvrir 承 discooperire、velleity 非经法语等）；**法语侧仅余 6 项**真正无定论者如实保留「待验证」（auteur 的 -th- 机制、déjà 的 Boirac 说、émission 节目义年代、environ 的 virer 两说、jamais vu 年代、littérature 拼写简并——清单见 log）。法语词源一律以 CNRTL/TLFi 为准
+- **第七批待回补（2026-10-01，25 条）**：本批英语侧借入年代（fashion/feat/feature/career/salary/choice/appeal/march/total/royal/morsel/approach/dispute/product/class/amenable/overt/pair/precious/sole/entity/essence 等）已从 etymonline 取得明证；**法语侧首证年代普遍待 CNRTL/TLFi 详核**（约 21 词的具体定年）；另留 **5 项学界未定**如实保留：brûler 词源两说（ustulare / *brodum）、marcher 终极来源、totus 来源不明、aller 的 aler 词干来源（ambulare 缩约 vs allari）、proche 俗拉丁中间形（propianus vs propius）——清单见 log
 
 ## 怎么用
 
@@ -101,6 +102,14 @@ sources: [raw/vocab-fr-inbox.md]
 - **候选（2026-10-01）**：**法语附着代词（clitiques）全景**（[[la-pron]] · [[en-pron]] · [[y]] ＋ le / les · lui / leur · me / te / nous / vous）——位置、省音、叠用顺序、分词配合汇一页；由 [[la-pron]] / [[en-pron]] 触发，词齐后评估建页
 - **候选（2026-10-01）**：**parler「话」词族**（[[parler]] · parole · parlement ＋ 英 parley / parliament / parlor / parole / palaver）——「话」如何长成「议会」；由 [[parler]] 触发
 - **候选（2026-10-01）**：**banca「长凳」词族**（[[bancaire]] · banque · banc ＋ 英 bank / bankrupt / banquet / bench）——「长凳 → 银行」的语义跃迁与同形异源（bank 河岸）；由 [[bancaire]] 触发
+- **候选（2026-10-01）**：**facere「做」词族**（[[faire]] · fait · façon · facteur · facile · parfait · satisfaire ＋ 英 fact / fashion / feat / feature / faction）——「做」串起事实/方式/完美；由 [[faire]] 触发
+- **候选（2026-10-01）**：**esse「是」词族**（[[etre]] · essence · essentiel · intérêt ＋ 英 is / entity / essence / interest / absent / present）——「是」与「存在」一体两面；由 [[etre]] 触发
+- **候选（2026-10-01）**：**「去」三根拼合 aller**（[[aller]] · venir · partir ＋ 英 alley / amble / ambulance / exit / transit）——vadere + ire + ambulare 异干互补样本；由 [[aller]] 触发
+- **候选（2026-10-01）**：**pretium「价格」词族**（[[precieux]] · prix · apprécier ＋ 英 price / prize / praise / precious / appreciate）——「价格→珍贵→赞扬」语义链；由 [[precieux]] 触发
+- **候选（2026-10-01）**：**「盐」sal 词族**（[[salaire]] · sel · saler ＋ 英 salary / salt / salad / sauce / salami）——「买盐的钱」→「工资」；由 [[salaire]] 触发
+- **候选（2026-10-01）**：**「王」reg- 词族**（[[royal]] · roi · reine · royaume ＋ 英 royal / regal / reign / realm）——royal 与 regal 双重借入；由 [[royal]] 触发
+- **候选（2026-10-01）**：**计算 computare**（[[compte]] · compter · conter ＋ 英 count / account / compute / recount / raconteur）——「数」与「讲」同源分化；由 [[compte]] 触发
+- **候选（2026-10-01）**：**solus「单独」词族**（[[seul]] · seulement · solitude ＋ 英 sole / solitary / solitude / solo）——由 [[seul]] 触发
 
 ## 开放问题
 

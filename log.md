@@ -271,3 +271,23 @@
 - 另：各页「出处：推断 Duolingo——待确认」为**待用户确认项**（非检索可决），按规则原样保留
 - 更新：[[french-vocabulary]]（清账行：两批 13 子代理、法语侧仅余 6 项）、[[english-vocabulary]]（counterweight 复清补入）、`index.md`（Backlog：仅余 9 项）
 - 核对债务至此**基本清零**（余 9 项均属学界无定论类，非「未检索」类）
+
+## [2026-10-01] ingest | vocab-fr: 第七批 25 条 → 25 词条（parfois / faire / marcher / tout / aller / appel / important / carrière / compte / salaire / être / choix / seul / classeur / amener / ouvrir / paire / précieux / brûlant / royal / morceau / casser / proche / dispute / produit）——法语 inbox 积压再次清零
+
+- 来源：`raw/vocab-fr-inbox.md` 第 63–87 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 62 行均已编译，无重复
+- 新建词条 25 条（4 批子代理并行编译 + 1 批重派）：`il fait`→[[faire]]、`un seul`→[[seul]]、`ouvert`→[[ouvrir]]（变位/形容词形式归并到 lemma，均写「收录说明」）；`carrière`/`être`/`précieux`/`brûlant` 补重音、文件名 ASCII 转写（carriere/etre/precieux/brulant）；本批无命名消歧冲突（无同名/近形/Windows 保留名）
+- 词源要点（本批以高频核心词 + 英法交叉亮点为主）：
+  - **faire**＝拉丁 facere ← PIE \*dʰeh₁-「放」；英 fashion←façon、feat←fait、feature←faiture、faction（借入），fact/factor/perfect（共祖）
+  - **être**＝esse「是」+ stare「站」异干拼合；英 entity/essence/interest/absent/present←esse，is/am/are 为 PIE \*es- 共祖，be 出 \*bheu- 另根
+  - **aller**＝vadere + ire + ambulare 三根异干；英 alley/amble/ambulance（借入）
+  - **salaire**＝拉丁 salarium「买盐的钱」（士兵盐饷）← sal「盐」；英 salary 借入、salt 共祖（PIE \*sal-）
+  - **choix**＝法兰克语 \*kausjan ← PIE \*geus-「尝、选」；英 choice 借入、choose 本族共祖
+  - **morceau**＝拉丁 morsum「被咬的一口」← mordere；英 morsel 借入（英保留古形）、remorse 共祖
+  - **royal**＝拉丁 regalis ← rex；英 royal 借入、regal 双重借入
+  - **produit**＝拉丁 producere（pro- + ducere 引）；英 product/produce 借入、duke/conduct 共祖
+  - **ouvrir**＝拉丁 aperire「揭开」；英 overt/overture 借入、cover 走反义 operire 侧
+  - **amener**＝a- + mener ← 拉丁 minare「驱赶」；英 amenable ← 古法语 amener
+- 英法交叉：本批英语对应词（fashion/feat/career/salary/choice/appeal/march/total/royal/morsel/approach/dispute/product/class/amenable/overt/pair/precious/sole/entity/essence 等）在 en/ 下均无页面，按规则普通文字提及、未建英语页；法语内部互链 [[rester]] / [[il-y-a]] / [[chercher]] 等
+- **待回补**：法语侧首证年代普遍待 CNRTL/TLFi 详核（约 21 词具体定年）；另留 5 项学界未定如实保留：brûler 词源两说（ustulare / \*brodum）、marcher 终极来源、totus 来源不明、aller 的 aler 词干来源（ambulare 缩约 vs allari）、proche 俗拉丁中间形（propianus vs propius）
+- **备注（环境限制）**：CNRTL 直连仍 sinkhole（web_fetch 仅返回「Portail lexical」空壳），本批词源全部 WebSearch 转引（etymonline / CNRTL-TLFi 检索明证）；批次 C 曾因 web_fetch 卡死失败（未写文件）——重派后改用纯 web_search 完成
+- 更新：[[french-vocabulary]]（进度 51→76、词条列表全列、待回补 +25、词族候选 ×8：facere / esse / aller 三根 / pretium / sal / reg- / computare / solus）、`index.md`（Stats：fr 51→76，总 68→93；Backlog 词族候选约 28 + 第七批待回补）
