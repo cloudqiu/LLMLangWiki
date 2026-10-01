@@ -1,0 +1,17 @@
+# Obsidian 本地 UI 状态（个人化、频繁变动，不纳入版本管理）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 空白画布残留（打开空白 canvas 会自动生成；非 wiki 内容）
+# 只忽略默认空白名，不忽略 *.canvas——canvas 可作为 wiki 的合法产出形式
+Untitled.canvas
+
+# Obsidian 社区插件：入库启用清单与设置（community-plugins.json、manifest.json、data.json），
+# 插件本体不入库（可从社区商店重装）
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+
+# 系统文件
+Thumbs.db
+.DS_Store
+Desktop.ini
