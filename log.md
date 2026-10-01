@@ -291,3 +291,10 @@
 - **待回补**：法语侧首证年代普遍待 CNRTL/TLFi 详核（约 21 词具体定年）；另留 5 项学界未定如实保留：brûler 词源两说（ustulare / \*brodum）、marcher 终极来源、totus 来源不明、aller 的 aler 词干来源（ambulare 缩约 vs allari）、proche 俗拉丁中间形（propianus vs propius）
 - **备注（环境限制）**：CNRTL 直连仍 sinkhole（web_fetch 仅返回「Portail lexical」空壳），本批词源全部 WebSearch 转引（etymonline / CNRTL-TLFi 检索明证）；批次 C 曾因 web_fetch 卡死失败（未写文件）——重派后改用纯 web_search 完成
 - 更新：[[french-vocabulary]]（进度 51→76、词条列表全列、待回补 +25、词族候选 ×8：facere / esse / aller 三根 / pretium / sal / reg- / computare / solus）、`index.md`（Stats：fr 51→76，总 68→93；Backlog 词族候选约 28 + 第七批待回补）
+
+## [2026-10-01] setup | 推送至 GitHub 远程（origin → github.com:cloudqiu/LLMLangWiki）
+
+- 用户提供远程仓库 `git@github.com:cloudqiu/LLMLangWiki.git`；本库此前**无远程**（仅本地 `main` 分支）
+- 添加 `origin` 远程并首次推送 `main`（含全部历史：建库 → 各批 ingest / lint 清账 → 第七批）
+- **环境处理**：Git for Windows 自带 MSYS `ssh.exe` / `sh.exe` 在本 harness 沙箱下报 `couldn't create signal pipe, Win32 error 5`（命名管道受限）——改用 **Windows 原生 OpenSSH**（`C:\Windows\System32\OpenSSH\ssh.exe`）并经 **`GIT_SSH`** 直连（不经 MSYS shell，避开 `core.sshCommand` 的 shell 解释）后推送成功；SSH 身份 `id_ed25519`（cloudqiu）验证通过
+- 备注：`GIT_SSH` 为会话级环境变量、非持久——后续在本 harness 内推送需重设（`$env:GIT_SSH = "C:\Windows\System32\OpenSSH\ssh.exe"`）；用户本机终端不受此沙箱限制，自带 MSYS ssh 应可用
