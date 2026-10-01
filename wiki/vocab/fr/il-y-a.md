@@ -33,8 +33,8 @@ root: "il（拉丁 ille「那个」）+ y（拉丁 ibi「那里」）+ a（avoir
 
 **词源 / 构词**
 - **拆解**：il（第三人称代词 ← 拉丁 **ille**「那个」）+ y（副词代词 ← 拉丁 **ibi**「在那里」）+ a（**avoir** 的第三人称单数 ← 拉丁 **habere**「有」）
-- **演变**：拉丁 habere「有」→ 法语 avoir；古法语「il y a」原本表示「他/它在那里有……」，其中 y 指「在彼处」→ 凝固成**无人称存在句**——与英语 there is 的 there（「那里」→ 存在标记）是**完全平行的语法化路径**（各自独立演变，非借入；**年代待验证**）
-- **同族 / 派生**：口语 y a（/ja/）；il y avait / il y aura / il y a eu；结构平行物 il est（表钟点、身份）、il faut（需要）；avoir 的词族见下节
+- **演变**：拉丁 habere「有」→ 法语 avoir；古法语「il y a」原本表示「他/它在那里有……」，其中 y 指「在彼处」→ 凝固成**无人称存在句**——与英语 there is 的 there（「那里」→ 存在标记）是**完全平行的语法化路径**（各自独立演变，非借入）——结构首见 **1208 年**（Villehardouin，2026-10-01 经 CNRTL 检索转引补核）
+- **同族 / 派生**：口语 y a（/ja/）；il y avait / il y aura / il y a eu；结构平行物 il est（表钟点、身份）、il faut（需要）；构成成分 **y**（拉丁 ibi「那里」）另立词条 [[y]]；avoir 的词族见下节
 - **记忆钩**：il y a 字面「它在那里有」＝「那里有」；跟英语 there is（there＝那里）一个道理，跨语言同构
 
 **英法交叉核对（受影响的英语词）**
@@ -59,4 +59,4 @@ il y a
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole（198.18.0.0/15），CNRTL 不可达——「il y a 语法化年代」与 able/habit 借入路径标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 备注：2026-10-01 第六批补记——「il y a 语法化年代」已核：结构首见 **1208 年**（Villehardouin，CNRTL 经检索转引）；并补链 [[y]]。able / habit 借入路径仍标**待验证**

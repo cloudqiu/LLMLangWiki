@@ -211,3 +211,26 @@
 - 新写：本库 `CLAUDE.md`（词汇专用 Schema v1.0，fork 自 LLMWiki v1.6.1；§7 载继承的词汇 schema 演进摘要）、`index.md`
 - 复核：SRS `dataStore=NOTES`——排程写于词条笔记 `<!--SR:…-->` 注释、随文件迁移（全库当前 0 条，尚未开刷）
 - 待办：① 联网后清账两语「待回补」清单（en 7 条 etymonline ｜ fr 38 条 CNRTL）；② Obsidian 打开本库核对 graph 与 SRS 牌组树（flashcards/en、flashcards/fr）
+
+## [2026-10-01] ingest | vocab-fr: 第六批 11 条（y / physique / bancaire / membre / lettre / recevoir / vouloir / en parler / parler / aujourd'hui / la）——法语 inbox 积压清零
+
+- 来源：`raw/vocab-fr-inbox.md` 末 11 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 41 行（含第五批句子拆解）均已编译，无重复
+- 新建词条 11 条：[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]——法语系统首见：代词词条（y）、多词表达独立页（en parler）、冠词词条（la）
+- **lemma / 归并 / 命名**：`veux`（现在时）→ 不定式 [[vouloir]]；`en parler` 按 v1.5 多词单位约定独立建页（parler + 代词 en 的高频组合）；`la` 按命名消歧「预置词性后缀」规则记 **`la-art.md`**（与 là 近形对——日后收 là 记 `la-adv.md`），已登入 hub 命名登记表；`la` 的 inbox 语境不明（定冠词 / 代词 / 实为 là）——按最高频（定冠词）编译并附代词义，词条与 hub 均标**待用户确认**
+- **重大环境变化（本批关键）**：CNRTL / etymonline **直连仍被 sinkhole**（复测 cnrtl.fr → 198.18.0.128、etymonline.com → 198.18.0.134），但 **WebSearch 通道可用**——本批词源改走「**检索转引** CNRTL / TLFi / Académie 资料」核对（首个不以「待验证」整体开账的批次）：
+  - y：842 年《斯特拉斯堡誓词》形式 **iv**「那里」（CNRTL y 词条，据 FEW）；**1208 年 il y a**（Villehardouin）；ibi vs hic 之争两说并列（CNRTL 倾向 hic，因 ibi 语音困难）
+  - vouloir：TLFi 记民间拉丁 **\*volere**（古典 velle 按 volui 类推重构）；最早文献（墨洛温 / 9 世纪）来源不一——标待验证
+  - recevoir：拉丁 **recipere**（re- + capere）；10 世纪 recivre（《圣莱热传》）→ 1080 recevoir（《罗兰之歌》）；recette / reçu / récipient 同族
+  - parler：教会拉丁 **parabolare**（678–79 / 853 年记录）；法语首见约 **1200**（《Aiol》，TLFi）
+  - aujourd'hui：**hodie < hoc die**；hui / oi 10 世纪 → 12 世纪强化 → 14 世纪凝固（Grevisse / CNRTL 转引）
+  - membre：拉丁 membrum，11 世纪借入（Académie 9e）；「成员」义 1200 年（Le Robert 史料）
+  - lettre：拉丁 littera；10 世纪后半《圣莱热传》首见；语义线至 homme de lettres（1580）
+  - physique：希腊 phusis → 古法语 fisique 1165 → 现代义 1708；la physique（f.）/ le physique（m.）
+  - la：拉丁 illa（宾格）→ 9 世纪（Académie / CNRTL「LE」条）
+  - en：← 拉丁 inde（Grevisse 转引）；首见年代未获——标待验证
+  - **banque / bancaire：检索未获 CNRTL 数据**——首见年代标待验证
+- 英法交叉亮点：**will 与 vouloir 同出 PIE \*wel-**（跨语系共祖，与 volition / volunteer / benevolent 的拉丁共祖线并列）；**receive（约 1300 ← 古法语）+ receipt 双借入**；**parley / parliament / parlor / parole ← parler 词族**；**letter / literature ← littera**；**today（OE tō dæge）与 aujourd'hui 结构平行**；**bank（河岸，古诺斯语）vs bank（银行，经法语 / 意语）同形异源**；**à la 入英（16 世纪末）**
+- **回补既有词条**：[[il-y-a]] 补 CNRTL 核实的 **1208 年首见**（Villehardouin）并互链 [[y]]；[[rester]] 的 `y rester` 搭配补链 [[y]]——第五批句子 `elle ne peut jamais y rester longtemps` 至此全部成分建页完毕
+- **日志更正（append-only）**：第五批条目称句子拆解「均已收」——其中 **y 当时未建页**（本次补建）；另「预置词性后缀」在 la 上首次实装（`la-art.md`）
+- 更新：[[french-vocabulary]]（进度 38→49、积压清零、待回补 38 条不变 + 第六批不入账说明、命名登记表 +la-art、词族候选 ×5（littera / velle / y-en / parler / banca）、capere 候选更新）、`index.md`（Stats：fr 38→49，总 55→66；Backlog 记检索通道发现）
+- **待办（向用户）**：① 存量 38+7 条待回补可改走 WebSearch 转引批量清账（**待确认**）；② `la` 的 inbox 本义（冠词 / 代词 / là）**待确认**；③ 第三至六批来源（推断 Duolingo）**待确认**

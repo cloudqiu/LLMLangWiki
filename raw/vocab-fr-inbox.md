@@ -48,5 +48,17 @@ bougie
 gateau
 sur
 inacceptable
+y
+physique
+bancaire
+membre
+lettre
+recevoir
+veux
+en parler
+parler
+aujourd'hui
+la
+
 
 

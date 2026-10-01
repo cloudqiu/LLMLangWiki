@@ -41,7 +41,7 @@ root: "拉丁 restare「停下、留在后面」← re-（向后）+ stare「站
 - 核对：rest / arrest 借入年代标**待验证**，待联网核实
 
 **同义 / 搭配 / 易混**
-- 搭配：`rester à la maison`（待在家）；`rester + adj.`（保持：rester calme 保持冷静）；`il reste + 名词`（剩下：il reste du pain）；`y rester`（留在那里）
+- 搭配：`rester à la maison`（待在家）；`rester + adj.`（保持：rester calme 保持冷静）；`il reste + 名词`（剩下：il reste du pain）；`y rester`（留在那里——[[y]] 代「那里」；口语「丧命」）
 - **核心易混——rester vs demeurer**：**rester** 停留/保持（常用）｜ **demeurer** 居住/保持（更书面）；两者都可用 être 助动词
 - 再易混：**rester**（保持状态）vs **être**（是）；**il reste**（剩下）vs **il manque**（缺少）
 - **语法陷阱**：rester 用 **être** 助动词（je suis resté），不是 avoir——这是高频错误点

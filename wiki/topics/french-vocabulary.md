@@ -20,10 +20,10 @@ sources: [raw/vocab-fr-inbox.md]
 
 ## 进度
 
-- 词条：**38**（new 38 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
-- 待处理：inbox 暂无积压（五批共 38 条已编译；前 5 条标注 Duolingo，第三至五批 inbox **未标注来源**——推断 Duolingo，**待确认**）
-- 词条（38）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]
-- **待回补（联网后）**：共 **38** 条未对照 CNRTL（年代与借入路径细节逐条标「待验证」）。法语词源一律以 CNRTL/TLFi 为准
+- 词条：**49**（new 49 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
+- 待处理：inbox **积压清零**（六批共 49 条已编译，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
+- 词条（49）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]
+- **待回补（联网后）**：前五批共 **38** 条未对照 CNRTL（年代与借入路径细节逐条标「待验证」）。**第六批 11 条**（2026-10-01）已经「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——未入回补清单；个别细节（banque 首见年代、en 首见年代、vouloir 最早文献、部分英语借入年代）在词条内标「待验证」。法语词源一律以 CNRTL/TLFi 为准
 
 ## 怎么用
 
@@ -74,6 +74,7 @@ sources: [raw/vocab-fr-inbox.md]
 | --- | --- | --- |
 | [[detective]]（法语） | detective | 英语 detective 若日后收词建页，按「后建者加语言后缀」规则记为 `detective-en.md`，两页互链 |
 | [[sur-prep]]（法语） | sur | sur（介词）与 sûr（确定的，adj.）近形对——预置词性后缀 `sur-prep.md`；日后收 sûr 记为 `sur-adj.md` |
+| [[la-art]]（法语） | la | la（冠词 / 代词）与 là（副词「那里」）近形对——预置 `la-art.md`；日后收 là 记为 `la-adv.md`；inbox 的 `la` 若实指 là 请告知 |
 
 ## 词族 / 综合页
 
@@ -90,15 +91,21 @@ sources: [raw/vocab-fr-inbox.md]
 - **候选（2026-10-01）**：**prehendere「抓」词族**（[[prendre]] · apprendre · comprendre · surprendre · entreprendre ＋ 英 entrepreneur / enterprise / surprise / prison）——surprise 的 -prise 即「抓」；由 [[prendre]] 触发，待收 comprendre / apprendre 后建页
 - **候选（2026-10-01）**：**videre「看/知」词族**（[[voir]] · revoir · prévoir ＋ 英 view / video / vision / wit / wise）——PIE \*weid- 的「看」与「知」一体两面；由 [[voir]] 触发
 - **候选（2026-10-01）**：**credere「信」词族**（croire · [[incroyable]] · croyance ＋ 英 credit / creed / credible / incredible 平行构词）——由 [[incroyable]] 触发
-- **候选（2026-10-01）**：**capere「拿」词族**（[[inacceptable]] · accepter · recevoir · concevoir ＋ 英 accept / receive / capture / perception）——「拿」串起接受/接收/构想；由 [[inacceptable]] 触发
+- **候选（2026-10-01）**：**capere「拿」词族**（[[inacceptable]] · [[recevoir]]（已收）· accepter · concevoir ＋ 英 accept / receive / capture / perception）——「拿」串起接受/接收/构想；由 [[inacceptable]] / [[recevoir]] 触发，待收 accepter / concevoir 后建页
 - **候选（2026-10-01）**：**主有词 mon · ton · son 系列**（[[mon]] · [[son]] · ma/ta/sa · mes/tes/ses）——性数配合 + 元音前阴名用 mon/son/ton 的规则；由 [[mon]] / [[son]] 触发
 - **候选（2026-10-01）**：**stare「站」词族**（[[rester]] · arrêter · être ＋ 英 rest / arrest / stand / stay / state）——rester 的「停留」＝「站住不走」；由 [[rester]] 触发
+- **候选（2026-10-01）**：**littera 词族**（[[lettre]] · [[litterature]] · littéraire ＋ 英 letter / literature / literal）——「字母 → 书信 → 文学」的语义链；由 [[lettre]] 触发
+- **候选（2026-10-01）**：**velle / voluntas「意愿」词族**（[[vouloir]] · volonté ＋ 英 will（PIE \*wel- 共祖）/ volition / volunteer / benevolent / velleity）——共祖与借入的分界样本；由 [[vouloir]] 触发
+- **候选（2026-10-01）**：**副词代词 y / en 双璧**（[[y]] · [[en-parler]]）——y 代 à + 名词、en 代 de + 名词；法语语法词头号易混对；由 [[y]] / [[en-parler]] 触发
+- **候选（2026-10-01）**：**parler「话」词族**（[[parler]] · parole · parlement ＋ 英 parley / parliament / parlor / parole / palaver）——「话」如何长成「议会」；由 [[parler]] 触发
+- **候选（2026-10-01）**：**banca「长凳」词族**（[[bancaire]] · banque · banc ＋ 英 bank / bankrupt / banquet / bench）——「长凳 → 银行」的语义跃迁与同形异源（bank 河岸）；由 [[bancaire]] 触发
 
 ## 开放问题
 
 - 例句来源：当前为 LLM 生成 + 待验证标记；是否引入 CNRTL / Le Robert 核对流程？
 - 「形态要点」是否提升为 frontmatter 字段（便于日后 Dataview 查询）？
 - 英语系统的 etymonline 待回补（7 条）与本系统 CNRTL 待回补，联网后一并清账。
+- **清账通道（2026-10-01 发现）**：WebSearch 通道可用（CNRTL 直连仍 sinkhole）——第六批已按「检索转引」核对；存量 38 条 + 英语 7 条可照此批量清账，**待用户拍板**。
 
 ## 来源
 
