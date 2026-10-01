@@ -31,14 +31,14 @@ root: "拉丁 emissio「放出」← emittere「放出」（ex- 出 + mittere「
 
 **词源 / 构词**
 - **拆解**：拉丁 **emissio**「放出、发出」＝ **ex-**「出」+ **miss-**（mittere「送」的词干）+ -io（名词尾）——「送出去」
-- **演变**：拉丁 emittere「放出」→ emissio「放出」→ 法语 émission；「广播电视节目」义由「（信号）播出」转来——**émission** 是法语对「播出」的自然引申（**年代待验证**）
+- **演变**：拉丁 emittere「放出」→ emissio「放出」→ 法语 émission（14c. 初入法语——据 CNRTL／Académie 9e，2026-10-01 经检索转引）；「广播电视节目」义由「（信号）播出」转来——**émission** 是法语对「播出」的自然引申（约 20 世纪随广播兴起；精确首见年代**待验证**：检索见 1906 年 Larousse 尚无此义、1938 年版已收「无线电波播送」义）
 - **同族 / 派生**：émettre（发出、播送）、émetteur（发射机、发行人）、émissaire（使者）；拉丁 mittere 家族：mission、transmission、admission、omission、promesse
 - **记忆钩**：émission ＝ 「送（mittere）出去（ex-）」——节目是「播出」的信号，气体是「排出」的物，钱币是「发行」的额
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**emission**（「排放、发出」16c.，← 拉丁 emissio——直接拉丁或经法语，**路径待验证**）；**emit**（← 拉丁 emittere）；**mission / transmit / omit / commit / admit**（同 mittere 家族，多经拉丁或古法语入英）
+- **借入英语**：**emission**（「排放、发出」：英语 15c. 初借入，← 古法语 émission（14c.）与拉丁 emissio 双重来源；「放出」义 1610s 起——据 etymonline，2026-10-01 经检索转引）；**emit**（← 拉丁 emittere）；**mission / transmit / omit / commit / admit**（同 mittere 家族，多经拉丁或古法语入英）
 - **关键 faux ami**：英语 **emission 没有「广播电视节目」义**（＝排出的气体、发出的热/光）；法语 émission 最常用的义恰恰是「（电视/电台）节目」——法语 une émission 对应英语 a program / a broadcast，**绝不是** an emission
-- 核对：借入路径与年代标**待验证**，待联网核实
+- 核对（2026-10-01 经检索转引）：émission 法语 14c. 初借自拉丁 emissio（CNRTL／Académie 9e）；英语 emission 15c. 初借入，路径＝古法语＋拉丁双重（etymonline）——已核实；「节目」义精确首见年代**待验证**
 
 **同义 / 搭配 / 易混**
 - 搭配：`une émission de télévision / de radio`（节目）；`regarder / écouter une émission`（看/听节目）；`les émissions de CO₂`（二氧化碳排放）；`émission de monnaie`（货币发行）
@@ -58,4 +58,4 @@ root: "拉丁 emissio「放出」← emittere「放出」（ex- 出 + mittere「
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `emission` → 补重音 émission）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「节目义产生年代」与借入路径标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：émission 法语 14c. 初（借自拉丁 emissio）；英语 emission 15c. 初、路径（古法语＋拉丁）已核实（etymonline）；「节目」义精确首见年代仍标**待验证**（已知随 20 世纪广播兴起；1906 年 Larousse 尚无、1938 年版已收）

@@ -32,14 +32,14 @@ root: "拉丁 capitulum「小头」（caput「头」的指小）——教会「�
 
 **词源 / 构词**
 - **拆解**：**capitulum**「小头」（caput / capitis「头」的指小形）——-itulum 经法语演化并入 -itre
-- **演变**：拉丁 caput「头」→ 指小词 capitulum「小头；条目、段落」→ 教会拉丁 capitulum（座堂议事会——教会的「头们」即教士会）→ 古法语 chapitre（12c. 起，**待验证**）——书章义与教会义一并传入法语
+- **演变**：拉丁 caput「头」→ 指小词 capitulum「小头；条目、段落」→ 教会拉丁 capitulum（座堂议事会——教会的「头们」即教士会）→ 古法语 chapitre（12c. 起：1119 年首见 chapitle，约 1190 作 capitre；据 CNRTL/Académie 9e，2026-10-01 经检索转引）——书章义与教会义一并传入法语
 - **同族 / 派生**：法语 capitaine、capital、capitale、chef、capitulaire（adj.）；英语一侧见下节
 - **记忆钩**：章 = 书的「小头」（capitulum）——每章是全书的一个「头」；教会义则是「头们的集会」
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**chapter**（← 古法语 chapitre，13c.——书章义与教会义一并传入；英语后引申出「社团分会」义 [a local chapter]，法语无此义——**词义漂移**）
-- **共祖未借入**（caput「头」家族）：**chief**（← 古法语 chief ← 拉丁 caput「头」）；**chef**（法语 chef 于 19c. 被英语**再借入**——chief 与 chef 是同一词源的双重借入，一个走向日常、一个坐进厨房）；**capital**（英语与法语各自从拉丁 capitalis 一线传入——是否经法语**待验证**）；**captain**（← 古法语 capitain ← 拉丁 capitaneus）；**cape**（海角 ← 古法语 cap ← 拉丁 caput——地形之「头」，**待验证**）
-- **核对**：wiktionary / etymonline / CNRTL 待联网核实；英语词库尚未收录 chapter / chief / chef / capital / captain / cape
+- **共祖未借入**（caput「头」家族）：**chief**（← 古法语 chief ← 拉丁 caput「头」）；**chef**（法语 chef 于 19c. 被英语**再借入**——chief 与 chef 是同一词源的双重借入，一个走向日常、一个坐进厨房）；**capital**（订正：英语 early 13c. ← 古法语 capital ← 拉丁 capitalis，确经法语传入；法语 capital 自身亦直借拉丁 capitalis——两线同源拉丁；据 etymonline/CNRTL，2026-10-01 经检索转引）；**captain**（← 古法语 capitain ← 拉丁 capitaneus）；**cape**（海角 late 14c. ← 古法语 cap ← 拉丁 caput——地形之「头」；据 etymonline，2026-10-01 经检索转引）
+- **核对**：2026-10-01 经检索转引核对——CNRTL/Académie 9e：chapitre 1119 年首见（chapitle）；etymonline：cape（海角）late 14c. ← 古法语 cap ← caput、capital（形）early 13c. ← 古法语 capital ← capitalis。英语词库尚未收录 chapter / chief / chef / capital / captain / cape
 
 **同义 / 搭配 / 易混**
 - 搭配：`le premier / dernier chapitre`；`avoir voix au chapitre`（有发言权——源出议事会有表决权）；`chapitre budgétaire`（预算科目）
@@ -58,4 +58,4 @@ chapitre
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：Duolingo）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——年代与 cape / capital 路径细节标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：chapitre 1119 年首见（CNRTL/Académie 9e）；cape（海角）late 14c. 经古法语 cap ← caput、capital 确经古法语入英（etymonline）——无剩余未核实项

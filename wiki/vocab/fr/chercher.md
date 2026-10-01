@@ -34,14 +34,14 @@ root: "晚期拉丁 circare「绕行、巡视」← circa「周围」← circum�
 
 **词源 / 构词**
 - **拆解**：单语素——晚期拉丁 **circare**「绕行、巡视（到处找）」← **circa**「周围」← **circum**「环绕」
-- **演变**：拉丁 circum「环绕」→ circa「周围」→ 晚期拉丁 circare「巡视、绕行」→ 古法语 cerchier → 法语 chercher——「找」＝「绕圈巡视」的隐喻（**年代待验证**）
+- **演变**：拉丁 circum「环绕」→ circa「周围」→ 晚期拉丁 circare「巡视、绕行」→ 古法语 cercier（1080）/ cerchier（约 1172）→ 法语 chercher（1468 年 c→ch 同化定形；Académie 9e 记「12 世纪 cercher」）——「找」＝「绕圈巡视」的隐喻（据 CNRTL/Académie 9e 与 TLF V, 661a，2026-10-01 经检索转引）
 - **同族 / 派生**：recherche（研究、寻找）、rechercher（再寻找、探究）、chercheur（研究员）、se chercher；英语一侧见下节
 - **记忆钩**：chercher 本义「绕圈」——找东西就是「绕圈巡视」；同根的 cercle（圈）与英语 circle / circus 是它的亲戚
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**search**（← 古法语 cerchier/chercher ← 晚期拉丁 circare——法语本词的直接后裔，拼写 search 保留古法语 cerch- 痕迹）；**research**（← 法语 recherche / rechercher）
 - **共祖未借入**：**circle / circus / circuit / circulate / circa**（← 拉丁 circus/circum「圈」家族——与 chercher 同出 circum，**共祖非借入**）；英语 search 与 circle 的「绕圈」隐喻同源
-- 核对：search / research 借入年代标**待验证**，待联网核实
+- 核对：search 约 1300 年借自古法语 cerchier/sercher（中古英语 serchen）；research 名词 1570s、动词 1590s 借自法语 recerche / recercher（据 etymonline，2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`chercher qch / qn`（寻找，直接宾语）；`chercher à + 不定式`（试图）；`aller chercher qn/qch`（去取/去接）
@@ -62,4 +62,4 @@ chercher
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `cherche` → chercher）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「circare→chercher 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：circare（4 世纪）→ 古法语 cercier 1080 / cerchier 约 1172 → chercher（1468 c→ch 同化定形）；search（约 1300）/ research（名词 1570s）借入年代已核实（etymonline）。

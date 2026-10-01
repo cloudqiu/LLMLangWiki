@@ -34,14 +34,14 @@ root: "dé-（去掉、反转）+ couvrir（盖）← 拉丁 cooperire（con- + 
 
 **词源 / 构词**
 - **拆解**：**dé-**（反转、去除）+ **couvrir**「盖」← 拉丁 **cooperire**「盖住」（con- + operire「盖」）——découvrir ＝ 「去掉盖子」
-- **演变**：拉丁 operire「盖」→ cooperire「盖住」→ 古法语 covrir → 法语 couvrir → 加 dé- 成 découvrir「揭盖」→ 引申「发现」（**年代待验证**）
+- **演变**：拉丁 operire「盖」→ cooperire「盖住」→ 古法语 covrir → 法语 couvrir → découvrir 承晚期拉丁 discooperire（dis- + cooperire）「揭盖」→ 引申「发现」——12 世纪初首见（《牛津诗篇》，义「揭示、展示」）、本义「揭盖」约 1150（《忒拜传奇》）、「发现（首次获知）」义 1580（蒙田）（据 CNRTL/TLFi，2026-10-01 经检索转引）
 - **同族 / 派生**：couvrir（盖）、couverture（盖子、被子、封面）、recouvrir（再盖、覆盖）、découverte（发现——名词）；英语一侧见下节
 - **记忆钩**：découvrir ＝ dé（去）+ couvrir（盖）＝「揭盖子」——发现就是掀开盖子看个究竟
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**discover**（← 古法语 descovrir ← des- + covrir「盖」，13c.——法语本词的直接后裔，拼写保留 -cover-）；**discovery**（← 古法语/英构）；**cover**（← 古法语 covrir ← 拉丁 cooperire——英语 cover 与 discover 同出一家）；**covert**（「隐蔽的」，← 古法语 covert「盖住的」——法语过去分词形式借入）
 - **共祖未借入**：**operculum / operculate**（「盖子、有盖的」，← 拉丁 operire「盖」——经拉丁直接入英，学术术语，共祖非借入）
-- 核对：discover / cover 借入年代标**待验证**，待联网核实
+- 核对（2026-10-01 经检索转引）：英语 discover c. 1300 ← 古法语 descovrir（← 中世纪拉丁 discooperire）（etymonline；现代「发现」义 1550s）；cover mid-12c. ← 古法语 covrir（12c.）← 晚期拉丁 coperire（etymonline）——均已核实
 
 **同义 / 搭配 / 易混**
 - 搭配：`découvrir un pays / un secret / la vérité`（发现国家/秘密/真相）；`découvrir le pot aux roses`（发现隐情，习语）；`se découvrir`（脱帽）
@@ -62,4 +62,4 @@ découvrir
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `decouvert` → découvrir）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——年代标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：découvrir 12 世纪初首见（《牛津诗篇》）、「发现」义 1580（蒙田）（CNRTL/TLFi 转引）；discover c. 1300、cover mid-12c. 借入（etymonline）；无遗留待验证项

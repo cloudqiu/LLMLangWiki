@@ -33,14 +33,14 @@ root: "拉丁 sufflare「吹气」← sub-（下）+ flare「吹」"
 
 **词源 / 构词**
 - **拆解**：拉丁 **sufflare**「（在下面）吹气」＝ sub-（下）+ **flare**「吹」→ 古法语 sofler → 名词 souffle / 动词 souffler
-- **演变**：拉丁 flare「吹」→ sufflare「吹气」→ 法语 souffler「吹」→ 名词化 souffle「气息」（**年代待验证**）
+- **演变**：拉丁 flare「吹」→ sufflare「吹气」→ 法语 souffler「吹」→ 名词化 souffle「气息」（名词首证约 1160 年，《Enéas》soffle 形；Académie 9e：「xiie siècle. Déverbal de souffler」——2026-10-01 经检索转引）
 - **同族 / 派生**：souffler（吹）、soufflet（风箱；耳光）、soufflé（吹胀的；蛋奶酥）、essouffler（使气喘）；英语一侧见下节
 - **记忆钩**：souffle 来自「吹」（sufflare）——「气息」就是「吹出来的气」；soufflé（舒芙蕾）就是「吹胀」的蛋奶酥
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**soufflé**（「舒芙蕾」，← 法语 souffler「吹、使膨胀」——蛋奶酥因烘烤膨胀如吹起得名，19c. 借入，**年代待验证**）
+- **借入英语**：**soufflé**（「舒芙蕾」，← 法语 souffler「吹、使膨胀」——蛋奶酥因烘烤膨胀如吹起得名，19c. 借入（首见 1803，据 etymonline；部分词典作 1805-15；2026-10-01 经检索转引）
 - **共祖未借入**：**inflate / inflation / flatulent / flatulence**（← 拉丁 flare「吹」家族——in- + flare「吹入」；经拉丁直接入英，共祖非借入）；**sufflate / insufflate**（← 拉丁 sufflare，医学用语，共祖线）
-- 核对：soufflé 借入年代标**待验证**，待联网核实
+- 核对：已核实（据 etymonline，2026-10-01 经检索转引）——soufflé 1803 年（法式语境）入英语；部分词典定作 1805-15
 
 **同义 / 搭配 / 易混**
 - 搭配：`retenir son souffle`（屏住呼吸）；`avoir le souffle court`（喘不过气）；`un souffle de vent`（一阵风）
@@ -60,4 +60,4 @@ souffle
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；`souffle` 双义，按名词编译）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「sufflare→souffle 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：souffle 名词首证约 1160（déverbal de souffler，Académie 9e）、soufflé 英借 1803 均已核实；无剩余待验证项

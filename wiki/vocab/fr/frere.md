@@ -31,14 +31,14 @@ root: "拉丁 frater「兄弟」（PIE *bhrater-「兄弟」）"
 
 **词源 / 构词**
 - **拆解**：单语素——拉丁 **frater**「兄弟」；长音符 ê 记历史元音（frater 的 -a- 演化的痕迹）
-- **演变**：PIE \***bhrater-**「兄弟」→ 拉丁 frater → 古法语 frere → 法语 frère（**年代待验证**）；PIE 词根在日耳曼语支给出英语 **brother**——法语 frère 与英语 brother 是**印欧共祖**
+- **演变**：PIE \***bhrater-**「兄弟」→ 拉丁 frater → 古法语 frere → 法语 frère——最早形式 **fradre** 见于 9 世纪（842 年《斯特拉斯堡誓词》作 fradra/fradre；Académie 9e 记「IXe siècle, fradre」）（据 CNRTL/Académie 9e，2026-10-01 经检索转引）；PIE 词根在日耳曼语支给出英语 **brother**——法语 frère 与英语 brother 是**印欧共祖**
 - **同族 / 派生**：fraternité（博爱、兄弟情谊——法国「自由平等博爱」之一）、fraternel（兄弟的）、fraterniser（亲近）；英语一侧见下节
 - **记忆钩**：frère 与 brother 同出 PIE「兄弟」——法语走了 fr-（拉丁 frater），英语走了 br-（日耳曼 *broþar），一条词根两支分家
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**friar**（「修道士、托钵修士」，← 古法语 frere「兄弟」——frère 的古法语借入，中古英语）；**fraternity / fraternal**（← 拉丁 frater / fraternus，经拉丁/法语——**路径待验证**）；**fraternize**
+- **借入英语**：**friar**（「修道士、托钵修士」，← 古法语 frere「兄弟」——frère 的古法语借入，中古英语）；**fraternity / fraternal**（← 古法语 fraternité 12c. / fraternel，均溯至拉丁 frater / fraternus——经法语借入，路径已核实）；**fraternize**
 - **共祖未借入**：**brother**（英语本族 ← PIE \*bhrater-——与 frère 同出 PIE 根，**共祖非借入**，是最佳对比例）
-- 核对：friar / fraternity 借入路径标**待验证**，待联网核实
+- 核对：friar 13 世纪末借自古法语 frere；fraternity 14c. 初借自古法语 fraternité（12c.）、fraternal 15c. 初借自古法语 fraternel（据 etymonline，2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`mon frère`（我兄弟）；`grand frère / petit frère`（哥哥 / 弟弟）；`frère et sœur`（兄弟姐妹）
@@ -58,4 +58,4 @@ frère
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `frere` → 补重音 frère）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「frater→frère 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：frère 最早形式 fradre 见 9 世纪（842 年《斯特拉斯堡誓词》；Académie 9e）；friar（13 世纪末）/ fraternity（14c. 初）/ fraternal（15c. 初）借入路径已核实（etymonline）。

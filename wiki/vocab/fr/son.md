@@ -33,14 +33,14 @@ root: "两源同形：拉丁 suus「他的」／ sonus「声音」"
 
 **词源 / 构词**
 - **拆解**：两个同形词的**词源巧合**——主有 son ← 拉丁 **suus**「他的、自己的」；名词 son ← 拉丁 **sonus**「声音」——二者各自演化，在法语中撞成同形同音
-- **演变**：suus「他的」→ 古法语 son；sonus「声音」→ 古法语 son；两线并行（**年代待验证**）
+- **演变**：suus「他的」（宾格 suum > sum）→ 古法语 son（主有）；sonus「声音」→ 古法语 suon → son（按 soner「响」改形）——名词 son 约 1120 年已见（GRLF/Usito），Académie 9e 记 12 世纪；两线并行（据 Académie 9e / GRLF 与 etymonline，2026-10-01 经检索转引）
 - **同族 / 派生**：主有一支：sa、ses、le sien（他的——独立代词）；声音一支：sonore（响亮的）、sonner（响、按铃）、résonner（回响）；英语一侧见下节
 - **记忆钩**：son 是法语里的「同形异源」——「他的」来自 suus、「声音」来自 sonus，一个拼写两根族谱；声音一支的 sonner（响铃）帮你记住 sonus
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**sound**（← 古法语 son ← 拉丁 sonus「声音」——名词义的直接后裔，拼写加 -d 是英语后期添笔）；**sonata / sonnet / sonic / sonorous / resonance**（← 拉丁 sonus 家族，经拉丁/意大利语——共祖线）
 - **共祖未借入**：主有 son 无英语借入（英语 his / her / its 为日耳曼词）
-- 核对：sound 借入年代与 -d 添笔标**待验证**，待联网核实
+- 核对：sound 13 世纪末借自古法语 son（中古英语 soun）；-d 为 15 世纪起添入的非词源（excrescent）拼写（据 etymonline 与 OED，2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`son frère / son livre`（他的/她的）；`son amie`（元音前阴名）；`un son étrange / clair`（奇怪/清晰的声音）
@@ -60,4 +60,4 @@ son
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；`son` 双义合并一页）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「suus/sonus→son 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：名词 son 出 sonus（古法语 suon 改形为 son，约 1120 年已见；Académie 9e/GRLF）；主有 son 出 suus（宾格 suum，Larousse/Nyrop 转引）；英语 sound 13 世纪末借自古法语 son，-d 为 15 世纪添入的 excrescent 拼写（OED/etymonline）。

@@ -25,7 +25,7 @@ root: "古法语 fausset「塞子、龙头」← fausser「弄坏、使失效」
 
 **词源 / 构词**
 - **拆解**：不可再分的借词；词尾 -et 是法语名词词尾的残留，**读 /ɪt/ 而非 /et/**
-- **演变**：古法语 fausset「塞子、龙头」← 动词 fausser「弄坏、使失效、违背」← 晚期拉丁 falsare ← 拉丁 falsus「假的」（即 false 家族）；约 1400 年入英语，原指「从酒桶取酒的塞嘴 / 龙头」，后泛指水管龙头。得名理据通行两说：一是「容易失效、会漏的装置」，二是「临时替代的塞子」——**理据待验证**
+- **演变**：古法语 fausset「塞子、龙头」（一说 ← 动词 fausser「弄坏、使失效、违背」← 晚期拉丁 falsare ← 拉丁 falsus「假的」，即 false 家族）；约 1400 年入英语，原指「从酒桶取酒的塞嘴 / 龙头」，后泛指水管龙头。得名理据（据 etymonline，2026-10-01 经检索转引）：etymonline 标 fausset 深层来源「不明（unknown origin）」，并存两说——① 上列 fausser／falsare（false 家族）说（Barnhart、Gamillscheg 等主此说）；② 或为拉丁 faux／fauces「咽喉」的指小形式；**两说未裁断，仍标待验证**
 - **同族 / 派生**：false、falsify、falsity、fail、fault、default（同出拉丁 fallere「欺骗、使失望」家族）；**faucet 与 force、faucal 无关**，不要按词形联想
 - **记忆钩**：水龙头居然出自「false」——在古法语里它就是那个「会坏、会漏」的塞子
 
@@ -40,10 +40,10 @@ root: "古法语 fausset「塞子、龙头」← fausser「弄坏、使失效」
 faucet
 ??
 **n.**（美式）水龙头；（酒桶上的）龙头、塞嘴
-**词源**：古法语 fausset「塞子、龙头」← fausser「弄坏、使失效」← 拉丁 falsus「假的」（false 家族）；约 1400 年入英语，原指酒桶取酒塞嘴
+**词源**：古法语 fausset「塞子、龙头」← fausser「弄坏、使失效」← 拉丁 falsus「假的」（false 家族；两说之一）；约 1400 年入英语，原指酒桶取酒塞嘴
 **英美**：美 faucet ／ 英 tap ｜ 拼读 au=/ɔː/、-et=/ɪt/
 
 ## 来源
 
 - raw/vocab-inbox.md（2026-10-01 收录；出处：书籍《Mattering》）
-- 备注：本轮出网仍被 sinkhole（198.18.0.0/15），未对照 etymonline——词源按既有知识撰写，「得名理据说」标**待验证**，已登入 [[english-vocabulary]] 的待回补清单
+- 备注：2026-10-01 清账——WebSearch 转引 etymonline 核对：约 1400 年入英语、原义「酒桶塞嘴 / 龙头」无误；得名理据经核对仍无定论（etymonline 标 fausset 深层来源「不明（unknown origin）」：fausser／falsare「false 家族」说 ｜ faux／fauces「咽喉」指小说并存、未裁断）——该点仍标待验证；原「容易失效／临时替代」两说未见出处，已随之改写

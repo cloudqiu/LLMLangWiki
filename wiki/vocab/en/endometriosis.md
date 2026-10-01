@@ -25,7 +25,7 @@ root: "endo-（希腊「在内」）+ metr-（希腊 mētra「子宫」）+ -ios
 
 **词源 / 构词**
 - **拆解**：endo-（词头，希腊 endon「在内」）+ metr-（词根，希腊 mētra「子宫」，亦作 metro-）+ -iosis（词尾，希腊 -ōsis，表「病理状态 / 过程」的名词后缀）；字面＝「子宫内膜的病变状态」
-- **演变**：先有解剖学术语 **endometrium**（子宫内膜，19 世纪拉丁化构词：endo- + metr- + -ium）→ 加病名后缀 -osis → **endometriosis**；该词一般追溯到美国妇科病理学家 **John A. Sampson（1927 年）**的命名与推广，**待验证**（本轮无网络，未能核对权威源）
+- **演变**：先有解剖学术语 **endometrium**（子宫内膜，19 世纪拉丁化构词：endo- + metr- + -ium）→ 加病名后缀 -osis → **endometriosis**；该词一般追溯到美国妇科病理学家 **John A. Sampson 1927 年**（美国妇科协会年会）的命名与推广（据医学词典与文献，2026-10-01 经检索转引；etymonline 未收录此词）；另有词典将英语文献首见记作 1920–25 / 1925 年——首见年份两说并存，**仍标待验证**
 - **同族 / 派生**
   - 同词根 metr-「子宫」：endometrium（子宫内膜）、myometrium（子宫肌层）、parametrium（子宫旁组织）、metritis（子宫炎）——另有一套希腊词根 hyster-（hystera 亦为「子宫」，见 hysterectomy 子宫切除术）
   - 同后缀 -osis（病理状态）：fibrosis、thrombosis、cirrhosis、osteoporosis、neurosis
@@ -46,10 +46,10 @@ root: "endo-（希腊「在内」）+ metr-（希腊 mētra「子宫」）+ -ios
 endometriosis
 ??
 **n.** 子宫内膜异位症——子宫内膜样组织长到子宫腔之外
-**词源**：endo-（希腊「在内」）+ metr-（希腊 mētra「子宫」）+ -iosis（希腊病理后缀）＝「内膜的病变状态」；先有 endometrium，再加 -osis；一般认为 1927 年由 Sampson 命名（待验证）
+**词源**：endo-（希腊「在内」）+ metr-（希腊 mētra「子宫」）+ -iosis（希腊病理后缀）＝「内膜的病变状态」；先有 endometrium，再加 -osis；1927 年由 Sampson 命名（2026-10-01 清账核实）
 **易混**：endometritis（子宫内膜炎，-itis）｜adenomyosis（子宫腺肌病）｜endometrium（正常内膜）
 
 ## 来源
 
 - raw/vocab-inbox.md（2026-10-01 收录；出处：书籍《Mattering》）
-- 备注：本轮出网仍被 sinkhole（DNS 全部指向保留段 198.18.0.0/15），etymonline / 医学词典不可达——「1927 年 Sampson 造词」标**待验证**，与 [[unto]] 的词源核对一并留待联网回补
+- 备注：2026-10-01 清账——WebSearch 转引医学词典与文献核对（etymonline 未收录该词）：1927 年 Sampson 命名说获多方支持；英语首见年份另有 1920–25 / 1925 年之说，**仍标待验证**（两说并存已如实记录）

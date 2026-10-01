@@ -249,3 +249,14 @@
 - 新建 [[en-pron]]：代 de + 名词（j'en parle）与部分冠词 / 数量回指（j'en ai deux）；位置、否定、命令式（parles-en !）、固定搭配（en avoir besoin / s'en aller / en vouloir à）；词源 ← 拉丁 inde「从那里」（**9 世纪** int / ent，Académie——经检索转引；《罗兰之歌》已见今用，DMF 转引）
 - 连带清账：[[en-parler]] 的「en 首见年代待验证」已核（9 世纪 int / ent）并补链 [[en-pron]]；[[la-pron]] 的 y / en 指向链接更新
 - hub：命名登记表 +en 行、词条 50→51、候选「y / en 双璧」更新 + 新增「附着代词全景」候选；index Stats（fr 50→51，总 67→68）
+
+## [2026-10-01] lint | 存量清账：fr 38 + en 7 词源待回补——8 批子代理「检索转引」核对（45 页更新，含多处实质订正）
+
+- 触发：用户拍板「存量清账」并「fan out subagents」——workflow 派 8 批编辑子代理（fr 6 批 ×6–7 词、en 2 批 ×3–4 词）+ 1 只读核查代理；共 9 代理 / 404 次工具调用 / 92 万 token / 约 14 分钟
+- 方法：CNRTL / etymonline 直连仍 sinkhole（复测 198.18.0.128 / 134），全程 **WebSearch 转引** CNRTL/TLFi/Académie（en：etymonline、医学词典）；只采纳检索明证、转引注明出处；无定论者保留「待验证」，不折中不编造
+- 结果：**45/45 页更新**（核查 ok=true）——各页「词源/构词」「英法交叉核对行」「## 来源」三节最小改动；另 8 页闪卡卡背随实质订正同步（?? 结构完好）；frontmatter / 释义 / 例句未动
+- **实质订正（旧稿矛盾/过时内容，符合显式记录原则）**：**détective** 法语借入实为 1871（Verne；原「约 1907」有误，闪卡同步）；**découvrir** 承晚期拉丁 discooperire（非「后世加 dé-」）；**gouvernement** governess 源自法语 governeresse（非英语自造）；**rester**「休息」义 rest 系日耳曼本族词、restaurant 出 restaurare ≠ restare（原「同家族」改正）；**gâteau** gâter 与 gâteau 非同源（原推测改正）；**présentateur** 英语 presenter 系自构词（非借自法语）；**court** curtail ← 古法语 courtault（非 court + -al）；**mot** bon mot 1735（原 17c. 改正）；**moderne / littérature / émission** 年代订正；**faucet** 理据改「两说并存」；**sew** 同源形式按 etymonline 校正
+- 遗留 **15 项**真正无定论、如实保留「待验证」（明细在各词条与核查报告）：emission（节目义年代带 1906–1938 区间）、auteur（author -th- 机制两说）、inacceptable（capere 家族入英路径）、prendre（comprise / apprehend 路径）、environ（virer 两说；environment 入英路径）、connaitre（reconnoiter / ignore）、jamais（jamais vu 年代）、deja（Boirac 1876 转述）、litterature（alliteration 等）、in-sight（sight~sequi 假说）、faucet（fausset 两说）、endometriosis（首见 1927 vs 1925 两说）等
+- 核查代理另报：① [[en-parler]] 漏改一行已补（en 首见 9 世纪已核）；② [[prendre]] prison / prize / surprise / reprisal 归类错标（原在「共祖」栏而描述为「经古法语借入」）——已改归「借入英语」并注订正；③ 13 页「待验证」仅为「无遗留」否定句（非债务）
+- 更新：[[french-vocabulary]] / [[english-vocabulary]]（两边「待回补」清单 → 已清账）、`index.md`（Backlog）；无定论项清单存本条目
+- 待办：第六批新页（lettre / vouloir / physique / membre / recevoir / bancaire / aujourd'hui / la-art / en-parler）与 [[counterweight]] 的少量细节、及上述可复检的残留项 → 第二批子代理复清（随后条目）

@@ -30,14 +30,14 @@ root: "long（← 拉丁 longus「长」）+ temps（← 拉丁 tempus「时间�
 
 **词源 / 构词**
 - **拆解**：**long**（← 拉丁 longus「长」）+ **temps**（← 拉丁 tempus「时间」）——「长时间」的并列复合
-- **演变**：拉丁 longus「长」→ 法语 long；拉丁 tempus「时间」→ 法语 temps；二者复合为 longtemps（**年代待验证**）
+- **演变**：拉丁 longus「长」→ 法语 long；拉丁 tempus「时间」→ 法语 temps；二者复合为 longtemps（TLFi 系定年：词组 long temps 已见约 980 年；连写定年两说不一——DHLF 作 1498-1515、另引 TLFi 作 1563——2026-10-01 经检索转引）
 - **同族 / 派生**：long（长的）、longueur（长度）、temps（时间）、le temps long（漫长的时光）；英语一侧见下节
 - **记忆钩**：longtemps ＝ long（长）+ temps（时间）＝「长时间」；英语 long（长）与 tempest（暴风雨，← tempus）是它的两个共祖
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：无——longtemps 本身不借入英语
 - **共祖未借入**：**long**（英语 long ← 日耳曼，与法语 long ← 拉丁 longus 同出 PIE \*del-「长」——**共祖非借入**）；**tempest / tempo / temporary / tense / contemporary**（← 拉丁 tempus「时间」——temps 的共祖）
-- 核对：long / tempus 系共祖关系标**待验证**，待联网核实
+- 核对：已核实（据 etymonline，2026-10-01 经检索转引）——long 线：etymonline 明言拉丁 longus 是英 long 的「同源而非来源」，共祖非借入无误；tempus 线：英 tempest（13c. 末）等经古法语 tempeste 出自拉丁 tempus「时间」词族，与法语 temps 同出拉丁 tempus
 
 **同义 / 搭配 / 易混**
 - 搭配：`rester longtemps`（久留）；`attendre longtemps`（久等）；`il y a longtemps`（很久以前）；`il y a longtemps que…`（……很久了）
@@ -57,4 +57,4 @@ longtemps
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「longtemps 复合年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：long temps 约 980 年已见、连写定年两说（1498-1515 / 1563）并列记录；long/tempus 共祖关系已核实

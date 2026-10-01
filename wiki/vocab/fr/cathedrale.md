@@ -33,14 +33,14 @@ root: "拉丁 cathedra「座椅」（← 希腊 kathedra：kata- + hedra 座）�
 
 **词源 / 构词**
 - **拆解**：拉丁 **cathedra**「座椅、坐席」（← 希腊 **kathedra**：kata-「向下」+ hedra「座、基」）+ 形容词尾 -alis → 教会拉丁 (ecclesia) cathedralis「有主教之座的（教堂）」→ 法语 cathédrale
-- **演变**：希腊 kathedra「座椅」→ 拉丁 cathedra（教师的讲席、主教的宝座）→ 教会拉丁 ecclesia cathedralis → 古法语 cathédrale（12c. 起，**待验证**）——「主教之座所在之堂」即主教座堂；后世俗化泛指「大教堂」
-- **同族 / 派生**：法语同族：cathèdre（讲席，罕用）、chaire（讲坛——与 cathédrale 同为 cathedra 后裔）、chaise（椅子——或为 chaire 的方言变体，**待验证**）；英语一侧见下节
+- **演变**：希腊 kathedra「座椅」→ 拉丁 cathedra（教师的讲席、主教的宝座）→ 教会拉丁 ecclesia cathedralis → 古法语 **cathédral**（形容词，12c. 起，用于 église cathédrale 等；名词 **cathédrale** 17c. 起方独立使用；据 CNRTL/Académie française，2026-10-01 经检索转引）——「主教之座所在之堂」即主教座堂；后世俗化泛指「大教堂」
+- **同族 / 派生**：法语同族：cathèdre（讲席，罕用）、chaire（讲坛——与 cathédrale 同为 cathedra 后裔）、chaise（椅子——14c. 首见 chaeze，本为 chaire 的方言变体：巴黎话 r 间音变 z；据 CNRTL，2026-10-01 经检索转引）；英语一侧见下节
 - **记忆钩**：教堂之名 = 主教的「椅子」（cathedra）——一所教堂升级为主教座堂，就因为它放了那把椅子
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**cathedral**（← 古法语/教会拉丁 ← 本词，13c.）；**chair**（← 古法语 chaiere ← 拉丁 cathedra——与 cathedral 是**同一拉丁词的双重借入**：一个走教会拉丁路线、一个走日常法语路线，词形分道扬镳）；**chaise**（← 法语 chaise，18c. 借入英语）；**cathedra**（拉丁语借词，学术用语——ex cathedra「以权威口吻」）
-- **共祖未借入**：几何词尾 **-hedron**（polyhedron、tetrahedron——希腊 hedra「座/面」，与 cathedra 的 -hedra 同）；sanhedrin（← 希腊 synedrion「坐在一起」，**待验证**）
-- **核对**：wiktionary / etymonline / CNRTL 待联网核实（12c. 等年代标「待验证」）；英语词库尚未收录 cathedral / chair / chaise
+- **共祖未借入**：几何词尾 **-hedron**（polyhedron、tetrahedron——希腊 hedra「座/面」，与 cathedra 的 -hedra 同）；sanhedrin（1580s 入英 ← 晚期希伯来语 ← 希腊 synedrion「坐在一起」= syn- + hedra「座」；据 etymonline/Wikipédia，2026-10-01 经检索转引）
+- **核对**：2026-10-01 经检索转引核对——12c. 年代实指形容词 **cathédral**（CNRTL/Académie française），名词 cathédrale 17c. 起；chaise 14c. 首见、为 chaire 方言变体（CNRTL，r 间音变 z）；sanhedrin「坐在一起」说成立（etymonline）。英语词库尚未收录 cathedral / chair / chaise
 
 **同义 / 搭配 / 易混**
 - 搭配：`la cathédrale gothique / romane`；`la cathédrale Notre-Dame de…`；`visiter la cathédrale`
@@ -59,4 +59,4 @@ cathédrale
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：Duolingo；inbox 形式 `cathedrate`——疑似拼写变体，**待确认**）
-- 备注：本轮出网仍被 sinkhole（198.18.0.0/15），CNRTL 不可达——年代细节标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：12c. 系形容词 cathédral 首见、名词 cathédrale 迟至 17c.（CNRTL/Académie française）；chaise 14c. 首见、确为 chaire 的方言变体；sanhedrin 希腊 synedrion「坐在一起」说成立——无剩余未核实项

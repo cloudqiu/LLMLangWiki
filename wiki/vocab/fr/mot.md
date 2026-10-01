@@ -30,14 +30,14 @@ root: "拉丁 muttum「嘀咕声」← muttire「嘟囔」"
 
 **词源 / 构词**
 - **拆解**：单语素——直接承自拉丁 **muttum**（muttire「嘟囔」的中性过去分词名词化）「含糊的一声、嘀咕」
-- **演变**：拉丁 muttire「嘟囔」→ 通俗拉丁 muttum「一声嘟囔」→ 中古法语 **mot**「词、字」——法语把「含糊的一声」抬举成了「词」；而真正的拉丁「词」verbum 在法语里演化成了 **verbe**（动词 / 圣言）与 **parole**（言语）——一个词根升格、一个词根分工（**年代待验证**）
+- **演变**：拉丁 muttire「嘟囔」→ 通俗拉丁 muttum「一声嘟囔」→ 古法语 **mot**「词、字」——法语把「含糊的一声」抬举成了「词」；而真正的拉丁「词」verbum 在法语里演化成了 **verbe**（动词 / 圣言）与 **parole**（言语）——一个词根升格、一个词根分工（已核：法语词典资料记 mot 最早见于 10 世纪，etymonline 记法语 mot〔义「话语、短句」〕于 12c.——2026-10-01 经检索转引）
 - **同族 / 派生**：motus（感叹词「别作声」）；派生：mot-clé（关键词）、mot à mot（逐字）、mot pour mot（逐字）、mot d'ordre（口令、口号）、mots croisés（填字游戏）
 - **记忆钩**：法语 mot 来自「嘟囔」——古人眼里，词最初就是「嘴里咕哝的一声」；英语 mute（不出声）是它同根的远亲
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**mot**（直接借入，17c.，主要指「妙语、隽语」，现仅存于词组 **bon mot**「俏皮话」与 **mot juste**「最贴切的字眼」——后者出自福楼拜的文体追求）；**motet**（音乐术语，← 法语「小词」——**待验证**）
+- **借入英语**：**mot**（直接借入：英语 1580s 先作「格言」义〔今废〕、1813 起为「妙语」义；现仅存于词组 **bon mot**「俏皮话」〔英语 1735 已见——etymonline，Collins 作 1725–35〕与 **mot juste**「最贴切的字眼」〔英语 1912——etymonline〕——后者出自福楼拜的文体追求；2026-10-01 经检索转引）；**motet**（音乐术语，← 古法语 motet「小词」〔mot 的指小，13c.〕，英语末 14c. 已见——etymonline）
 - **共祖未借入**：**mute**（← 拉丁 mutus「不出声的」）、**mutter**（嘀咕——与 muttire 同属拟声家族）、**murmur**（拟声）——英语 mute / mutter 与法语 mot 同出拉丁 mut-「嘟囔」拟声根，但系拉丁直接或英语自身，**非借自法语**
-- 核对：bon mot / mot juste 借入年代标**待验证**，待联网核实
+- 核对：已核实（2026-10-01 经检索转引）——bon mot 英语 1735（etymonline；Collins 1725–35）；mot juste 1912（etymonline）；英语 mot 本词 1580s「格言」义 / 1813「妙语」义（etymonline）；motet 英语末 14c.，← 古法语 motet（etymonline）。
 
 **同义 / 搭配 / 易混**
 - 搭配：`un mot de passe`（密码）、`mot-clé`（关键词）、`mot à mot`（逐字）、`en un mot`（一句话、总之）、`bon mot`（俏皮话）、`le mot juste`（最贴切的字眼）
@@ -57,4 +57,4 @@ mot
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「muttum→mot 演变年代」「bon mot 借入年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：mot 承通俗拉丁 muttum ← muttire，法语最早见 10 世纪（词典资料），etymonline 记 12c.；bon mot 1735、mot juste 1912、motet 末 14c. 已核（etymonline）——词源与年代项均已核实，无遗留；inbox 出处（推断 Duolingo）仍待用户确认。

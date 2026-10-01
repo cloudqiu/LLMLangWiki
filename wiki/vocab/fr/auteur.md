@@ -33,14 +33,14 @@ root: "拉丁 auctor「创造者、发起人」← augere「增加」"
 
 **词源 / 构词**
 - **拆解**：拉丁 **auctor**「创造者、发起人、增进者」← **augere**「增加、使生长」（PIE \*aug-「增加」）+ 施事尾 -tor
-- **演变**：拉丁 auctor → 古法语 **autor / autour** → 现代法语 **auteur**（法语拼写不补 -th-）；英语 author 则在中古英语借入后于 15–16c. 按拉丁 auctor 补回 -th-（**年代待验证**）——同源两词形，一个加了 h、一个没加
+- **演变**：拉丁 auctor → 古法语 **autor / autour** → 现代法语 **auteur**（法语拼写不补 -th-）；英语 author 则在中古英语借入后（c.1300 已见，作 autor——etymonline）于 16c. 出现 -th- 拼写（来源有「按拉丁 auctor 补回」与「误溯希腊语 authentēs」两说——SAOB 引 16c. 文献；机制**待验证**）——同源两词形，一个加了 h、一个没加
 - **同族 / 派生**：autoriser（授权）、autorité（权威）、autoritaire（专制的）、augmenter（增加）、augure（预兆）；英语一侧见下节
 - **记忆钩**：auteur ＝ 「使作品生长（augere）出来的人」——作者就是「增量的人」；augmenter（增加）是其近亲
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**author**（← 古法语 / 盎格鲁-法语 autor/autour ← 拉丁 auctor；英语 16c. 补回 -th- 贴合拉丁拼写）；**authority / authorize**（← 法语 autorité / autoriser ← 拉丁 auctoritas）；**auteur**（20c. 中再次借入——法国电影批评「作者论」la politique des auteurs 的术语，指「具有个人风格的导演」）——**auteur 与 author 是同一拉丁词的双重借入（doublet）**：一个中世纪走普通词路、一个 20c. 走电影/学术路
-- **共祖未借入**：**augment**、**auction**（← 拉丁 auctio）、**auxiliary**（← 拉丁 auxilium，与 augere 关系有争议，**待验证**）——同出拉丁 augere 家族，但经拉丁直接入英，非借自法语
-- 核对：author 补 -th- 年代、auteur 电影术语借入年代标**待验证**，待联网核实；英语词库暂未收录 author / auteur，如后续收词两页互链
+- **借入英语**：**author**（← 古法语 / 盎格鲁-法语 autor/autour ← 拉丁 auctor；英语 16c. 补回 -th- 贴合拉丁拼写）；**authority / authorize**（← 法语 autorité / autoriser ← 拉丁 auctoritas）；**auteur**（1962 年再次借入〔etymonline，2026-10-01 经检索转引〕——法国电影批评「作者论」la politique des auteurs 的术语，指「具有个人风格的导演」）——**auteur 与 author 是同一拉丁词的双重借入（doublet）**：一个中世纪走普通词路、一个 20c. 走电影/学术路
+- **共祖未借入**：**augment**、**auction**（← 拉丁 auctio）、**auxiliary**（← 拉丁 auxilium「援助」——etymonline 将之系于 auctus / augere 家族〔PIE \*aug-〕；原注「与 augere 关系有争议」未获确证——2026-10-01 经检索转引）——同出拉丁 augere 家族，但经拉丁直接入英，非借自法语
+- 核对：已核实（2026-10-01 经检索转引）——英 author c.1300 借入（autor）、auteur 1962 再借入（etymonline）；-th- 拼写 16c. 已见（SAOB 引 16c. 文献），「按拉丁补回」机制**仍标待验证**；英语词库暂未收录 author / auteur，如后续收词两页互链
 
 **同义 / 搭配 / 易混**
 - 搭配：`l'auteur d'un livre / d'un crime`；`auteur-compositeur`（词曲作者）；`droit d'auteur`（著作权）；`film d'auteur`（作者电影）
@@ -61,4 +61,4 @@ auteur
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「author 补 -th- 年代」「auteur 借入年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：auteur 承拉丁 auctor（CNRTL 记古法语 auctur 1160-74 已见）；英 author c.1300 借入、auteur 1962 再借入（etymonline）均已核；-th- 拼写机制仍标待验证；inbox 出处（推断 Duolingo）仍待用户确认。

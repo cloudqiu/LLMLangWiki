@@ -34,14 +34,14 @@ root: "通俗拉丁 *tropare「作曲、寻章摘句」← 拉丁 tropus「修�
 
 **词源 / 构词**
 - **拆解**：单语素——通俗拉丁 ***tropare**「以转义手法作诗」← 拉丁 **tropus**「转义、比喻」← 希腊 **tropos**「转向、方式」
-- **演变**：希腊 tropos「转向」→ 拉丁 tropus「比喻」→ 通俗拉丁 *tropare「寻章摘句、作曲」→ 中古法语 trover/trouver「寻得（诗句）」→ 泛化「找到」——「找到」义由「作诗时寻得妙句」引申而来（**年代待验证**）
+- **演变**：希腊 tropos「转向」→ 拉丁 tropus「比喻」→ 通俗拉丁 *tropare「寻章摘句、作曲」（另有 *turbare 等竞争假说）→ 古法语 trover/trouver「寻得（诗句）」（最早见载约 980 年：trovez／trovat）→ 泛化「找到」——「找到」义由「作诗时寻得妙句」引申而来（据 Wiktionnaire，2026-10-01 经检索转引）
 - **同族 / 派生**：retrouver（找回、重逢）、trouvaille（妙得、意外的发现）、troubadour（游吟诗人，古普罗旺斯语同根）；英语一侧见下节
 - **记忆钩**：trouver 本义是「作诗时寻章摘句」——诗人「找到」了妙句，后来什么都「找到」了
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**trouvaille**（「意外的好发现、妙得」，← 法语 trouver 的名词化，20c. 借入，**年代待验证**）；**troubadour**（「游吟诗人」，← 古普罗旺斯语 trobador ← trobar「作曲」——与本词同根，经普罗旺斯语入英）；**trove**（**treasure trove**「无主宝藏」，← 盎格鲁-法语 tresor trové「被找到的财宝」——trove 正是法语 **trouvé** 的遗迹！）；**contrive**（「设法、谋划」，← 古法语 controver/trover——**待验证**）
+- **借入英语**：**trouvaille**（「意外的好发现、妙得」，← 法语 trouver 的名词化，英语 19c. 借入——据检索转引（Collins 等），2026-10-01）；**troubadour**（「游吟诗人」，← 古普罗旺斯语 trobador ← trobar「作曲」——与本词同根，经普罗旺斯语入英）；**trove**（**treasure trove**「无主宝藏」，← 盎格鲁-法语 tresor trové「被找到的财宝」——trove 正是法语 **trouvé** 的遗迹！）；**contrive**（「设法、谋划」，← 古法语 controver ← 晚期拉丁 contropare（com- + tropus）——英语 14c. 初借入（据 etymonline，2026-10-01 经检索转引））
 - **共祖未借入**：**trope / tropism**（← 希腊 tropos，经希腊/拉丁直接入英，共祖非借入）
-- 核对：trouvaille / troubadour / trove 借入年代标**待验证**，待联网核实
+- 核对（2026-10-01 经检索转引）：troubadour 英语 1727 ← 法语 troubadour（16c.）← 古普罗旺斯语 trobador（etymonline）；treasure trove 英语 14c. 晚 ← 盎格鲁-法语 tresor trové（12c. 晚），trove 1888 起独立成词（etymonline）；trouvaille 英语 19c. 借入（Collins 等）——均已核实，无遗留
 
 **同义 / 搭配 / 易混**
 - 搭配：`trouver qch / qn`（找到，直接宾语）；`trouver que + 从句`（觉得）；`trouver + adj.`（觉得……：je le trouve beau）；`se trouver`（位于）
@@ -62,4 +62,4 @@ trouver
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `trouve` → trouver）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「*tropare 演变」与借入年代标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：古法语 trover 最早见载约 980 年（Wiktionnaire）；trouvaille（英语 19c.）／troubadour（英语 1727）／trove（1888）／contrive（14c. 初）借入年代均已核实（etymonline／Collins 等）；无遗留待验证项

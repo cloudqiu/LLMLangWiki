@@ -31,14 +31,14 @@ root: "jam（拉丁 jam「已经」）+ mais（拉丁 magis「更多」）——
 
 **词源 / 构词**
 - **拆解**：**jam**（拉丁 jam「已经」）+ **mais**（拉丁 magis「更多」）——「（无论）更多时候」→「任何时刻」
-- **演变**：拉丁 jam「已经」→ 古法语 ja + mais「更多」→ jamais「任何时候」→ 与否定词 ne 连用演化为「永不」（**年代待验证**）；与 **déjà** 同出 jam（见 [[deja]]）——**déjà「已经」与 jamais「从不」同根反义**
+- **演变**：拉丁 jam「已经」→ 古法语 ja + mais「更多」→ jamais「任何时候」→ 与否定词 ne 连用演化为「永不」（CNRTL/TLFi 定年：ja mais 组合可溯至 10 世纪下半叶（St Léger「ja non… mais」），约 1100 年《罗兰之歌》已见「ne… ja mais」——2026-10-01 经检索转引）；与 **déjà** 同出 jam（见 [[deja]]）——**déjà「已经」与 jamais「从不」同根反义**
 - **同族 / 派生**：déjà（已经）、toujours（总是——tous + jours，另一路）；英语一侧见下节
 - **记忆钩**：jamais ＝ jam（已经）+ mais（更多）——「再多的时候」→ 从不；跟 déjà 是同一根藤上的两个瓜（一正一反）
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**jamais vu**（「从未见过」——心理学术语，déjà vu 的反面，← 法语 jamais vu「从未见过」）；英语 never / ever 为日耳曼词，**无借入**
 - **共祖未借入**：无显著（拉丁 jam 无英语后代）
-- 核对：jamais vu 借入年代标**待验证**，待联网核实
+- 核对：jamais vu 借入年代**待验证**——2026-10-01 经检索未见确切定年（etymonline 未收该词条，其 déjà vu 作 1903），暂无可靠来源背书
 
 **同义 / 搭配 / 易混**
 - 搭配：`ne…jamais`（从不：je ne fume jamais）；疑问 `as-tu jamais…?`（你曾……吗）；`à jamais / pour jamais`（永远）
@@ -59,4 +59,4 @@ jamais
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「jam+mais 凝固年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：jam+mais 组合及与 ne 连用年代已核实（CNRTL/TLFi：10 世纪下半叶起、约 1100 年已见「ne… ja mais」）；jamais vu 借入年代未见确切定年，仍标待验证

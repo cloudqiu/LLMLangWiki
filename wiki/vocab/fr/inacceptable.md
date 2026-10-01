@@ -30,14 +30,14 @@ root: "in-（否定）+ acceptable（可接受的）← 拉丁 acceptare ← acc
 
 **词源 / 构词**
 - **拆解**：**in-**（否定）+ **acceptable**「可接受的」（← 拉丁 **acceptabilis** ← **acceptare**「接受」← **accipere**「拿取」＝ ad-「向」+ **capere**「拿」）——「拿不过来」→「不可接受」
-- **演变**：拉丁 capere「拿」→ accipere「接受」→ acceptabilis「可接受的」→ 法语 acceptable → 加 in- 成 inacceptable（**年代待验证**）
+- **演变**：拉丁 capere「拿」→ accipere「接受」→ acceptabilis「可接受的」→ 法语 acceptable → 加 in- 成 inacceptable（已核：TLFi 记首见 1779-04-11〔Beaumarchais〕；Académie 1835 年起收录——2026-10-01 经检索转引）
 - **同族 / 派生**：accepter（接受）、acceptable（可接受的）、acceptation（接受）；capere 家族：concevoir（构想）、recevoir（接收）、percevoir（感知）；英语一侧见下节
 - **记忆钩**：inacceptable ＝ in（不）+ ac（向）+ capere（拿）＝「拿不进来」——同根的 recevoir（接收）、concevoir（构想）都在「拿」这条线
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**acceptable**（← 拉丁 acceptabilis / 古法语）；**accept / receive / conceive / capture / perception / receptive**（← 拉丁 accipere / capere 家族——capere「拿」是核心，经拉丁或法语入英，**路径待验证**）
+- **借入英语**：**acceptable**（已核：英语晚 14c. 已见，← 古法语 acceptable / 直接拉丁 acceptabilis 双路径——etymonline，2026-10-01 经检索转引）；**accept / receive / conceive / capture / perception / receptive**（← 拉丁 accipere / capere 家族——capere「拿」是核心，经拉丁或法语入英，**路径待验证**）
 - **关键前缀差异**：英语说 **unacceptable**（日耳曼否定前缀 un-），法语说 **inacceptable**（拉丁否定前缀 in-）——同义、同根 acceptable，但否定前缀不同，是「平行构词」的范例
-- 核对：acceptable 借入路径标**待验证**，待联网核实
+- 核对：已核实（2026-10-01 经检索转引）——acceptable 英语晚 14c. 已见，← 古法语 acceptable / 拉丁 acceptabilis（etymonline）；acceptable 法语 1165 起已见、源自拉丁基督教用语 acceptabilis（Tertullien 已见，TLFi/Littré）；unacceptable 英语晚 15c.＝un- + acceptable（etymonline）。
 
 **同义 / 搭配 / 易混**
 - 搭配：`une situation / un comportement inacceptable`；`c'est inacceptable`（这是不可接受的）
@@ -57,4 +57,4 @@ inacceptable
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「inacceptable 构词年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：inacceptable 系 acceptable + in-，TLFi 记首见 1779-04-11（Beaumarchais）；acceptable 法语 1165 起已见、系拉丁基督教用语 acceptabilis（Tertullien）；英 acceptable 晚 14c.、unacceptable 晚 15c.（etymonline）已核；capere 家族诸词（accept / receive / conceive 等）入英路径未核，仍标待验证；inbox 出处（推断 Duolingo）仍待用户确认。

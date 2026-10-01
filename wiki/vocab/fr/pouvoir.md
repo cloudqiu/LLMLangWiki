@@ -34,14 +34,14 @@ root: "拉丁 posse「能够」（pot-「能」+ esse「是、在」）"
 
 **词源 / 构词**
 - **拆解**：拉丁 **posse**「能够」＝ **pot-**「能」+ **esse**「是、在」——字面「有能力去做/存在」
-- **演变**：拉丁 posse → 古法语 pooir → 法语 pouvoir（动词）与 pouvoir（名词「能力、权力」，由「能」名词化）；**年代待验证**
+- **演变**：拉丁 posse（民间拉丁 \*potere 改形）→ 古法语 poeir / pooir → 法语 pouvoir——动词 9 世纪作 **poeir**、15 世纪作 **pouvoir**（Académie 9e）；名词 pouvoir「能力、权力」由「能」名词化（据 CNRTL/Académie 9e，2026-10-01 经检索转引）
 - **同族 / 派生**：puissant（强大的）、puissance（力量、国力）、possible（可能的）；英语一侧见下节
 - **记忆钩**：pouvoir ＝ posse「有能（pot-）+ 存在（esse）」——「能」就是「有能力存在于事」；英语 power 正是法语本词的借入
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**power**（← 古法语 poeir/povoir「能够」——先作动词「能够」后作名词「力量、权力」，中古英语借入）；**puissance / puissant**（← 法语，书面/诗语借入）；**empower / empowerment**（英语在 power 上加 en- 自造）
 - **共祖未借入**：**possible / potent / potential / potentate / omnipotent**（← 拉丁 posse / potens 家族——经拉丁直接入英，共祖非借入）
-- 核对：power 借入年代标**待验证**，待联网核实
+- 核对：power 约 1300 年以名词义借入（盎格鲁-法语 pouair / 古法语 povoir 的不定式名词化用法）；英语动词 power 15 世纪初见（据 etymonline/OED，2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`pouvoir + 不定式`（能/可以）；`je peux / il peut`；`peut-être`（也许——peut + être，字面「可能-是」）；`le pouvoir exécutif / législatif`（行政/立法权）
@@ -62,4 +62,4 @@ pouvoir
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `peut` → pouvoir）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「posse→pouvoir 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：pouvoir 动词 9 世纪作 poeir、15 世纪作 pouvoir（Académie 9e；民间拉丁 \*potere）；英语 power 约 1300 年借自盎格鲁-法语 pouair / 古法语 povoir（etymonline/OED）。

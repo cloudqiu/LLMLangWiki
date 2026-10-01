@@ -30,7 +30,7 @@ root: "借自英语 deodorant ← de-（去）+ odor（气味，拉丁 odor）+ 
 - 近义分工：déodorant（体香剂，人用）／ **désodorisant**（除臭剂，房间/空气用）／ **anti-transpirant**（止汗剂）
 
 **词源 / 构词**
-- **拆解**：**反向回借（法 ← 英）**——英语 **deodorant**（19c. 自拉丁构件造词：de-「去」+ **odor**「气味」← 拉丁 odor + -ant）→ 法语 **déodorant**（整体借入，**年代待验证**）
+- **拆解**：**反向回借（法 ← 英）**——英语 **deodorant**（19c. 自拉丁构件造词：de-「去」+ **odor**「气味」← 拉丁 odor + -ant）→ 法语 **déodorant**（整体借入——英语造词 etymonline 记 1848 年、「体用」义 1860 年；法语借入 GRLF/Rey 记 1955 年，Académie 10e 记 20 世纪借自英语）
 - **演变**：法语本土本有 désodorisant（dés- + odeur + -isant「除臭的」），déodorant 是英语造词后的再借入——与 [[detective]] 同为「法 ← 英」方向
 - **同族 / 派生**：odeur（气味）、odorat（嗅觉）、désodorisant（除臭剂）；英语一侧见下节
 - **记忆钩**：déodorant ＝ de（去）+ odor（气味）——「去味剂」；法语自己的词是 désodorisant，déodorant 是英语造好了又借回来的
@@ -38,7 +38,7 @@ root: "借自英语 deodorant ← de-（去）+ odor（气味，拉丁 odor）+ 
 **英法交叉核对（受影响的英语词）**
 - **反向回借（法 ← 英）**——本例正主：**déodorant** 借自英语 **deodorant**（19c. 造词）；注意方向与 [[detective]] 相同
 - **英语侧词族**：**odor / odour / odorous / odourless / malodorous**（← 古法语 odour ← 拉丁 odor「气味」——deodorant 的构件来源）；**odor** 在英式英语拼 odour
-- 核对：deodorant 造词年代与法借入年代标**待验证**，待联网核实
+- 核对：英语 deodorant 1848 年造词（etymonline；体用义 1860）；法语 déodorant 借入 1955 年（GRLF/Rey）；Académie 10e：「xxe siècle. Emprunté de l'anglais deodorant」（2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`mettre du déodorant`（涂体香剂）；`un déodorant en spray / en stick`（喷雾/膏状体香剂）
@@ -58,4 +58,4 @@ déodorant
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `deodorant` → 补重音 déodorant）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「deodorant 造词/借入年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：英语 deodorant 1848 年造词（etymonline），法语 déodorant 借入 1955 年（GRLF/Rey），Académie 10e 记 20 世纪借自英语 deodorant。

@@ -33,14 +33,14 @@ root: "拉丁 novellus「新的、年轻的」（novus「新」的指小词）"
 
 **词源 / 构词**
 - **拆解**：拉丁 **novellus**「新的、年轻的」（**novus**「新」+ 指小尾 -ellus）→ 通俗拉丁 novellu → 古法语 novel / nuef → 现代 nouveau（阳）/ nouvelle（阴）
-- **演变**：PIE ***newo-**「新」→ 拉丁 novus → 指小 novellus → 古法语 **novel**（＝英语 novel 的来源）与 **nuef**（→ 现代法语 **neuf**「崭新」）→ nouveau 由 novellus 而来（**年代待验证**）；注意 **neuf「九」** 与 **neuf「崭新」** 同形，分别出自 novem（九）与 novus（新）
+- **演变**：PIE ***newo-**「新」→ 拉丁 novus → 指小 novellus → 古法语 **novel**（英语 novel〔形容词〕的来源）与 **nuef**（→ 现代法语 **neuf**「崭新」）→ nouveau 由 novellus 而来（已核：TLFi 记古法语 novel 最早见于 12c. 初〔Psautier d'Oxford，义「年轻」〕；Académie 9e 亦记 12e siècle——2026-10-01 经检索转引）；注意 **neuf「九」** 与 **neuf「崭新」** 同形，分别出自 novem（九）与 novus（新）
 - **同族 / 派生**：neuf（崭新，adj.）、nouveauté（新事物、新品）、nouvelle（n.f. 消息、短篇小说）、nouvellement（最近）、renouveler（更新、续）、nouveau-né（新生儿）、la Nouvelle-Orléans（新奥尔良）；英语一侧见下节
 - **记忆钩**：nouveau 是 novus「新」的「小新」（指小词）——新得还很年轻；「新」字辈三兄弟 nouveau / neuf / récent 各自守一块
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**novel**（adj.「新奇的」15c.、n.「小说」16c. ← 古法语 novel ← 拉丁 novellus——即本词的古法语形态，**双重借入的经典样本**）；**novelty**（← 古法语 novelte）；**novice**（← 古法语 novice ← 拉丁 novicius）；**nouveau**（原样借入，仅存于 **nouveau riche**「暴发户」、**art nouveau**「新艺术运动」、**nouvelle cuisine**「新派烹饪」等词组）；**novella**（← 意大利语 novella，同根异径）
+- **借入英语**：**novel**（adj.「新奇的」mid-15c. ← 古法语 novel——即本词的古法语形态；n.「小说」1560s，系经意大利语 novella——均出拉丁 novellus〔etymonline，2026-10-01 经检索转引〕，**双重借入的经典样本**）；**novelty**（← 古法语 novelte）；**novice**（← 古法语 novice ← 拉丁 novicius）；**nouveau**（原样借入，仅存于 **nouveau riche**「暴发户」〔英语 1803 初指法国 / 1808 指英国已见——etymonline〕、**art nouveau**「新艺术运动」、**nouvelle cuisine**「新派烹饪」等词组）；**novella**（← 意大利语 novella，同根异径；英语 1901 已见——etymonline）
 - **共祖未借入**：**new**（英语本族日耳曼词 ← PIE \*newo-，与拉丁 novus 同出 PIE 根——**同源而非借入**，是「借入 vs 共祖」的最佳对比例）；**renew**、**news**（由 new 派生）
-- 核对：novel / nouveau riche 借入年代标**待验证**，待联网核实
+- 核对：已核实（2026-10-01 经检索转引）——novel（adj.）英语 mid-15c.；novel（n.「小说」）1560s，经意大利语 novella；nouveau riche 英语 1803（指法国）/1808（指英国）（均 etymonline）。
 
 **同义 / 搭配 / 易混**
 - 搭配：`un nouveau livre / un nouveau téléphone`；`de nouveau`（又一次、重新）；`à nouveau`（重新、以新方式）；`quoi de neuf ?`（有什么新鲜事——用 **neuf** 不是 nouveau！）；`nouveau riche`（暴发户）
@@ -55,10 +55,10 @@ nouveau
 **adj.** 新的、新出现的；另一个、又（un nouveau livre）
 **形态**：nouveau / nouvelle / nouveaux / nouvelles；元音前 nouvel；多在名词前
 **词源**：拉丁 novellus（novus「新」的指小）→ 古法语 novel；同族 neuf（崭新）/ nouveauté
-**英法交叉**：英 novel（古法语 novel ← 本词）；new 是 PIE 共祖非借入；nouveau riche / art nouveau 原样借入
+**英法交叉**：英 novel（adj. ← 古法语 novel；n. 经意大利语 novella）；new 是 PIE 共祖非借入；nouveau riche / art nouveau 原样借入
 **易混**：neuf 崭新 ｜ récent 近来 ｜ nouvelle 消息（f.）
 
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式由 `neuveaux` 更正为 `nouveaux`，确认归并）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「novellus→nouveau 演变年代」「novel 借入年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：古法语 novel 最早见 12c. 初（TLFi/Académie 9e）；英语 novel（adj.）mid-15c.、nouveau riche 1803/1808 已核（etymonline）——词源与年代项均已核实，无遗留；inbox 出处（推断 Duolingo）仍待用户确认。

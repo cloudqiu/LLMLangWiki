@@ -40,7 +40,7 @@ root: "il（拉丁 ille「那个」）+ y（拉丁 ibi「那里」）+ a（avoir
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：无——il y a 这个结构本身没有进入英语
 - **共祖未借入**：结构对应 **there is / there are**（英语 there ← 古英语 þær「那里」，语法化路径与 y 平行，但属各自独立演变，非借入）；**avoir（habere）词族**经法语影响英语者：**able**（← 古法语 able ← 拉丁 habilis「可持有的、得心应手的」）、**habit**（← 古法语 habit ← 拉丁 habitus「外表、状态」）——属本句成分 avoir 的亲属，与本句间接相关
-- 核对：able / habit 借入路径与年代标**待验证**，待联网核实
+- 核对：2026-10-01 经检索转引核对——etymonline：able early 14c. ← 古法语 (h)able ← 拉丁 habilis（habere「持有」）；habit early 13c. ← 古法语 habit/abit（12c.）← 拉丁 habitus；CNRTL：法语 abit 1155 首见——借入路径已清
 
 **同义 / 搭配 / 易混**
 - 搭配：`il y a + 名词`（存在）；`il y a + 时间段`（ago）；`il y a … que`（…以来）；否定 `il n'y a pas de + 名词`
@@ -59,4 +59,4 @@ il y a
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：2026-10-01 第六批补记——「il y a 语法化年代」已核：结构首见 **1208 年**（Villehardouin，CNRTL 经检索转引）；并补链 [[y]]。able / habit 借入路径仍标**待验证**
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：il y a 结构首见 1208 年（Villehardouin）保持；able / habit 借入路径已清（etymonline：able ← 古法语 (h)able、habit ← 古法语 habit/abit；CNRTL：abit 1155 首见）——无剩余未核实项

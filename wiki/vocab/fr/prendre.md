@@ -32,14 +32,14 @@ root: "拉丁 prehendere「抓住、握住」"
 
 **词源 / 构词**
 - **拆解**：拉丁 **prehendere**「抓住、握住」＝ pre-（在前）+ hendere（抓）
-- **演变**：拉丁 prehendere → 古法语 prendre → 法语 prendre；「抓」→ 引申「拿、取」→ 再引申「吃/喝」「乘坐」「花费」（**年代待验证**）
+- **演变**：拉丁 prehendere → 古法语 prendre → 法语 prendre；「抓」→ 引申「拿、取」→ 再引申「吃/喝」「乘坐」「花费」（动词最早见于 10 世纪下半叶《圣莱热传》，据 CNRTL，2026-10-01 经检索转引；各引申义年代未逐一核实）
 - **同族 / 派生**：apprendre（学习）、comprendre（理解）、surprendre（使惊讶）、reprendre（拿回、恢复）、entreprise（企业）、pris（过去分词）；英语一侧见下节
 - **记忆钩**：prendre ＝ 「抓住」——抓过来（拿）、抓进嘴（吃）、抓住车（乘）、抓住时间（花费），一个「抓」字串起五义；apprendre（学习）＝「抓」到自己这里
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**comprise**（← 古法语 compris ← 拉丁 comprehendere「抓在一起」——comprendre 的过去分词）；**enterprise / entrepreneur**（← 古法语 entreprendre「着手」＝ entre「之间」+ prendre——entrepreneur「企业家」内含 prendre）；**apprehend / comprehend**（← 拉丁 apprehendere / comprehendere——经拉丁/法语，**路径待验证**）；**prehensile**（「能抓握的」，← 拉丁 prehens-）
-- **共祖未借入**：**prison / prize / surprise / reprisal**（← 拉丁 prehendere 家族经古法语——surprise 里的 -prise 就是 prendre「抓」的阴性形式；surprise＝「被突然抓住」）
-- 核对：借入路径与年代标**待验证**，待联网核实
+- **借入英语**：**comprise**（← 古法语 compris ← 拉丁 comprehendere「抓在一起」——comprendre 的过去分词）；**enterprise / entrepreneur**（← 古法语 entreprendre「着手」＝ entre「之间」+ prendre——entrepreneur「企业家」内含 prendre）；**prison / prize / surprise / reprisal**（← 古法语 prison / prise / surprendre / reprisaille——均经古法语借入，-prise 即 prendre「抓」的阴性形式；surprise＝「被突然抓住」）；**apprehend / comprehend**（← 拉丁 apprehendere / comprehendere——经拉丁/法语，**路径待验证**）；**prehensile**（「能抓握的」，← 拉丁 prehens-）
+- **共祖未借入**：本词族英语侧基本全为借入——拉丁 prehendere 的英语后裔多经（古）法语传入（见上栏）
+- 核对：enterprise 入英 early 15c.（← 古法语 entreprise，动词 entreprendre 12c.；据 etymonline，2026-10-01 经检索转引）；entrepreneur 1828 年自法语再借入（15c. 末曾以 entreprenour 短暂入英；据 etymonline）；comprise 与 apprehend / comprehend 路径与年代未核实，仍标**待验证**；prison / prize / surprise / reprisal 由原「共祖」栏改归借入（原归类与「经古法语」描述相抵，2026-10-01 订正）
 
 **同义 / 搭配 / 易混**
 - 搭配：`prendre le train / le bus`（乘火车/公交）；`prendre un café / un repas`（喝咖啡/用餐）；`prendre du temps`（花时间）；`prendre une décision`（做决定）；`prendre froid`（着凉）
@@ -60,4 +60,4 @@ prendre
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「prehendere→prendre 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：prendre 最早见于 10 世纪下半叶《圣莱热传》（据 CNRTL）；enterprise 入英 early 15c.、entrepreneur 1828（据 etymonline）；comprise 与 apprehend / comprehend 路径仍标**待验证**

@@ -28,7 +28,7 @@ root: "wear（古英语 werian「穿」← 日耳曼语 *wazjanan ← PIE *wes-�
 **词源 / 构词**
 - **拆解**：wear（动词）+ on（副词小品词）；这里的关键零件是 **on ＝「继续下去、往前推」**——与 go on、read on、carry on、struggle on、drone on 里的 on 是同一个 on。整条短语＝「时间继续往前磨」
 - **wear 的词源**：古英语 werian「穿衣、佩戴」← 原始日耳曼语 \*wazjanan（同源：古诺斯语 verja、古高地德语 werian、哥特语 wasjan「给……穿衣」）← PIE 词根 **\*wes-「穿衣」**；同根的拉丁支给出 **vestis / vestire**（→ vest 背心、invest、vestment 法衣），梵语 vaste「他穿衣」
-- **一处存疑**：表「磨损、耗尽」的 wear（wear out / wear and tear）或另有来源——有辞书认为出自另一个古英语 werian「毁坏、消灭」——**待验证**（本轮无网络）
+- **磨损义的来源（已核实）**：表「磨损、耗尽」的 wear（wear out / wear and tear）并非另出他词——「consume by frequent or habitual use」义约 13 世纪末自同一动词引申（据 etymonline，2026-10-01 经检索转引），由衣服穿旧磨坏而来；wear out「用到坏、逐渐毁掉」见于 14 世纪后期。同形的另一古英语 werian 意为「防御、挡开」（哥特语 warjan），Skeat 明言 wear 与它不同词、无亲缘；此前「或出自另一 werian『毁坏、消灭』」之说检索未见印证（「使荒废、毁坏」义另属 waste 一族，源出拉丁 vastare）——该疑已澄清
 - **同族 / 派生**：wear（穿；磨损）、wearer、underwear、sportswear；拉丁支 vest / invest / vestment / travesty；**同族短语**（wear + 小品词，建议一起记）：wear **off**（效果逐渐消退）、wear **out**（用坏；使人精疲力尽）、wear **down**（磨损；把对方意志磨掉）
 - **记忆钩**：wear 的本义是「穿」，引申为「磨」——衣服穿久了就磨；于是时间也像衣服一样被「磨着往前走」：as the night **wore on**
 
@@ -52,4 +52,4 @@ wear on
 ## 来源
 
 - raw/vocab-inbox.md（2026-10-01 收录；出处：书籍《Mattering》；遇到形式 wore on）
-- 备注：本轮出网仍被 sinkhole（198.18.0.0/15），未对照 etymonline——「磨损义或出自另一古英语动词」标**待验证**，已登入 [[english-vocabulary]] 待回补清单
+- 备注：2026-10-01 清账——WebSearch 转引 etymonline 核对：「磨损、耗尽」义为同一 wear 的引申（约 13 世纪末，由衣服穿旧磨坏而来），非另出他词；同形另一 werian 意为「防御、挡开」（Skeat 明言与 wear 不同词）——原「或出自另一古英语动词」之疑解除，无遗留未核实项

@@ -40,7 +40,7 @@ root: "cela「那个」的口语缩合 ← ce（← 拉丁 ecce + hoc / ille）"
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：ça 本身**无直接借入**（口语代词不外借）；但含同族 ce 的法语短语进入英语：**c'est la vie**（「这就是生活」，← 法语）、**comme ci, comme ça**（「马马虎虎」，← 法语原样借入）
 - **共祖未借入**：无——ça ← cela ← 拉丁 ecce/hoc 一支，英语 this/that 为日耳曼词，两者无同源关系
-- 核对：comme ci comme ça 借入年代标**待验证**，待联网核实
+- 核对：comme ci comme ça 英语用法 1945 年（据 etymonline，2026-10-01 经检索转引）；法语源最早 1779 年、一说 1769 年（据 Enckell / Expressio 转引）——2026-10-01 清账核实
 
 **同义 / 搭配 / 易混**
 - 搭配：`ça va`（行/好）；`ça y est`（好了）；`comment ça va ?`；`c'est ça`（对）；`ça fait + 时间`（已有……时间）
@@ -61,4 +61,4 @@ root: "cela「那个」的口语缩合 ← ce（← 拉丁 ecce + hoc / ille）"
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `ca` → 补软音符 ça）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「cela→ça 缩合年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：cela「那个」（ce + là，13 世纪）缩合为 ça 最早见 1649 年（民众语形式，据 CNRTL；Académie 1835 年版明载「se dit par contraction… pour cela」）；comme ci comme ça 英语 1945 年（据 etymonline）；无遗留待验证项

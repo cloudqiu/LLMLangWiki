@@ -33,14 +33,14 @@ root: "拉丁 curtus「截短的、不完整的」（PIE *(s)ker-「切」）"
 
 **词源 / 构词**
 - **拆解**：单语素——拉丁 **curtus**「截短的、不完整的、缩减的」（← PIE \*(s)ker-「切、割」）
-- **演变**：拉丁 curtus → 古法语 cort → 现代 court；法语另有同形/近形的名词 **cour**「院子、宫廷」（← 拉丁 cohors / curia——**另一个拉丁词源**）与 **court**（网球场，← 英语 ← 法语 cour 的回借）——三个 court/cour、三个来源（**年代待验证**）
+- **演变**：拉丁 curtus → 古法语 curt / cort → 现代 court；法语另有同形/近形的名词 **cour**「院子、宫廷」（← 拉丁 cohors / curia——**另一个拉丁词源**）与 **court**（网球场，← 英语 ← 法语 cour 的回借）——三个 court/cour、三个来源（已核：CNRTL 记形容词最早作 curt，ca 1100〔Roland〕，cort 形见 12c 末–13c 初；法语 cour 拼写〔无 -t〕1352 已见——2026-10-01 经检索转引）
 - **同族 / 派生**：court-circuit（短路）、raccourcir（缩短）、raccourci（捷径）、à court de（缺、短少）、accourcir（古语）；英语一侧见下节
 - **记忆钩**：court ＝ curtus「被切短」；英语 shear（剪）/ short（短）与它是 PIE 远亲——「切」出来的「短」
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**curt**（adj.「唐突简短的」，14c. ← 拉丁 curtus——**拉丁直借而非经法语**，归「共祖」）；**court**（英语名词「宫廷、法院、球场」← 古法语 cort/curt ← 拉丁 cohortem / curia——**经法语借入，但借的是法语 cour（院、宫），不是本形容词 court**）；**curtail**（← 古法语 court + 英语 -al，或经 court 相关，**待验证**）；**courtesy / courteous**（← 古法语 curteis「有宫廷礼节的」——与「宫廷 court」一线）
+- **借入英语**：**curt**（adj.「唐突简短的」，mid-14c. ← 拉丁 curtus——**拉丁直借而非经法语**〔etymonline，2026-10-01 经检索转引〕，归「共祖」）；**court**（英语名词「宫廷、法院、球场」——英语 late 12c. 已见〔etymonline〕；← 古法语 cort/curt ← 拉丁 cohortem / curia——**经法语借入，但借的是法语 cour（院、宫），不是本形容词 court**）；**curtail**（← 古法语 courtault / courtaut「被截短的」〔court「短」+ -ault 后缀，拉丁 curtus 系〕——已核，词源词典，2026-10-01 经检索转引）；**courtesy / courteous**（← 古法语 curteis「有宫廷礼节的」——与「宫廷 court」一线）
 - **共祖未借入**：**short**（英语本族 ← PIE \*(s)ker-「切」——与拉丁 curtus 同根，**共祖非借入**）；**shear / shirt / skirt / shore / scar**（同一「切」根家族）
-- 核对：curt 借入路径、curtail 词源、court 名词借入年代标**待验证**，待联网核实
+- 核对：已核实（2026-10-01 经检索转引）——curt 系 mid-14c. 拉丁直借（etymonline）；curtail ← 古法语 courtault / courtaut（词源词典）；court（名词）英语 late 12c. 已见（etymonline）；形容词最早作 curt，ca 1100（CNRTL）。
 
 **同义 / 搭配 / 易混**
 - 搭配：`les cheveux courts`（短发）；`un court séjour`（短暂停留）；`à court de`（缺少：à court d'argent 缺钱）；`couper court à`（打断、制止）
@@ -54,10 +54,10 @@ court
 **adj.** 短的（长度/时间）；简短的；à court de 缺少
 **形态**：court / courte / courts / courtes
 **词源**：拉丁 curtus「截短的」← PIE \*(s)ker-「切」——「切」出来的「短」
-**英法交叉**：英 short 共祖（PIE 切根）；curt ← 拉丁直借；court（宫廷）← 古法语 cour（另一词源）
+**英法交叉**：英 short 共祖（PIE 切根）；curt ← 拉丁直借；court（宫廷）← 古法语 cort（另一词源）
 **易混**：court 短 ｜ cour 院子/宫廷 ｜ cours 课程 ｜ il court 他跑
 
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；`court` 有歧义，按形容词「短的」编译）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「cort→court 演变年代」「curtail 词源」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：court ← curtus，形容词最早作 curt ca 1100（CNRTL）；curt mid-14c. 拉丁直借、court（名词）英语 late 12c. 已见（etymonline）；curtail ← 古法语 courtault（词源词典）已核——词源与年代项均已核实，无遗留；inbox 出处（推断 Duolingo）仍待用户确认。

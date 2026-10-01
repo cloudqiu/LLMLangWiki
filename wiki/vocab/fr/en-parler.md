@@ -41,7 +41,7 @@ root: "parler（教会拉丁 parabolare）+ en（拉丁 inde「从那里」）"
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：无——结构未进入英语（英语没有副词代词系统，对应手段是保留介词：talk about **it**）
 - **共祖未借入**：无关键项
-- 核对：en ← 拉丁 inde 据 Grevisse（经检索转引）；首见年代无权威数据，标**待验证**
+- 核对：en ← 拉丁 inde 与 9 世纪首见（形式 int / ent）据 Académie 9e / Grevisse（经检索转引）；en / y 语序史细节仍标**待验证**
 
 **同义 / 搭配 / 易混**
 - 搭配：`en parler à qn`（跟某人谈这事——à qn 用间接宾语）；`je n'en sais rien`（我对此一无所知）；`en avoir besoin / envie`（需要它 / 想要它——avoir 结构的高频 en 用法）

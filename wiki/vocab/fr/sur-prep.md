@@ -32,14 +32,14 @@ root: "拉丁 super「在……之上」"
 
 **词源 / 构词**
 - **拆解**：单语素——拉丁 **super**「在……之上」
-- **演变**：拉丁 super「在上」→ 古法语 sur → 法语 sur（**年代待验证**）；同根 super- 前缀仍存于 supérieur（更高的）、suprême（至高的）
+- **演变**：拉丁 super「在上」→ 古法语 sur → 法语 sur（介词最早见于 9 世纪，881 年作 soure；据 TLFi，2026-10-01 经检索转引）；同根 super- 前缀仍存于 supérieur（更高的）、suprême（至高的）
 - **同族 / 派生**：sous（在下）、dessus（上面）、supérieur（更高的）、suprême（至高的）、surface（表面）；英语一侧见下节
 - **记忆钩**：sur ＝ super「上」——同根的 super-（超级）和 suprême（至高）一眼可见；sur / sous（上 / 下）成对记
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**surface**（← 法语 surface ← sur + face「上面」）；**surcharge / surtax / surmount / surtitle**（← 法语 sur- 前缀构词——sur- 在英语中是「过度、在上」的构词前缀，经法语借入）；**surtout**（「罩衣」，← 法语 surtout「尤其在……之上」）
 - **共祖未借入**：**super / superior / supreme / summit / super-**（← 拉丁 super「上」——经拉丁直接入英，共祖非借入）
-- 核对：surface / surcharge 借入路径标**待验证**，待联网核实
+- 核对：surface 入英 1610s（← 法语 surface，16c.，sur- + face，仿拉丁 superficies；据 etymonline，2026-10-01 经检索转引）；surcharge 动词 15c. 借自古法语 surcharger、名词 1601 年（据检索转引）——2026-10-01 清账核实
 
 **同义 / 搭配 / 易混**
 - 搭配：`sur la table`（在桌上）；`un livre sur…`（关于……的书）；`sur dix`（每十个）；`sur place`（当场、原地）
@@ -59,4 +59,4 @@ sur
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「super→sur 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：介词 sur 最早 881 年作 soure（据 TLFi）；surface 入英 1610s、surcharge 15c. / 1601（据 etymonline）；无遗留待验证项

@@ -32,14 +32,14 @@ root: "拉丁 meus「我的」（me- 词干 ← PIE *me- 第一人称斜格）"
 
 **词源 / 构词**
 - **拆解**：单语素——拉丁 **meus**「我的」（第一人称代词词干 **me-** ＋ 形容词尾）；法语的 mon/ma 由 meus 的阳性/阴性形式分化而来
-- **演变**：PIE \*me-（第一人称斜格词干）→ 拉丁 meus「我的」→ 古法语 mon / ma → 法语 mon（**年代待验证**）
+- **演变**：PIE \*me-（第一人称斜格词干）→ 拉丁 meus「我的」→ 古法语 mon / ma → 法语 mon——最早形式为 10 世纪末的 **mo**（《Passion》），约 1050 年 **mun / ma**（《Saint Alexis》），「元音前阴名用 mon」12 世纪末已见（据 CNRTL/TLFi 与 Académie 9e，2026-10-01 经检索转引）
 - **同族 / 派生**：ma、mes、le mien / la mienne（独立主有代词「我的」）、madame / mademoiselle（ma + dame/demoiselle）；英语一侧见下节
 - **记忆钩**：mon 随名词的性数走、不随所有者——「我」是男是女都一样，看后面那个名词的性别；元音前阴名也要 mon（为了顺口）
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：无——mon 本身不借入英语
 - **共祖未借入**：**me / my / mine**（英语第一人称代词，与拉丁 meus 同出 PIE \*me- 词干——**共祖非借入**）；英语 madam / madame（← 法语 ma dame「我的夫人」，经法语借入的含 ma 短语）
-- 核对：madam/madame 借入路径标**待验证**，待联网核实
+- 核对：madam 约 1300 年借自古法语 ma dame（< 拉丁 mea domina）；madame 为 1590s 对同一短语的再借入（据 etymonline，2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`mon père / mon livre / mon ami`；`mon + 元音开头阴名`（mon amie）
@@ -59,4 +59,4 @@ mon
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 备注：本轮出网仍被 sinkhole，CNRTL 不可达——「meus→mon 演变年代」标**待验证**，已登入 [[french-vocabulary]] 待回补清单
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：meus→mon 最早形式为 10 世纪末的 mo（《Passion》）、约 1050 年 mun / ma（TLFi/Académie 9e）；madam / madame 借入路径已核实（madam 约 1300 年、madame 1590s，etymonline）。
