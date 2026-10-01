@@ -242,3 +242,10 @@
 - [[la-art]] 调整：收录说明改为「用户确认宾语用法 + 代词详页指向 [[la-pron]]」；闪卡改为纯冠词卡（正面 `la（冠词）`），与 [[la-pron]] 的代词卡（正面 `la（代词）`）分工，防 SRS 同面混淆
 - hub [[french-vocabulary]]：命名登记表行更新（la 按词性分页：la-art / la-pron；là → la-adv 待收）、词条数 49→50、待处理注记；`index.md` Stats（fr 49→50，总 66→67）
 - 并行：同批已发 workflow「存量清账」（45 词，8 批子代理 + 1 核查代理）——结果与收尾见随后条目
+
+## [2026-10-01] ingest | vocab-fr: `en` 建页——副词代词 [[en-pron]]（代词三件套：la-pron / y / en 齐）
+
+- 触发：用户在 `la` 拆页后追加收词 `en`——按代词用法编译（`en-pron.md`）；介词 en（← 拉丁 in）同形异源，留 `en-prep.md` 待收，登记入命名表
+- 新建 [[en-pron]]：代 de + 名词（j'en parle）与部分冠词 / 数量回指（j'en ai deux）；位置、否定、命令式（parles-en !）、固定搭配（en avoir besoin / s'en aller / en vouloir à）；词源 ← 拉丁 inde「从那里」（**9 世纪** int / ent，Académie——经检索转引；《罗兰之歌》已见今用，DMF 转引）
+- 连带清账：[[en-parler]] 的「en 首见年代待验证」已核（9 世纪 int / ent）并补链 [[en-pron]]；[[la-pron]] 的 y / en 指向链接更新
+- hub：命名登记表 +en 行、词条 50→51、候选「y / en 双璧」更新 + 新增「附着代词全景」候选；index Stats（fr 50→51，总 67→68）

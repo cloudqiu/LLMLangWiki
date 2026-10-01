@@ -34,7 +34,7 @@ root: "拉丁 illa（宾格 illam）——指示代词 ille / illa / illud 一�
 - **位置**：动词前（je **la** vois）；复合过去在助动词前（je **l'ai vue**）；否定包夹（je **ne la** vois **pas**）；不定式前（je vais **la** voir）；肯定命令式后置加连字符（Regarde-**la** !），否定命令式仍前置（Ne **la** regarde pas !）
 - **省音**：元音或哑音 h 前 → **l'**（je l'aime / je l'ai vue）
 - **配合（高频考点）**：复合过去中，直接宾语前置（含 la / l'）时过去分词与该宾语性数配合——je l'ai **vue**（阴性）、je les ai **vues**（阴性复数）；对比间接宾语 lui / leur——**不配合**（je lui ai parlé）
-- **代词叠用顺序**：me / te / se / nous / vous → le / la / les → lui / leur → y → en（Il me la donne. 他把它给我；Je lui en parlerai. 我会跟他谈这个——y / en 见 [[y]]、[[en-parler]]）
+- **代词叠用顺序**：me / te / se / nous / vous → le / la / les → lui / leur → y → en（Il me la donne. 他把它给我；Je lui en parlerai. 我会跟他谈这个——y / en 见 [[y]]、[[en-pron]]）
 
 **词源 / 构词**
 - **拆解**：拉丁 **illa**——指示代词 ille / illa / illud「那个（人 / 物）」的阴性宾格（illam）；与定冠词 la（[[la-art]]）**同源**：同一个 illa，一条线语法化为冠词、另一条（宾格）线固化为宾语代词

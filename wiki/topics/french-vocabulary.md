@@ -20,9 +20,9 @@ sources: [raw/vocab-fr-inbox.md]
 
 ## 进度
 
-- 词条：**50**（new 50 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
-- 待处理：inbox **积压清零**（六批共 49 条已编译；`la` 经用户确认为宾语代词用法、拆出 [[la-pron]]，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
-- 词条（50）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]
+- 词条：**51**（new 51 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
+- 待处理：inbox **积压清零**（六批 49 条 + 追加 `en` 1 条已编译；`la` 拆出 [[la-pron]]、`en` 建 [[en-pron]]，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
+- 词条（51）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]、[[en-pron]]
 - **待回补（联网后）**：前五批共 **38** 条未对照 CNRTL（年代与借入路径细节逐条标「待验证」）。**第六批 11 条**（2026-10-01）已经「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——未入回补清单；个别细节（banque 首见年代、en 首见年代、vouloir 最早文献、部分英语借入年代）在词条内标「待验证」。法语词源一律以 CNRTL/TLFi 为准
 
 ## 怎么用
@@ -75,6 +75,7 @@ sources: [raw/vocab-fr-inbox.md]
 | [[detective]]（法语） | detective | 英语 detective 若日后收词建页，按「后建者加语言后缀」规则记为 `detective-en.md`，两页互链 |
 | [[sur-prep]]（法语） | sur | sur（介词）与 sûr（确定的，adj.）近形对——预置词性后缀 `sur-prep.md`；日后收 sûr 记为 `sur-adj.md` |
 | [[la-art]] / [[la-pron]]（法语） | la | la 按词性分页：冠词 `la-art.md`、宾语代词 `la-pron.md`（2026-10-01 用户确认 inbox 的 `la` 为宾语用法）；与 là（副词「那里」）近形——日后收 là 记为 `la-adv.md` |
+| [[en-pron]]（法语） | en | en 按词法分页：副词代词 `en-pron.md`（← 拉丁 inde）、介词 en（← 拉丁 in）日后收词记 `en-prep.md`——同形异源，勿混 |
 
 ## 词族 / 综合页
 
@@ -96,7 +97,8 @@ sources: [raw/vocab-fr-inbox.md]
 - **候选（2026-10-01）**：**stare「站」词族**（[[rester]] · arrêter · être ＋ 英 rest / arrest / stand / stay / state）——rester 的「停留」＝「站住不走」；由 [[rester]] 触发
 - **候选（2026-10-01）**：**littera 词族**（[[lettre]] · [[litterature]] · littéraire ＋ 英 letter / literature / literal）——「字母 → 书信 → 文学」的语义链；由 [[lettre]] 触发
 - **候选（2026-10-01）**：**velle / voluntas「意愿」词族**（[[vouloir]] · volonté ＋ 英 will（PIE \*wel- 共祖）/ volition / volunteer / benevolent / velleity）——共祖与借入的分界样本；由 [[vouloir]] 触发
-- **候选（2026-10-01）**：**副词代词 y / en 双璧**（[[y]] · [[en-parler]]）——y 代 à + 名词、en 代 de + 名词；法语语法词头号易混对；由 [[y]] / [[en-parler]] 触发
+- **候选（2026-10-01）**：**副词代词 y / en 双璧**（[[y]] · [[en-pron]] · [[en-parler]]）——y 代 à + 名词、en 代 de + 名词；法语语法词头号易混对；由 [[y]] / [[en-pron]] 触发
+- **候选（2026-10-01）**：**法语附着代词（clitiques）全景**（[[la-pron]] · [[en-pron]] · [[y]] ＋ le / les · lui / leur · me / te / nous / vous）——位置、省音、叠用顺序、分词配合汇一页；由 [[la-pron]] / [[en-pron]] 触发，词齐后评估建页
 - **候选（2026-10-01）**：**parler「话」词族**（[[parler]] · parole · parlement ＋ 英 parley / parliament / parlor / parole / palaver）——「话」如何长成「议会」；由 [[parler]] 触发
 - **候选（2026-10-01）**：**banca「长凳」词族**（[[bancaire]] · banque · banc ＋ 英 bank / bankrupt / banquet / bench）——「长凳 → 银行」的语义跃迁与同形异源（bank 河岸）；由 [[bancaire]] 触发
 
