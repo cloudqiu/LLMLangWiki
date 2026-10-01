@@ -37,9 +37,9 @@ root: "希腊 phusis「自然、生长」→ phusikos「自然的」→ 拉丁 p
 - **记忆钩**：physique ＝ phusis「自然」——「物理」就是「自然（之学）」；同族还有 métaphysique（在自然之后）、physionomie（辨自然之相 → 面容）
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**physic**（医学；药——约 1300 借自古法语 fisique）；**physics / physical / physician**（← 拉丁 physica / physicus——physician 经古法语 fisicien）；**physique**（英语名词「体格」——19 世纪从法语 physique 再借入，约 1826 年——**待验证**）
+- **借入英语**：**physic**（医学；药——约 1300 借自古法语 fisique）；**physics / physical / physician**（← 拉丁 physica / physicus——physician 经古法语 fisicien）；**physique**（英语名词「体格」——1826 年自法语 physique 再借入；据 etymonline，2026-10-01 经检索转引）
 - **共祖未借入**：**physio- / physiology / metaphysics**（← 希腊 phusis 构词——经希腊 / 拉丁入英）
-- 核对：physique 再借入年代（约 1826）据 etymonline，标**待验证**，待联网核实
+- 核对：physique 再借入年代 1826 年（名词「体格」义入英）——据 etymonline，2026-10-01 经检索转引核实；无遗留待验证项
 
 **同义 / 搭配 / 易混**
 - 搭配：`la forme physique`（体能）；`l'éducation physique`（体育课——EPS）；`physique quantique / nucléaire`（量子 / 核物理）；`au physique / au moral`（在外表上 / 在精神上）
@@ -54,10 +54,10 @@ physique
 **adj. / n.** 身体的、物理的（force physique）；la physique 物理学；le physique 体格
 **形态**：形容词阴阳同形、复数 physiques；la physique（f. 学科）/ le physique（m. 体格）
 **词源**：希腊 phusis「自然」→ phusikos → 拉丁 physica / physicus；古法语 fisique（1165）→ 1708 年现代义
-**英法交叉**：英 physics / physical / physician ← 拉丁线；physique（体格）← 法语再借入（约 1826，待验证）
+**英法交叉**：英 physics / physical / physician ← 拉丁线；physique（体格）← 法语再借入（1826）
 **易混**：la physique 物理 ｜ le physique 体格 ｜ physiologique 生理的 ｜ corporel 身体的
 
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 CNRTL（cnrtl.fr/etymologie/physique）与 Académie 9e 核对：fusique 约 1160、fisique 1165、1708 年现代义；英语 physique 再借入年代标**待验证**
+- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 CNRTL（cnrtl.fr/etymologie/physique）与 Académie 9e 核对：fusique 约 1160、fisique 1165、1708 年现代义；2026-10-01 复清——WebSearch 转引 etymonline（physique：1826 年自法语再借入）——原待验证项已清，无遗留待验证项

@@ -39,9 +39,9 @@ root: "拉丁 cognoscere「认识、获知」= con-（共同）+ gnoscere / nosc
 - **记忆钩**：connaître ＝ con + gnoscere「一起知道」——认识一个人就是「共同知道」；英语 **know** 与其同源（PIE \*gneh₃-），k-n 与 g-n 是同一条「知道」根
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**connoisseur**（1714，← 法语 connaisseur「行家、鉴赏家」← connaître；拼写 connois- 保留古法语 oi，是借入年代的古音遗迹）；**reconnoiter / reconnoitre**（18c.，← 法语 reconnoître 的旧形，＝ 现代 reconnaître；美式拼写 reconnoiter）；**cognizance**（← 盎格鲁-法语 conissance ← 拉丁 cognoscere——经法语中介）
-- **共祖未借入**：**know / ken / can / cunning**（英语本族日耳曼词，同出 PIE \*gneh₃-——与 connaître 是「印欧共祖」而非借入，又一最佳对比例）；**recognize / cognition / notice / notion / noble / ignore**（均来自拉丁 cognoscere / noscere 家族——已核〔etymonline，2026-10-01 经检索转引〕：recognize ← 古法语 recognoistre；cognition ← 拉丁直借（mid-15c.）；notice ← 古法语 notece / 拉丁 notitia（早 15c.）；notion ← 拉丁直借（晚 14c.，Cicero 造译）；noble ← 意大利语 nobile / 古法语 noble；ignore 入英路径未见明确数据，**仍标待验证**）
-- 核对：已核实（2026-10-01 经检索转引）——connoisseur 1714（etymonline，首见于 Mandeville）；cognizance mid-14c，← 盎格鲁-法语 conysance（etymonline）；recognize / notice / notion / noble 诸路径见上；reconnoiter 借入年代（页内作 18c.）与 ignore 入英路径未获明确数据，**仍标待验证**。
+- **借入英语**：**connoisseur**（1714，← 法语 connaisseur「行家、鉴赏家」← connaître；拼写 connois- 保留古法语 oi，是借入年代的古音遗迹）；**reconnoiter / reconnoitre**（1707，← 法语 reconnoître 的旧形，＝ 现代 reconnaître；美式拼写 reconnoiter）；**cognizance**（← 盎格鲁-法语 conissance ← 拉丁 cognoscere——经法语中介）
+- **共祖未借入**：**know / ken / can / cunning**（英语本族日耳曼词，同出 PIE \*gneh₃-——与 connaître 是「印欧共祖」而非借入，又一最佳对比例）；**recognize / cognition / notice / notion / noble / ignore**（均来自拉丁 cognoscere / noscere 家族——已核〔etymonline，2026-10-01 经检索转引〕：recognize ← 古法语 recognoistre；cognition ← 拉丁直借（mid-15c.）；notice ← 古法语 notece / 拉丁 notitia（早 15c.）；notion ← 拉丁直借（晚 14c.，Cicero 造译）；noble ← 意大利语 nobile / 古法语 noble；ignore 1610s 入英 ← 法语 ignorer（14c.）或直接拉丁 ignorare〔etymonline，2026-10-01 复清经检索转引〕）
+- 核对：已核实（2026-10-01 清账＋复清经检索转引）——connoisseur 1714（etymonline，首见于 Mandeville）；cognizance mid-14c，← 盎格鲁-法语 conysance（etymonline）；recognize / notice / notion / noble 诸路径见上；reconnoiter 借入年代已核：1707（etymonline／Merriam-Webster，页内 18c. 得实）；ignore 入英路径已核：1610s ← 法语 ignorer（14c.）或直接拉丁 ignorare（etymonline）——本节无遗留待验证项。
 
 **同义 / 搭配 / 易混**
 - 搭配：`connaître qn / qch`（认识——直接宾语，**不用介词**）；`connaître le succès / des difficultés`（经历）；`faire la connaissance de qn`（结识）；`se connaître`（互相认识）
@@ -61,4 +61,4 @@ connaître
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `connais` → 不定式 connaître）
-- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：connaître 承拉丁 cognoscere，古法语 conoistre 最早见 ca 1050（TLFi）；connoisseur 1714、cognizance mid-14c、recognize/notice/notion/noble 路径已核（etymonline）；reconnoiter 年代与 ignore 路径仍标待验证；inbox 出处（推断 Duolingo）仍待用户确认。
+- 核对说明：2026-10-01 清账＋复清——CNRTL 直连仍 sinkhole，WebSearch 转引核对：connaître 承拉丁 cognoscere，古法语 conoistre 最早见 ca 1050（TLFi）；connoisseur 1714、cognizance mid-14c、recognize/notice/notion/noble 路径已核（etymonline）；复清（2026-10-01）：reconnoiter 1707 入英（etymonline／Merriam-Webster）、ignore 1610s ← 法语 ignorer（14c.）或拉丁（etymonline）——词源类无遗留待验证项；inbox 出处（推断 Duolingo）仍待用户确认。

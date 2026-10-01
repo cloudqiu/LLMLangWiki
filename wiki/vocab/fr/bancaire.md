@@ -31,14 +31,14 @@ root: "banque（← 意大利语 banca「长凳、柜台」）+ -aire（← 拉�
 
 **词源 / 构词**
 - **拆解**：**banque**（← 意大利语 **banca / banco**「长凳、柜台」）+ 形容词后缀 **-aire**（← 拉丁 -arius，同英语 -ary）——「与柜台（银行）相关的」
-- **演变**：意大利语 banca「换钱商的长凳 / 柜台」（一说 ← 伦巴第语 \*panc「长凳」，与法语 banc「长凳」同族）→ 法语 **banque**（借自意大利语；确切首见年代**待验证**）→ 派生形容词 **bancaire**（19 世纪——**待验证**）；「柜台」如何变「银行」：中世纪意大利钱商坐长凳营业——**banca rotta**（被砸烂的长凳＝破产）→ 法语 **banqueroute**（破产）
+- **演变**：意大利语 banca「换钱商的长凳 / 柜台」（一说 ← 伦巴第语 \*panc「长凳」，与法语 banc「长凳」同族）→ 法语 **banque**（借自意大利语；首见 15 世纪——Académie 9e「Étymologie : xve siècle」，2026-10-01 经检索转引）→ 派生形容词 **bancaire**（début XIXe s.——CNRTL「1re attest. début XIXe s. ; dér. de banque, suff. -aire」，2026-10-01 经检索转引）；「柜台」如何变「银行」：中世纪意大利钱商坐长凳营业——**banca rotta**（被砸烂的长凳＝破产）→ 法语 **banqueroute**（破产）
 - **同族 / 派生**：banque（银行）、banquier（银行家）、banqueroute（破产——banca rotta）、banc（长凳——同源兄弟词）；英语一侧见下节
 - **记忆钩**：bancaire ↔ banc ↔ 意大利 banca——「银行」原本就是一张「长凳」；破产 banqueroute 字面「凳子被砸」（旧习：还不上钱，换钱商的柜台被当众打断）
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**bank**（银行——15–16 世纪经法语 banque / 意大利语 banca 入英）；**bankrupt / bankruptcy**（← 法语 banqueroute ← 意大利 banca rotta「断凳」，英语拼写受拉丁 ruptus 影响改造）；**banquet**（← 法语 banquet ← 意大利 banchetto「小凳子」——同出 banca 的另一支）
+- **借入英语**：**bank**（银行——late 15c（15 世纪晚期）入英，经意大利语 banca / 法语 banque 一线；据 etymonline，2026-10-01 经检索转引）；**bankrupt / bankruptcy**（← 法语 banqueroute ← 意大利 banca rotta「断凳」，英语拼写受拉丁 ruptus 影响改造）；**banquet**（← 法语 banquet ← 意大利 banchetto「小凳子」——同出 banca 的另一支）
 - **共祖未借入**：**bank**（河岸——古诺斯语 \*banki，与金融 bank **同形异源**，英语内部撞形）；**bench**（长凳——古英语 benc，日耳曼线）
-- 核对：banque 首见年代、bank（金融）入英年代标**待验证**，待联网核实
+- 核对：banque 首见 15 世纪（Académie 9e）、bank（金融）入英 late 15c（etymonline）——2026-10-01 复清经检索转引核实；无遗留待验证项
 
 **同义 / 搭配 / 易混**
 - 搭配：见「形态要点」高频组合；`activité bancaire`（银行业务）；`secteur bancaire`（银行业）
@@ -58,4 +58,4 @@ bancaire
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole；WebSearch 检索**未获 CNRTL 本词条目数据**（banque 首见年代与 bancaire 派生年代无权威记载到手）——标**待验证**，留待 CNRTL 直连后补
+- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，当轮检索未获本词数据；2026-10-01 复清——WebSearch 转引 Académie 9e（banque：「Étymologie : xve siècle」）、CNRTL（bancaire：「1re attest. début XIXe s. ; dér. de banque, suff. -aire」）与 etymonline（bank 金融义 late 15c）——原待验证项已清，无遗留待验证项

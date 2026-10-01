@@ -39,7 +39,7 @@ root: "拉丁 membrum「肢体、部分」← PIE *mems-「肉」"
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**member**（约 1300 ← 古法语 membre——「肢体」义与「成员」义一并入英，英语同样双义）；**dismember**（← 古法语 desmembrer）；**membrane**（← 拉丁 membrana ← membrum——经拉丁 / 法语线）
 - **共祖未借入**：无关键项（member 义域与法语完全平行）
-- 核对：member 约 1300 借入年代标**待验证**，待联网核实
+- 核对：member 约 1300 借入（c. 1300 ← 古法语 membre，11 世纪）——据 etymonline，2026-10-01 经检索转引核实；无遗留待验证项
 
 **同义 / 搭配 / 易混**
 - 搭配：`membre de + 组织`（……的成员）；`membre fondateur / honoraire`（创始 / 名誉成员）；`les quatre membres`（四肢）
@@ -59,4 +59,4 @@ membre
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 Académie 9e（「xie siècle, emprunté du latin membrum」）、TLF XI 612b（经 DMF 转引）与 Le Robert 史料核对；member 英借年代标**待验证**
+- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 Académie 9e（「xie siècle, emprunté du latin membrum」）、TLF XI 612b（经 DMF 转引）与 Le Robert 史料核对；2026-10-01 复清——WebSearch 转引 etymonline（member：c. 1300 ← 古法语 membre）——原待验证项已清，无遗留待验证项

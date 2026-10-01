@@ -23,7 +23,7 @@ sources: [raw/vocab-fr-inbox.md]
 - 词条：**51**（new 51 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
 - 待处理：inbox **积压清零**（六批 49 条 + 追加 `en` 1 条已编译；`la` 拆出 [[la-pron]]、`en` 建 [[en-pron]]，2026-10-01）；第一二批标注 Duolingo，第三至六批 inbox **未标注来源**——推断 Duolingo，**待确认**
 - 词条（51）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]、[[en-pron]]
-- **待回补清账（2026-10-01 完成）**：前五批 **38** 条已经 6 批子代理「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——多处实质订正（détective 法语借入实为 1871、découvrir 承 discooperire 等）；**12 项**真正无定论者如实保留「待验证」（清单见 log 清账条目）。第六批 11 条与新建页的少量细节（banque、vouloir、lettre 等）由第二批子代理复清。法语词源一律以 CNRTL/TLFi 为准
+- **待回补清账（2026-10-01 完成，两批共 13 个子代理）**：前五批 **38** 条 + 第六批新页细节已经「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——多处实质订正（détective 1871、découvrir 承 discooperire、velleity 非经法语等）；**法语侧仅余 6 项**真正无定论者如实保留「待验证」（auteur 的 -th- 机制、déjà 的 Boirac 说、émission 节目义年代、environ 的 virer 两说、jamais vu 年代、littérature 拼写简并——清单见 log）。法语词源一律以 CNRTL/TLFi 为准
 
 ## 怎么用
 
@@ -107,7 +107,7 @@ sources: [raw/vocab-fr-inbox.md]
 - 例句来源：当前为 LLM 生成 + 待验证标记；是否引入 CNRTL / Le Robert 核对流程？
 - 「形态要点」是否提升为 frontmatter 字段（便于日后 Dataview 查询）？
 - 英语系统的 etymonline 待回补（7 条）与本系统 CNRTL 待回补，联网后一并清账。
-- **清账通道（2026-10-01）**：WebSearch 通道可用（CNRTL 直连仍 sinkhole）——存量 38 条 + 英语 7 条已于当日经 8 批子代理「检索转引」批量清账（方法固化，见 log lint 条目）；无定论项如实保留。
+- **清账通道（2026-10-01）**：WebSearch 通道可用（CNRTL 直连仍 sinkhole）——存量 38 条 + 英语 7+1 条已于当日经两批共 13 个子代理「检索转引」清账（方法固化，见 log lint 条目）；仅余 9 项无定论如实保留。
 
 ## 来源
 

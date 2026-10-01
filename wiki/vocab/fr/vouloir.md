@@ -35,14 +35,14 @@ root: "民间拉丁 *volere（古典拉丁 velle「想要」的类推重构）"
 
 **词源 / 构词**
 - **拆解**：民间拉丁 **\*volere**（TLFi）——古典拉丁 **velle**「想要」（vōlo, vīs, vult…）在民间按完成时 volui 类推重构（如同 habui → habēre 的模式）
-- **演变**：拉丁 velle → 民间拉丁 \*volere → 古法语 voloir / voleir → 法语 vouloir；最早记录：墨洛温时期文本（一说 9 世纪——来源不一，标**待验证**）
+- **演变**：拉丁 velle → 民间拉丁 \*volere → 古法语 voloir / voleir → 法语 vouloir；最早记录：**881 年**《圣厄拉莉颂歌》（Séquence de sainte Eulalie，voldrent / volt 等形——据 CNRTL/TLFi，2026-10-01 经检索转引；「墨洛温时期」旧说未获佐证，依 TLFi 881）
 - **同族 / 派生**：volonté（意愿）、volontiers（乐意地）、vouloir bien（愿意、同意）；英语一侧见下节
 - **记忆钩**：vouloir ↔ volonté ↔ 英语 voluntary / volunteer 全是「意愿」一家（拉丁 velle / voluntas）；与 [[pouvoir]] 并记（想要 vs 能）
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**velleity**（「微弱的意愿」← 法语 velléité ← 中世纪拉丁 velleitas——借自法语）
-- **共祖未借入**：**volition / voluntary / volunteer / benevolent / malevolent**（← 拉丁 velle「想要」/ voluntas「意愿」——经拉丁直接入英，**共祖非借入**）；**will**（英语情态动词「要」——与拉丁 velle 同出 PIE **\*wel-**「愿望」，日耳曼语族远亲，**跨语系共祖**，最值得记的一对）
-- 核对：velleity 借入年代与 will 的 PIE 对应标**待验证**，待联网核实
+- **借入英语**：无（原记 velleity「借自法语」；2026-10-01 复清订正：etymonline 记其 1610s **直接取自中世纪拉丁** velleitas 词干，非经法语——移入下行）
+- **共祖未借入**：**volition / voluntary / volunteer / benevolent / malevolent**（← 拉丁 velle「想要」/ voluntas「意愿」——经拉丁直接入英，**共祖非借入**）；**velleity**（1610s ← 中世纪拉丁 velleitas 词干——etymonline；法语 velléité 1616 亦借自经院拉丁 velleitas（13 世纪阿奎那），CNRTL——2026-10-01 经检索转引）；**will**（英语情态动词「要」——与拉丁 velle 同出 PIE **\*wel- (2)**「to wish, will」（etymonline 将 will ← 原始日耳曼 \*willjan 与拉丁 velle 同列该根），日耳曼语族远亲，**跨语系共祖**，最值得记的一对）
+- 核对：2026-10-01 经检索转引 etymonline / CNRTL 复核——velleity 1610s，直接取自中世纪拉丁 velleitas 词干（**非经法语**，原记「借自法语」订正）；will 与拉丁 velle 同出 PIE \*wel- (2)（will ← 古英语 willan ← 原始日耳曼 \*willjan）
 
 **同义 / 搭配 / 易混**
 - 搭配：`vouloir + 名词 / 不定式`（想要）；`je voudrais…`（礼貌请求）；`vouloir bien`（愿意、同意）；`vouloir dire`（意思是——Qu'est-ce que ça veut dire ?）；`en vouloir à qn`（生某人的气——高频固定搭配）
@@ -57,10 +57,10 @@ vouloir
 **v.** 想要、愿意（je veux）；je voudrais 礼貌请求；vouloir dire 意思是
 **形态**：3e groupe；助 avoir；过去分词 voulu；je veux / nous voulons / ils veulent；虚拟式 que je veuille
 **词源**：民间拉丁 \*volere（古典 velle 类推重构）→ 古法语 voloir；据 TLFi
-**英法交叉**：英 will 共祖（PIE \*wel-）；volition / volunteer / benevolent ← 拉丁 velle（共祖）；velleity 借自法语
+**英法交叉**：英 will 共祖（PIE \*wel- (2)）；volition / volunteer / benevolent ← 拉丁 velle（共祖）；velleity ← 中世纪拉丁 velleitas（1610s，非经法语）
 **易混**：vouloir 想要（意愿）vs pouvoir 能（能力）；en vouloir à qn 生某人的气
 
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `veux` → vouloir）
-- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 TLFi（\*volere）与《Dictionnaire étymologique》核对；最早文献（墨洛温 / 9 世纪）来源不一，标**待验证**
+- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 TLFi（\*volere）与《Dictionnaire étymologique》核对；2026-10-01 复清——转引 CNRTL/TLFi（首见 881《圣厄拉莉颂歌》）与 etymonline（velleity 1610s 非经法语、will ← PIE \*wel- (2)）；无遗留待验证项

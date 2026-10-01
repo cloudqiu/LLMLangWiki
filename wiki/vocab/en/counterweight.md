@@ -25,7 +25,7 @@ root: "counter-（拉丁 contra 对抗）+ weight（古英语「重量」）"
 
 **词源 / 构词**
 - **拆解**：counter-（词头「对抗、抵消」；约 1300 年入英语，经盎格鲁-法语 countre- / 法语 contre- ← 拉丁 contra「against」）+ weight（词根，古英语 wiht / gewiht「重量」← PIE \*wegh-「搬运、运送」，与 weigh 同源）——**透明复合词**
-- **演变**：构件来源清晰（counter- ↗ contra；weight ↗ \*wegh-）；但 counterweight 自身的**成词年代未见权威记载**（etymonline 无独立词条、Wiktionary 亦未给首见年代——**待验证**）。义项：机械「配重」→ 比喻「制衡力量」
+- **演变**：构件来源清晰（counter- ↗ contra；weight ↗ \*wegh-）；成词年代：Merriam-Webster 记首见 **1693**、Random House 记 **1685–95**（二者相合；etymonline 无独立词条——据 Merriam-Webster／Random House，2026-10-01 复清经检索转引）。义项：机械「配重」→ 比喻「制衡力量」
 - **同族 / 派生**：counter- 家族：counterbalance、counteract、counterpoint、counterintuitive、counterexample；weight 家族：weigh、heavyweight、lightweight、overweight、weighty
 - **记忆钩**：counter（反向）+ weight（砝码）＝**反向的砝码**——天平另一端那块让它不翘起来的铁；引申为「制衡」
 
@@ -44,3 +44,4 @@ counterweight
 ## 来源
 
 - raw/vocab-inbox.md（2026-10-01 收录；出处：书籍《Mattering》）
+- 备注：2026-10-01 复清——WebSearch 转引 Merriam-Webster／Random House 核对：成词年代 Merriam-Webster 记首见 1693、Random House 记 1685–95（etymonline 无独立词条）——原遗留项清除；无剩余待验证项

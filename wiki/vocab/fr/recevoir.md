@@ -37,9 +37,9 @@ root: "拉丁 recipere「接回、接收」＝ re-（回）+ capere（抓、拿�
 - **记忆钩**：recevoir ＝ re + cevoir（拿）——同「抓」根的还有 [[prendre]]（prehendere）与 [[inacceptable]]（capere 的 ac-cipere）：「拿」的一族——拿回＝收到、拿向＝接受
 
 **英法交叉核对（受影响的英语词）**
-- **借入英语**：**receive**（约 1300 ← 古法语 receivre / recoivre ← 拉丁 recipere）；**receipt**（← 古法语 recete——与 receive 同源**双借入**；p 为后世仿拉丁添笔；法语 recette 更近原形）
+- **借入英语**：**receive**（约 1300 ← 古法语 receivre / recoivre ← 拉丁 recipere）；**receipt**（← 古法语 recete——与 receive 同源**双借入**；p 为仿拉丁添笔、约 1500 后恢复拼写，发音未随之；法语 recette 更近原形）
 - **共祖未借入**：**recipient / receptacle / recipe / receptor**（← 拉丁 recipere / receptus——经拉丁直接入英，非经法语）
-- 核对：receive 约 1300、receipt 添笔年代标**待验证**，待联网核实
+- 核对：2026-10-01 经检索转引 etymonline 已核实——receive c. 1300（← 古北法语 receivre）；receipt 的 -p- 约 1500 后仿拉丁 recepta 恢复拼写（发音未随之）
 
 **同义 / 搭配 / 易混**
 - 搭配：`recevoir une lettre / un cadeau`（收到信 / 礼物）；`recevoir qn`（接待某人）；`être reçu à un examen`（通过考试）；`recevoir des soins`（接受治疗）
@@ -59,4 +59,4 @@ recevoir
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 TLFi / Académie（9e）核对：recivre 10 世纪（《圣莱热传》）、recevoir 1080（《罗兰之歌》，一说 13 世纪定型）；receive 约 1300 标**待验证**
+- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 TLFi / Académie（9e）核对：recivre 10 世纪（《圣莱热传》）、recevoir 1080（《罗兰之歌》，一说 13 世纪定型）；2026-10-01 复清——转引 etymonline：receive c. 1300、receipt -p- 约 1500 后恢复；无遗留待验证项

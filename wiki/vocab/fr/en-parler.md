@@ -34,14 +34,14 @@ root: "parler（教会拉丁 parabolare）+ en（拉丁 inde「从那里」）"
 
 **词源 / 构词**
 - **拆解**：parler（教会拉丁 **parabolare** ← 希腊 parabolē「话、比喻」——见 [[parler]]）+ en（拉丁 **inde**「从那里、由此」）
-- **演变**：拉丁 inde「从此、从那里」→ 古法语 en（**首见 9 世纪**，形式 int / ent——Académie，经检索转引）——由地点副词语法化为「（关于）那个」；约 1050 年起 en 与 [[y]] 的组合用法见诸记录（据 CNRTL「y」词条转引；语序 y en / en y 之争延至 17 世纪）
+- **演变**：拉丁 inde「从此、从那里」→ 古法语 en（**首见 9 世纪**，形式 int / ent——Académie，经检索转引）——由地点副词语法化为「（关于）那个」；约 1050 年起 en 与 [[y]] 的组合用法见诸记录（据 CNRTL「y」词条转引：Alexis 已见「en i out」；「en y」语序于 17 世纪被语法学家判废后「y en」通行）
 - **同族 / 派生**：副词代词二件套 en / y（[[y]]、[[il-y-a]]）；en 另作介词（拉丁 in「在」——与代词 en **同形异源**，如 en France）
 - **记忆钩**：en ＝ de 的代词化——凡是句子里该说 « de qch » 的地方都能缩成 en（J'en parle ＝ Je parle de ça）；跟 y（à 的代词化）配对记
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：无——结构未进入英语（英语没有副词代词系统，对应手段是保留介词：talk about **it**）
 - **共祖未借入**：无关键项
-- 核对：en ← 拉丁 inde 与 9 世纪首见（形式 int / ent）据 Académie 9e / Grevisse（经检索转引）；en / y 语序史细节仍标**待验证**
+- 核对：en ← 拉丁 inde 与 9 世纪首见（形式 int / ent）据 Académie 9e / Grevisse（经检索转引）；en / y 语序史细节已核——「en y」17 世纪被语法学家判废后「y en」通行（据 CNRTL「y」词条，2026-10-01 经检索转引）
 
 **同义 / 搭配 / 易混**
 - 搭配：`en parler à qn`（跟某人谈这事——à qn 用间接宾语）；`je n'en sais rien`（我对此一无所知）；`en avoir besoin / envie`（需要它 / 想要它——avoir 结构的高频 en 用法）
@@ -61,4 +61,4 @@ en parler
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：en ← 拉丁 inde（Académie 9e / Grevisse），首见 9 世纪（int / ent）；en / y 语序史细节仍标**待验证**
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：en ← 拉丁 inde（Académie 9e / Grevisse），首见 9 世纪（int / ent）。2026-10-01 复清：en / y 语序史细节经 WebSearch 转引 CNRTL「y」词条核实（「en y」17 世纪判废后「y en」通行）；无遗留待验证项

@@ -25,7 +25,7 @@ sources: [raw/vocab-inbox.md]
 - 词条：**17**（new 17 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
 - 待处理：inbox 暂无积压（八批共 17 条已编译，均出自《Mattering》）
 - 词条（17）：[[deplete]]、[[off-kilter]]、[[unravel]]、[[turquoise]]、[[flurry]]、[[nook]]、[[counterweight]]、[[disconcert]]、[[hospice]]、[[decor]]、[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]]（其中 2 条为**多词词条**）
-- **待回补清账（2026-10-01 完成）**：[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]] 共 **7** 条已经 2 批子代理「**WebSearch 转引** etymonline / 医学词典」核对（直连仍 sinkhole）——含实质订正（sew 同源形式按 etymonline 校正、faucet 得名理据改「两说并存」、endometriosis 1927 Sampson 命名核实）；遗留 **3 项**无定论如实保留（in-sight 同源假说、faucet 理据取舍、endometriosis 首见年份两说——见 log 清账条目）。[[counterweight]] 成词年代由第二批子代理复清中；前 10 词编译时已对照核实
+- **待回补清账（2026-10-01 完成，两批）**：[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]] 共 **7** 条 + [[counterweight]]（成词年代已复清补入：**1693**，Merriam-Webster／Random House）均已经「**WebSearch 转引** etymonline / 医学词典」核对（直连仍 sinkhole）——含实质订正（sew 同源形式按 etymonline 校正、faucet 得名理据改「两说并存」、endometriosis 1927 Sampson 命名核实）；遗留 **3 项**无定论如实保留（in-sight 同源假说、faucet 理据取舍、endometriosis 首见年份两说——见 log 清账条目）；前 10 词编译时已对照核实
 
 ## 怎么用
 

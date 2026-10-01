@@ -31,14 +31,14 @@ root: "au + jour + de + hui——hui ← 拉丁 hodie（hoc die「在这一天�
 
 **词源 / 构词**
 - **拆解**：au + jour + de + **hui**——其中 **hui** ← 拉丁 **hodie**「今天」（＝ **hoc die**「在这一天」的缩合）；字面「在今天这一天」，叠床架屋的历史化石
-- **演变**：拉丁 hodie → 古法语 **hui / oi / ui**（Académie 记 10 世纪 *oi*）→ 12 世纪起出现强化式「au jour d'hui」（Grevisse）→ 14 世纪「au jour d'ui」→ 古法语晚期凝固为 **aujourd'hui**（据 CNRTL / Grevisse 转引资料）
+- **演变**：拉丁 hodie → 古法语 **hui / oi / ui**（Académie 记 10 世纪 *oi*）→ 12 世纪起出现强化式「le jour d'hui / au jour d'hui」（Grevisse）→ 13 世纪 **au jor d'ui**（1220）→ 14 世纪 **aujourd'huy**（Marchello-Nizia 语料）→ 古法语晚期凝固为 **aujourd'hui**（据 CNRTL / Grevisse 转引资料，2026-10-01 复清）
 - **同族 / 派生**：hui 只活在 aujourd'hui 里（古法语「今天」已废弃）；与 **[[deja]]** 结构相似（都是时间词的历史凝固——déjà ＝ dès + ja）；jour 家族：journée（白天）、journal（报纸）、bonjour（你好）
 - **记忆钩**：aujourd'hui 字面「在今天这一天」——冗余得像英语说 "on today's day"；拆开记：au + jour + d' + hui，hui ＝ hodie，一拆就不怕拼写
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：无——aujourd'hui 没有进入英语
 - **共祖未借入**：**today**（← 古英语 tō dæge「在这一天」——与 au jour / hoc die 结构完全平行：「在（这）天」，各自独立语法化，非借入）；**journal / journey / adjourn / sojourn**（← 法语 jour 家族——「日」的借入线）
-- 核对：today 古英语形式与 jour 家族借入年代标**待验证**，待联网核实
+- 核对：today 古英语形式 **todæge / to dæge**、jour 家族借入年代（journal mid-14c、journey c. 1200、adjourn early 14c、sojourn mid-13c）——据 etymonline，2026-10-01 经检索转引核实；无遗留待验证项
 
 **同义 / 搭配 / 易混**
 - 搭配：`aujourd'hui + 时间 / 日期`；`d'aujourd'hui`（今天的——la mode d'aujourd'hui）；`à partir d'aujourd'hui`（从今天起）；`aujourd'hui même`（就在今天）
@@ -58,4 +58,4 @@ aujourd'hui
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 CNRTL（Académie 9e「HUI」条：10 世纪 oi）与 Grevisse 核对；加固年代（12 / 14 世纪）细节标**待验证**
+- 核对说明：2026-10-01 第六批——CNRTL 直连仍被 sinkhole，WebSearch 转引 CNRTL（Académie 9e「HUI」条：10 世纪 oi）与 Grevisse 核对；2026-10-01 复清——WebSearch 转引 Grevisse（12 世纪强化式）、Marchello-Nizia 语料（au jor d'ui 1220、aujourd'huy 14 世纪）与 etymonline（today ← 古英语 todæge；journal mid-14c、journey c. 1200、adjourn early 14c、sojourn mid-13c）——原待验证项已清，无遗留待验证项

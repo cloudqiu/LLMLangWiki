@@ -260,3 +260,14 @@
 - 核查代理另报：① [[en-parler]] 漏改一行已补（en 首见 9 世纪已核）；② [[prendre]] prison / prize / surprise / reprisal 归类错标（原在「共祖」栏而描述为「经古法语借入」）——已改归「借入英语」并注订正；③ 13 页「待验证」仅为「无遗留」否定句（非债务）
 - 更新：[[french-vocabulary]] / [[english-vocabulary]]（两边「待回补」清单 → 已清账）、`index.md`（Backlog）；无定论项清单存本条目
 - 待办：第六批新页（lettre / vouloir / physique / membre / recevoir / bancaire / aujourd'hui / la-art / en-parler）与 [[counterweight]] 的少量细节、及上述可复检的残留项 → 第二批子代理复清（随后条目）
+
+## [2026-10-01] lint | 存量清账·复清：16 词第二批子代理——最终仅余 9 项无定论（fr 6 ｜ en 3）
+
+- 触发：第一批遗留（第六批新页细节 + 第一批未决项重检）——4 批子代理（R1–R4；132 次工具调用 / 32 万 token / 约 4 分钟）
+- **未决项重检清除**：prendre（comprise early 15c ← 古法语 compris；apprehend late 14c / comprehend mid-14c 直源拉丁）；inacceptable（capere 家族全清：accept late 14c、conceive late 13c、capture 1540s、perception late 14c、receptive early 15c）；connaitre（ignore 1610s、reconnoiter 1707）；littérature（alliteration 1650s）；environ（**environment 系英语自造 c.1600——法语 environnement 现代义反而自英语回借（CNRTL）**，原「英语取自法语」之说订正）
+- **第六批新页清除**：lettre（letter c.1200；littera 词源按 etymonline 记「不确定」——diphthera 说系 Watkins 说，争议本身获权威源佐证）；vouloir（最早 **881《圣厄拉莉颂歌》**；**velleity 订正：直接源自中世纪拉丁 velleitas（1610s），非经法语**——移入共祖栏并同步闪卡）；recevoir（receive c.1300；receipt 的 -p- 约 1500 后仿拉丁恢复）；parler（parley mid-15c / parliament c.1300 / parlor c.1300；paroler 争议按 Romania 1884 考订并记）；physique（英语再借入 **1826**）；membre（member c.1300）；**bancaire 三项全清**（banque 15 世纪、bancaire 19 世纪初、bank 金融义 late 15c）；aujourd'hui（today ← OE todæge；jour 家族年代；1220 au jor d'ui 证形）；la-art（à la late 16c；the ← 晚期 OE þe——另订正 **à la carte 实为 1826 入英**）；en-parler（en/y 语序史：约 1050「en i out」、17 世纪「en y」判废后「y en」通行）
+- **英语侧**：[[counterweight]] 成词年代补入 **1693**（Merriam-Webster；Random House 1685–95）
+- **最终遗留 9 项**（学界未定 / 无权威数据，如实保留「待验证」）：fr 6——auteur（author -th- 机制两说）、deja（Boirac 1876 转述）、emission（节目义年代区间 1906–1938）、environ（virer 词源 vibrare／\*gyrare 两说）、jamais（jamais vu 年代）、litterature（-litter-→-liter- 拼写简并年代）；en 3——in-sight（sight~sequi 假说）、faucet（fausset 两说）、endometriosis（首见年份 1927 vs 1925 两说）
+- 另：各页「出处：推断 Duolingo——待确认」为**待用户确认项**（非检索可决），按规则原样保留
+- 更新：[[french-vocabulary]]（清账行：两批 13 子代理、法语侧仅余 6 项）、[[english-vocabulary]]（counterweight 复清补入）、`index.md`（Backlog：仅余 9 项）
+- 核对债务至此**基本清零**（余 9 项均属学界无定论类，非「未检索」类）
