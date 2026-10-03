@@ -20,12 +20,13 @@ sources: [raw/vocab-fr-inbox.md]
 
 ## 进度
 
-- 词条：**95**（new 95 ｜ learning 0 ｜ known 0）；更新于 2026-10-03
-- 待处理：inbox **积压清零**（第八批 19 条已编译——`interesse`→[[interesser]] 归并到不定式 lemma（过去分词/形容词用法），其余仅补重音与 ASCII 转写，2026-10-03）；第一二批标注 Duolingo，第三至八批 inbox **未标注来源**——推断 Duolingo，**待确认**
-- 词条（76）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]、[[en-pron]]、[[parfois]]、[[faire]]、[[marcher]]、[[tout]]、[[aller]]、[[appel]]、[[important]]、[[carriere]]、[[compte]]、[[salaire]]、[[etre]]、[[choix]]、[[seul]]、[[classeur]]、[[amener]]、[[ouvrir]]、[[paire]]、[[precieux]]、[[brulant]]、[[royal]]、[[morceau]]、[[casser]]、[[proche]]、[[dispute]]、[[produit]]、[[hate]]、[[avoir-hate-de]]、[[ecole]]、[[solution]]、[[controler]]、[[rembourser]]、[[completement]]、[[emporter]]、[[reine]]、[[micro-ondes]]、[[cuisine]]、[[postuler]]、[[aucune-idee]]、[[interesser]]、[[meme-si]]、[[loin]]、[[culture]]、[[payant]]、[[prince]]
+- 词条：**123**（new 123 ｜ learning 0 ｜ known 0）；更新于 2026-10-03
+- 待处理：inbox **积压清零**（第九批 28 条已编译——归并：`fini`→[[finir]]、`sais`→[[savoir]]、`bonne`→[[bon]]、`offiirai`→[[offrir]]（疑 j'offrirai 手误）；拼写变体：`converture`→[[couverture]]——**待确认**；多词单位 6 条独立建页；2026-10-03）；第一二批标注 Duolingo，第三至九批 inbox **未标注来源**——推断 Duolingo，**待确认**
+- 词条（76）：[[gouvernement]]、[[cathedrale]]、[[patissier]]、[[chapitre]]、[[detective]]、[[il-y-a]]、[[environ]]、[[mot]]、[[nouveau]]、[[auteur]]、[[connaitre]]、[[court]]、[[presentateur]]、[[certain]]、[[trouver]]、[[emission]]、[[decouvrir]]、[[incroyable]]、[[deja]]、[[voir]]、[[litterature]]、[[moderne]]、[[prendre]]、[[ca]]、[[mon]]、[[frere]]、[[chercher]]、[[son]]、[[deodorant]]、[[pouvoir]]、[[jamais]]、[[rester]]、[[longtemps]]、[[souffle]]、[[bougie]]、[[gateau]]、[[sur-prep]]、[[inacceptable]]、[[y]]、[[physique]]、[[bancaire]]、[[membre]]、[[lettre]]、[[recevoir]]、[[vouloir]]、[[en-parler]]、[[parler]]、[[aujourd-hui]]、[[la-art]]、[[la-pron]]、[[en-pron]]、[[parfois]]、[[faire]]、[[marcher]]、[[tout]]、[[aller]]、[[appel]]、[[important]]、[[carriere]]、[[compte]]、[[salaire]]、[[etre]]、[[choix]]、[[seul]]、[[classeur]]、[[amener]]、[[ouvrir]]、[[paire]]、[[precieux]]、[[brulant]]、[[royal]]、[[morceau]]、[[casser]]、[[proche]]、[[dispute]]、[[produit]]、[[hate]]、[[avoir-hate-de]]、[[ecole]]、[[solution]]、[[controler]]、[[rembourser]]、[[completement]]、[[emporter]]、[[reine]]、[[micro-ondes]]、[[cuisine]]、[[postuler]]、[[aucune-idee]]、[[interesser]]、[[meme-si]]、[[loin]]、[[culture]]、[[payant]]、[[prince]]、[[generalement]]、[[diplome]]、[[probablement]]、[[finir]]、[[roman-policier]]、[[bon]]、[[recette]]、[[tarte]]、[[citron]]、[[raison]]、[[librairie]]、[[liseuse]]、[[c-est-pour-ca-que]]、[[etagere]]、[[trop]]、[[petit]]、[[avoir-besoin-de]]、[[couverture]]、[[marque-page]]、[[roi]]、[[princesse]]、[[savoir]]、[[bientot]]、[[peut-etre]]、[[donc]]、[[offrir]]、[[roman]]、[[vu-que]]
 - **待回补清账（2026-10-01 完成，两批共 13 个子代理）**：前五批 **38** 条 + 第六批新页细节已经「**WebSearch 转引** CNRTL/TLFi/Académie」核对（CNRTL 直连仍 sinkhole）——多处实质订正（détective 1871、découvrir 承 discooperire、velleity 非经法语等）；**法语侧仅余 6 项**真正无定论者如实保留「待验证」（auteur 的 -th- 机制、déjà 的 Boirac 说、émission 节目义年代、environ 的 virer 两说、jamais vu 年代、littérature 拼写简并——清单见 log）。法语词源一律以 CNRTL/TLFi 为准
 - **第七批待回补（2026-10-01，25 条）**：本批英语侧借入年代（fashion/feat/feature/career/salary/choice/appeal/march/total/royal/morsel/approach/dispute/product/class/amenable/overt/pair/precious/sole/entity/essence 等）已从 etymonline 取得明证；**法语侧首证年代普遍待 CNRTL/TLFi 详核**（约 21 词的具体定年）；另留 **5 项学界未定**如实保留：brûler 词源两说（ustulare / *brodum）、marcher 终极来源、totus 来源不明、aller 的 aler 词干来源（ambulare 缩约 vs allari）、proche 俗拉丁中间形（propianus vs propius）——清单见 log
 - **第八批待回补（2026-10-03，19 条）**：法语侧首证年代多数经「检索转引」**当场核实**（hâte 1165-70、cuisine 1155、solution 1119、rembourser 1262、loin ca 1050、reine 11c、contrôler 1310 链、prince/école/culture 等）；残留 **≈ 20 项**明细待清（各词条「来源」节逐条列出）——三类：①英语侧派生词年代未逐一核（peace/pact/pacify、prime/primary、hasty、roll/role）；②TLFi 原条未直连核对（payant / prince / culture / complètement）或首证年代未得（complètement 副词、micro-onde、idée、lointain、scolaire、「应聘」义、à emporter、\*kokina 入日耳曼年代）；③并存两说如实并列不折中（control 支配义 mid-15c vs 16c、solution 化学义 1676/1690、rembourser 1262/1444、Regina 首见、英 important mid-15c vs 16c、英 culture 借入路径三源）
+- **第九批待回补（2026-10-03，28 条）**：法语侧首证年代多数经检索转引**当场核实**（roi ca 880、raison ~980、petit ~980、bon 10c、roman ca 1125、princesse ca 1175、recette 1283 等）；残留 **≈ 24 项**（各词条「来源」节逐条列）——三类：①英语侧细节（boon 两义合流、receipt 义变、petite 入英年代、liseuse 英语借义、diplomatic 年代）；②TLFi 原条未直连或首证未得（trop、tarte、roi 拼写定型、étagère、tirer les rois、polar、电子阅读器义、librairie 现代义定型）；③并存两说如实并列（tarte 词源诸说与 Tatin 传说、savoir-faire 1788/1815、librairie 窄化 16c vs 1846、princesse/principissa、trop 词源、donc 词源三说、peut-être 1680、polar 词源）
 
 ## 怎么用
 
@@ -79,17 +80,23 @@ sources: [raw/vocab-fr-inbox.md]
 | [[la-art]] / [[la-pron]]（法语） | la | la 按词性分页：冠词 `la-art.md`、宾语代词 `la-pron.md`（2026-10-01 用户确认 inbox 的 `la` 为宾语用法）；与 là（副词「那里」）近形——日后收 là 记为 `la-adv.md` |
 | [[en-pron]]（法语） | en | en 按词法分页：副词代词 `en-pron.md`（← 拉丁 inde）、介词 en（← 拉丁 in）日后收词记 `en-prep.md`——同形异源，勿混 |
 | [[hate]] 等 6 页（法语，2026-10-03） | hâte / loin / solution / culture / cuisine / prince | 本批先建法语页的 6 个「与英语词同形」词条：英语侧日后收词一律记 `-en` 后缀（`hate-en.md`、`loin-en.md`、`solution-en.md`、`culture-en.md`、`cuisine-en.md`、`prince-en.md`），与原页互链 |
+| [[couverture]]（法语，2026-10-03） | couverture | inbox 原写作 `converture`（拼写变体/手误）→ 按词典形 couverture 编译——**待用户确认** |
+| [[roman]] / [[liseuse]]（法语，2026-10-03） | roman / liseuse | 英语侧有同形 / 借形词（roman「罗马的、正体字」；liseuse 借词）——英语日后收词记 `-en` 后缀（`roman-en.md` 等），与原页互链 |
 
 ## 词族 / 综合页
 
-（暂无已建页面——出现 faux amis 簇、同音簇、构词零件（-tion / -ment / re- / dé-）或英法同源对（décor ↔ [[decor]]）等值得综合的内容时在此登记）
+**已建综合 / 辨析页**（2026-10-03）：
+
+- [[mots-de-la-royaute]] —— 「王室词汇」词族：rex 与 princeps **两条词根**（[[roi]] · [[reine]] · [[royal]] · [[prince]] · [[princesse]]；royaume 待收）
+- [[connaitre-vs-savoir]] —— 认识 vs 知道 辨析（由 [[connaitre]] / [[savoir]] 触发）
+
+**候选**（出现 faux amis 簇、同音簇、构词零件（-tion / -ment / re- / dé-）或英法同源对（décor ↔ [[decor]]）等值得综合的内容时在此登记）：
 
 - **候选（2026-10-01）**：「掌舵」词族 **gouvernement · gouverner · gouverneur · gouvernail · gouvernante · gouvernance**——同出拉丁 gubernare ← 希腊 kybernan「掌舵」，与英语 govern / governor / cybernetics / cyber- 同源；由 [[gouvernement]] 触发，待再收两三词后评估建综合页
 - **候选（2026-10-01）**：**caput「头」词族**（[[chapitre]] · 英语 chief / chef / capital / captain / cape）——chief 与 chef 是英语对同一词源的双重借入；待再收 capitaine / capital 类法语词后评估建页
 - **候选（2026-10-01）**：**cathedra「座」词族**（[[cathedrale]] · 英语 chair / chaise / cathedra）——chair 与 cathedral 同出拉丁 cathedra（双重借入），chairman 的 chair 也在这一线
 - **候选（2026-10-01）**：**pasta「面团」词族**（[[patissier]] · pâte · 英语 pastry / paste / pasta / pâté）——paste 与 pasta 双重借入、pâté 再借入；「一个词根多次进英语」的样本
 - **候选（2026-10-01）**：**英语回借簇（anglicismes）**（[[detective]] 起）——détective 之后若再收 week-end / email / marketing 等，可合并一页「法语里的英语借词」
-- **候选（2026-10-01）**：**connaître vs savoir**（认识 vs 知道）——法语动词辨析的头号易混对：connaître 认识（+ 名词，凭经验）／ savoir 知道（+ 从句 / 不定式）；由 [[connaitre]] 触发，待 savoir 收词后建辨析页
 - **候选（2026-10-01）**：**同音簇 court · cour · cours**（都读 /kuʁ/，另有 il court「他跑」）——短 / 院子·宫廷 / 课程，一个音四个义；由 [[court]] 触发
 - **候选（2026-10-01）**：**「新」三兄弟 nouveau · neuf · récent**＋英语 new / novel 的**借入 vs 共祖**样本——由 [[nouveau]] 触发（new 是 PIE 共祖、novel 是古法语借入，最佳对比例）
 - **候选（2026-10-01）**：**prehendere「抓」词族**（[[prendre]] · apprendre · comprendre · surprendre · entreprendre ＋ 英 entrepreneur / enterprise / surprise / prison）——surprise 的 -prise 即「抓」；由 [[prendre]] 触发，待收 comprendre / apprendre 后建页
@@ -109,7 +116,6 @@ sources: [raw/vocab-fr-inbox.md]
 - **候选（2026-10-01）**：**「去」三根拼合 aller**（[[aller]] · venir · partir ＋ 英 alley / amble / ambulance / exit / transit）——vadere + ire + ambulare 异干互补样本；由 [[aller]] 触发
 - **候选（2026-10-01）**：**pretium「价格」词族**（[[precieux]] · prix · apprécier ＋ 英 price / prize / praise / precious / appreciate）——「价格→珍贵→赞扬」语义链；由 [[precieux]] 触发
 - **候选（2026-10-01）**：**「盐」sal 词族**（[[salaire]] · sel · saler ＋ 英 salary / salt / salad / sauce / salami）——「买盐的钱」→「工资」；由 [[salaire]] 触发
-- **候选（2026-10-01；2026-10-03 更新）**：**「王」reg- 词族**（[[royal]] · [[reine]]（已收）· roi · royaume ＋ 英 royal / regal / reign / realm；注：英 queen 与 reine 义对义而词源零关系）——royal 与 regal 双重借入；待收 roi / royaume 后评估建页；由 [[royal]] / [[reine]] 触发
 - **候选（2026-10-01）**：**计算 computare**（[[compte]] · compter · conter ＋ 英 count / account / compute / recount / raconteur）——「数」与「讲」同源分化；由 [[compte]] 触发
 - **候选（2026-10-01）**：**solus「单独」词族**（[[seul]] · seulement · solitude ＋ 英 sole / solitary / solitude / solo）——由 [[seul]] 触发
 - **候选（2026-10-03）**：**schola「闲暇→学校」词族**（[[ecole]] · scolaire / scolarité ＋ 英 school / scholar（共祖：拉丁→古英语直借）· scholastic（经法语））——「闲暇→讲学→学校」语义链 + 两条入英路径；由 [[ecole]] 触发
@@ -123,6 +129,14 @@ sources: [raw/vocab-fr-inbox.md]
 - **候选（2026-10-03）**：**intéressant / intéressé 易混对**（[[interesser]] · intérêt / désintéressé ＋ 英 interesting / interested / disinterested）——「有趣 vs 感兴趣」经典母语干扰点；由 [[interesser]] 触发
 - **候选（2026-10-03）**：**「钱与付」簇**（[[payant]] · [[rembourser]] · [[salaire]] · payer / bourse ＋ 英 pay / reimburse / purse / disburse）——pacare「安抚」与 bursa「钱袋」两条钱线；由 [[payant]] / [[rembourser]] 触发
 - **候选（2026-10-03）**：**portare「搬运」词族**（[[emporter]] · porter / apporter / rapporter / emmener ＋ 英 port / import / export / portable / transport；important 经意大利语中转）——由 [[emporter]] 触发
+- **候选（2026-10-03）**：「书与阅读」簇（[[roman]] · [[roman-policier]] · [[liseuse]] · [[librairie]] · [[etagere]] · [[marque-page]] · [[couverture]] ＋ 英 romance / library / librarian——含 faux ami librairie / library；待 bibliothèque 收词后评估建页）——由 [[roman]] / [[librairie]] 触发
+- **候选（2026-10-03）**：「厨房与食谱」簇（[[recette]] · [[tarte]] · [[citron]] · [[gateau]] · [[patissier]] · [[cuisine]] ＋ 英 recipe / receipt 双胞、tart、citron ↔ lemon 双漂移）——由 [[recette]] 触发
+- **候选（2026-10-03）**：**bon vs bien 易混对**（[[bon]] · bien · meilleur / mieux ＋ 英 good / well 对照）——形容词 vs 副词、两套不规则比较级；由 [[bon]] 触发
+- **候选（2026-10-03）**：**拉丁 recepta 双胞**（[[recette]] ↔ 英 receipt / recipe——「同源两借」样本；[[recevoir]] 已在）——由 [[recette]] 触发
+- **候选（2026-10-03）**：**ratio「计算 / 理性」词族**（[[raison]] · ration / ratio / rational ＋ 英 reason / ratio / ration / **raison d'être**（整体回借入英））——由 [[raison]] 触发
+- **候选（2026-10-03）**：**legere「读 / 拾」词族**（[[liseuse]] · lire · lecture ＋ 英 legible / legend / lesson / lecture / elect / select / collect——PIE \*leg-「收集」）——由 [[liseuse]] 触发
+- **候选（2026-10-03）**：**原因 / 结果连接簇**（[[vu-que]] · [[c-est-pour-ca-que]] · [[donc]] · puisque / parce que / car / comme——语域梯度）——由 [[vu-que]] / [[c-est-pour-ca-que]] 触发
+- **候选（2026-10-03）**：**-ment 副词 vs 英 -ly**（[[completement]] · [[generalement]] · [[probablement]] ＋ 英 completely / generally / probably——同模型平行构词样本）——由 [[completement]] 触发
 
 ## 开放问题
 

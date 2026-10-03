@@ -104,6 +104,34 @@ loin
 culture
 payant
 prince
+generalement
+diplome
+probablement
+fini
+roman policier
+bonne
+recette
+tarte
+citron
+raison
+librairie
+liseuse
+c'est pour ca que
+etagere
+trop
+petit
+avoir besoin de
+converture
+marque-page
+roi
+princesse
+sais
+bientot
+peut-etre
+donc
+offiirai
+roman
+vu que
 
 
 

@@ -327,3 +327,32 @@
 - **连带清账**：[[important]] 回填（法语首见 1476 / 1528 补核 + 英语两说补记，原「待 TLFi 核实」项**已清**）；[[amener]] / [[royal]] 补互链（[[emporter]]、[[reine]]；均更新 frontmatter updated 2026-10-03）
 - **备注（环境）**：CNRTL 直连仍 sinkhole（未 WebFetch，一律 WebSearch 转引）；子代理按检索**实质订正**三处主代理提示（英 control 支配义 mid-15c、英 culture mid-15c、英 postulate 动词源 postulatus）——均按检索记录并注明
 - 更新：[[french-vocabulary]]（进度 76→95、词条列表全列、待回补 +第八批、命名表 +同形 6 词、词族候选 ×11：schola / contrôle·control / haste / solvere / longus / coquina / princeps / 否定词反转 / intéressant·intéressé / 钱簇 / portare）、`index.md`（Stats：fr 76→95，总 93→112；Backlog 更新）；随后 git 提交
+
+## [2026-10-03] ingest | vocab-fr: 第九批 28 条 → 28 词条 + 2 综合页（roman / librairie / roi / princesse / savoir / bon / recette / tarte / citron / liseuse / raison / trop / petit…）——法语 inbox 积压再次清零，两个长期候选建页清账
+
+- 来源：`raw/vocab-fr-inbox.md` 第 107–134 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 106 行均已编译，无重复
+- 新建词条 28 条（5 批子代理并行编译 + 主代理全批复核：结构自检 28/28 通过、367 项链接全解析〔仅登记在案的 `[[grand]]` 占位〕）：归并——`fini`→[[finir]]、`sais`→[[savoir]]、`bonne`→[[bon]]、`offiirai`→[[offrir]]（疑 j'offrirai 手误）；拼写变体——`converture`→[[couverture]]（**待用户确认**）；多词单位 6 条独立建页：[[roman-policier]] / [[c-est-pour-ca-que]] / [[avoir-besoin-de]] / [[peut-etre]] / [[vu-que]] / [[marque-page]]
+- **两个综合页建立（清长期候选）**：[[mots-de-la-royaute]]（「王室词汇」——rex 与 princeps **两条词根**的坑：roi / reine / royal vs prince / princesse）＋ [[connaitre-vs-savoir]]（认识 vs 知道辨析）；均登记入 index Topics 与 hub「已建」区
+- 词源要点（全部 WebSearch 转引——CNRTL 直连仍 sinkhole）：
+  - **roi**＝拉丁 rex/regem ← regere；首证 ca 880（rex，《圣欧拉莉颂歌》）；英 viceroy ← vice-roy（借入）、king（cyning ← \*kuningaz）零词源关系
+  - **reine / royal**（rex 线）＋ **prince / princesse**（princeps ＝ primus + capere 线）——princesse ca 1175（`-esse` 法语本土派生）
+  - **roman**＝中世纪拉丁 romanice「用罗曼语」——词源即「罗曼语」本身；古法语 romanz ca 1125；英 romance c. 1300 借入；英 novel 走 novellus 另线
+  - **librairie**＝**faux ami 重点**：法语＝书店（中世纪曾＝「图书馆/藏书」→ 1360-70 义档起窄化）；英 library late 14c 借「图书馆」义后不再随法语漂移
+  - **liseuse**＝lire 词族多义（1867 裁书刀 → 1889 小桌 → 1909 披肩 → 1918 阅读灯 → 1930 书封套；今主指电子阅读器）
+  - **savoir**＝民间拉丁 \*sapēre ← sapere「有滋味→明智」；842 首见名词化；英 savoir-faire（1788/1815 两说）、savant 1719、savvy 1785（诸说）
+  - **finir**＝拉丁 finire ← finis；古法语 fenir 约 1100 → 13c 依 fin 重构；英 finish（← 古法语 finiss-）/ fine / final / finance 借入
+  - **offrir**＝拉丁 offerre；英 offer 双线（古英语 offrian 宗教义 ＋ 古法语 offrir 世俗义）
+  - **bon**＝拉丁 bonus（10c buon）；bon vs bien ／ meilleur vs mieux 两套不规则；英 bonus 拉丁直借、bon appétit 1860 等短语借入
+  - **recette**＝拉丁 recepta；英 receipt（← 古北法语 receite）与 recipe（拉丁祈使式）**同源双胞**；收入义 ↔ dépenses
+  - **tarte** ca 1220；词源诸说并列；Tatin 传说与文献两说；**citron**＝法语「柠檬」↔ 英 lemon，英 citron ＝ 法语 cédrat（**双漂移**）
+  - **trop** ca 1100（罗兰）；法兰克 \*throp「堆」说；英 de trop 1752 借入；**petit** ~980 ← \*pittittus；英 petty 贬化警示
+  - **raison**＝拉丁 ratio；古法语 raizun ~980 首证（**初义「言语」**）；avoir raison；英 reason 借入、**raison d'être 1864 回借入英**
+  - **généralement**（generalment fin 12e）、**probablement**（probable fin 14e）；**sans doute** 词义翻转三史料（1764→1798→1932）
+  - **diplôme**＝希腊 diploma「对折文书」；**étagère** 经普罗旺斯语 estagiera 1379 借入；**marque-page** 20c 复合词（复数 marque-pages）
+  - **couverture**＝cooperire（operire 侧）；首见 mil. XIIe s.；与 [[ouvrir]]（aperire）**反义根**；英 cover / coverture / curfew 借入、coverage 自构 1912
+  - **bientôt**＝bien + tôt（1643 连写 Corneille——检索订正）；**donc** 980 dunc（\*dunc 主流说，三说并列）；**avoir besoin de**（besoin ← 法兰克 \*bisunni 说）
+  - **vu que**（voir 过去分词语法化，首用约 1421 转引）；**c'est pour ça que**（口语引结果，与 vu-que 互为镜像）；**peut-être**（put cel estre 约 1120 → 1680 一说；与 peut être 最小对立对）
+- 子代理按检索**实质订正**三处提示：king 词根（cyning ← \*kuningaz，PIE \*gene-）；英 roman「正体字」义 **1510s**（原记 1660s）；liseuse 英语借义（小桌 / bed jacket，非书封套）——均按检索记录并注明
+- **待回补（≈ 24 项）**：英语侧细节（boon 两义合流、receipt 义变、petite 入英年代、diplomatic 年代、liseuse 英语借义）；TLFi 原条未直连 / 首证未得（trop、tarte、roi 拼写定型、étagère、tirer les rois、polar、电子阅读器义、librairie 现代义定型）；并存两说（tarte 词源、Tatin 传说、savoir-faire 1788/1815、librairie 窄化 16c vs 1846、princesse/principissa、donc 三说、peut-être 1680、polar 词源）——明细在各词条「来源」节
+- **备注（环境）**：CNRTL 直连仍 sinkhole（未 WebFetch，一律 WebSearch 转引）；本批子代理 5 只 / 合计约 56 万 token / 并行约 7–8 分钟
+- 更新：[[french-vocabulary]]（进度 95→123、词条列表全列、待回补 +第九批、命名表 +couverture / roman·liseuse 两行、综合页「已建」区 +2 并清 2 候选、词族候选 +8：书与阅读 / 厨房食谱 / bon·bien / recepta 双胞 / ratio / legere / 因果连接簇 / -ment）；`index.md`（Topics +2、Stats：fr 95→123，总 112→140，wiki 页面 2→4；Backlog 更新）；已 git 提交
