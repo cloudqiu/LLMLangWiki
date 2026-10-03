@@ -298,3 +298,32 @@
 - 添加 `origin` 远程并首次推送 `main`（含全部历史：建库 → 各批 ingest / lint 清账 → 第七批）
 - **环境处理**：Git for Windows 自带 MSYS `ssh.exe` / `sh.exe` 在本 harness 沙箱下报 `couldn't create signal pipe, Win32 error 5`（命名管道受限）——改用 **Windows 原生 OpenSSH**（`C:\Windows\System32\OpenSSH\ssh.exe`）并经 **`GIT_SSH`** 直连（不经 MSYS shell，避开 `core.sshCommand` 的 shell 解释）后推送成功；SSH 身份 `id_ed25519`（cloudqiu）验证通过
 - 备注：`GIT_SSH` 为会话级环境变量、非持久——后续在本 harness 内推送需重设（`$env:GIT_SSH = "C:\Windows\System32\OpenSSH\ssh.exe"`）；用户本机终端不受此沙箱限制，自带 MSYS ssh 应可用
+
+## [2026-10-03] ingest | vocab-fr: 第八批 19 条 → 19 词条（hâte / avoir hâte de / école / solution / contrôler / rembourser / complètement / emporter / reine / micro-ondes / cuisine / postuler / aucune idée / intéresser / même si / loin / culture / payant / prince）——法语 inbox 积压再次清零
+
+- 来源：`raw/vocab-fr-inbox.md` 第 88–106 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 87 行均已编译，无重复
+- 新建词条 19 条（4 批子代理并行编译 + 主代理全批复核：结构自检 19/19 通过、链接全解析）：`interesse`→[[interesser]]（过去分词/形容词形式归并到不定式 lemma，页内写「收录说明」）；`hate`→hâte、`ecole`→école、`controler`→contrôler、`completement`→complètement、`meme si`→même si、`aucune idee`→aucune idée（补重音；文件名 ASCII 转写）；多词单位 3 条独立建页（[[avoir-hate-de]] / [[aucune-idee]] / [[meme-si]]）；本批无命名消歧冲突；6 个与英语同形词（hate / loin / solution / culture / cuisine / prince）登记入命名表（英语侧日后记 `-en`）
+- 词源要点（全部 WebSearch 转引——CNRTL 直连仍 sinkhole）：
+  - **hâte**＝法兰克语 \*haist「猛烈」（一说 \*haifst，并列）；名词首证 1165-70；英 haste late 13c 借自古法语——法兰克一源三分（英 haste / 德 Hast 反借 / 法语 hâter）
+  - **avoir hâte de**＝1538 首见（Estienne）；英 can't wait 系独立形成（无借入）
+  - **école**＝拉丁 schola ← 希腊 skholē「闲暇」；古法语 escole 11c；英 school / scholar 系拉丁→古英语直借（共祖），**scholastic 1590s 反而经法语**
+  - **solution**＝拉丁 solutio ← solvere（se- + luere）；法语首证 1119「解释」；英 solution late 14c 借入（英「溶液」义 1590s 早于法语）
+  - **contrôler**＝contre-rôle「对账簿」→「核查」；盎格鲁-诺曼 contre roller 约 1310；英 control 借「核查」义后英语侧漂移出「支配」义（mid-15c vs 16c 两说），20c 回流法语被 Académie 判 anglicisme——faux ami 重点页
+  - **rembourser**＝re- + embourser（bourse「钱袋」← 希腊 byrsa）；首证 1262（一说 1444，并列）；英 reimburse 1610s ← imburse 1530s ← 法语 embourser
+  - **complètement**＝complet（← completus，14c）+ -ment；英 completely early 15c 系英语自构（-ly）——平行构词非借入
+  - **emporter**＝en-（← 拉丁 inde）+ porter（← portare）；首见约 980「enportet」；l'emporter 1350、s'emporter 1632；英 port / import / export / transport 承 portare；**important 法语系意大利语借词（首见 1476 / 1528，CNRTL）**
+  - **reine**＝拉丁 regina ← rex；11c 首见；英 reign ← regnum（非 regina）、queen 与 reine 无词源关系（PIE \*gwen-）；同音三陷阱 reine / rênes / renne
+  - **micro-ondes**＝micro-（希腊 mikros）+ onde（← unda）；20c 词；英 microwave 1931 英语自铸（是否互为 calque 待验证）；1990 拼写修正 microonde
+  - **cuisine**＝coquina ← coquere；TLFi 首证 1155；**双重借入样本**（英 kitchen ← 古英语 cycene ← 通俗拉丁 \*cocina；英 cuisine 1786 自法语）
+  - **postuler**＝拉丁 postulare「要求」；13c 首证；英 postulate 共祖拉丁（1530s ← 中世纪拉丁 postulatus）——faux ami（法＝应聘 ｜ 英＝假定）
+  - **aucune idée**＝aucun ← aliquis + unus；古法语曾为肯定「某个」→ 语义反转「没有一个」（d'aucuns 化石；年代诸说并列不折中）；英 no / any / none 全为日耳曼来源、无关联
+  - **intéresser**＝拉丁 interesse（intérêt 同源；1290 / 1356 首证）；经典易混 intéressant（有趣）vs intéressé（感兴趣）；英 interest mid-15c 借入，interesting / interested 系英语自构
+  - **même si**＝même ← 通俗拉丁 \*metipsimus（ipse 家族）；même si + **直陈式**（≠ bien que + 虚拟式）；英 same 无词源关系（古北欧 samr）
+  - **loin**＝拉丁 longe（longus 的副词形）；ca 1050 首证；英 loin「里脊」← 古法语 loigne ← lumbus——**同形假朋友**；英 long 共祖（PIE \*dlonghos-）
+  - **culture**＝拉丁 cultura ← colere；12c「被耕种的土地」→ 17c「心灵培育」；英 culture mid-15c 借入（路径三源两说）；colony 同 colere 根
+  - **payant**＝payer 的现在分词；payer ← 拉丁 pacare「安抚（债主）」；英 pay c.1200 ← 古法语 paier；「有利可图」义 1875 从英语回借（反向）
+  - **prince**＝拉丁 princeps（primus + capere）；古法语 12c；英 prince c.1200 ← 古法语 prince；principal / principle 同出 princeps
+- **待回补（≈ 20 项）**：英语侧派生词年代未逐一核（peace/pact/pacify、prime/primary、hasty、roll/role）；TLFi 原条未直连核对（payant / prince / culture / complètement）；首证年代未得（complètement 副词、micro-onde、idée、lointain、scolaire、「应聘」义、à emporter、\*kokina 入日耳曼年代）；并存两说如实并列（control 支配义 mid-15c vs 16c；solution 化学义 1676/1690；rembourser 1262/1444；Regina 首见；英 important mid-15c vs 16c；英 culture 路径）——明细在各词条「来源」节
+- **连带清账**：[[important]] 回填（法语首见 1476 / 1528 补核 + 英语两说补记，原「待 TLFi 核实」项**已清**）；[[amener]] / [[royal]] 补互链（[[emporter]]、[[reine]]；均更新 frontmatter updated 2026-10-03）
+- **备注（环境）**：CNRTL 直连仍 sinkhole（未 WebFetch，一律 WebSearch 转引）；子代理按检索**实质订正**三处主代理提示（英 control 支配义 mid-15c、英 culture mid-15c、英 postulate 动词源 postulatus）——均按检索记录并注明
+- 更新：[[french-vocabulary]]（进度 76→95、词条列表全列、待回补 +第八批、命名表 +同形 6 词、词族候选 ×11：schola / contrôle·control / haste / solvere / longus / coquina / princeps / 否定词反转 / intéressant·intéressé / 钱簇 / portare）、`index.md`（Stats：fr 76→95，总 93→112；Backlog 更新）；随后 git 提交

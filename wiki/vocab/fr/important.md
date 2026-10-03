@@ -2,7 +2,7 @@
 title: important
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -31,14 +31,14 @@ root: "拉丁 importare「带入」（in- 向内 + portare 携带）的现在分
 
 **词源 / 构词**
 - **拆解**：拉丁 **importare**「带入、引进」＝ **in-**（向内）+ **portare**「携带、搬运」——其现在分词 importans / importantis「（正在）带入的」→ 引申「有分量的、重要的」（把东西「带入」议题＝使之「有关紧要」）
-- **演变**：拉丁 importare → 意大利语 **importante** → 法语 **important**（据 TLFi，系法语中的**意大利借词** italianisme，与 importance 同径——2026-10-01 经检索转引；具体借入年代**待 TLFi 核实**）；英语 important 另出**中世纪拉丁语** importantem（见下节）
+- **演变**：拉丁 importare → 意大利语 **importante** → 法语 **important**（据 TLFi，系法语中的**意大利借词** italianisme，与 importance 同径；借入年代 2026-10-03 经 CNRTL 转引补核：**首见 1476 / 1528**——见 [[emporter]] 页「曲折路径」）；英语 important 另出**中世纪拉丁语** importantem（见下节）
 - **同族 / 派生**：importance（重要性，n.f.）、importer（v. 重要；进口）、import / export / transport / porter（「携带」词族庞大）、porteur、portable；英语一侧见下节
 - **记忆钩**：important ＝ in-（带**进**来）+ port（**携带**）——「带得进来、压得住秤」＝重要；port-「携带」是法语最高产的词根之一
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**import**（v./n.「进口；含义、重要性」early 15c. ← 拉丁 importare——「进口」本义即「带入」，「有含义」即「带进意思」）；**importance**（c.1500 ← 法语 importance 或中世纪拉丁 importantia）
-- **共祖未借入**：**important**（英语 mid-15c. ← **中世纪拉丁** importantem，非经法语——故与法语 important 是**同出拉丁、各自借入**的「表亲」，而非英←法；etymonline，2026-10-01 经检索转引）；**port / porter / transport / portable / portfolio / deport / report**（同出 portare「携带」）
-- 核对：已核实（etymonline，2026-10-01 经检索转引）——英语 important mid-15c. ← 中世纪拉丁 importantem（义「自命不凡、摆架子」1713 已见）；importance c.1500；import early 15c.；法语 important/importance 经**意大利语**借入（据 TLFi 与 italianismi.org OIM 项目，检索转引），英语侧则经**中世纪拉丁语**——两条路径需分清
+- **共祖未借入**：**important**（英语 mid-15c. ← **中世纪拉丁** importantem，非经法语——故与法语 important 是**同出拉丁、各自借入**的「表亲」，而非英←法；etymonline，2026-10-01 经检索转引；2026-10-03 补：Collins 作 16c 经古意大利语 importante——**两说并列**）；**port / porter / transport / portable / portfolio / deport / report**（同出 portare「携带」）
+- 核对：已核实（etymonline，2026-10-01 经检索转引）——英语 important mid-15c. ← 中世纪拉丁 importantem（义「自命不凡、摆架子」1713 已见）；importance c.1500；import early 15c.；法语 important/importance 经**意大利语**借入（据 TLFi 与 italianismi.org OIM 项目；首见 **1476 / 1528**，CNRTL，2026-10-03 经检索转引——见 [[emporter]] 页）；英语侧 important **两说并列**：etymonline mid-15c. ← 中世纪拉丁 importantem ｜ Collins 16c ← 古意大利语（2026-10-03 补）——两条路径需分清
 
 **同义 / 搭配 / 易混**
 - 搭配：`important pour + qqn`（对某人重要）；`il est important de + inf.`（做某事很重要）；`c'est important`（这很重要）；`l'essentiel`（要紧的、本质的）
@@ -58,4 +58,4 @@ important
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
-- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：法语 important/importance 系**意大利借词**（TLFi；italianismi.org OIM 项目）；英语 important mid-15c. ← 中世纪拉丁 importantem（etymonline，已核）。法语侧具体借入年代仍**待 TLFi 核实**。
+- 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：法语 important/importance 系**意大利借词**（TLFi；italianismi.org OIM 项目）；英语 important mid-15c. ← 中世纪拉丁 importantem（etymonline，已核）。**2026-10-03 补核（第八批连带清账，证据见 [[emporter]] 页）**：法语侧首见 **1476 / 1528**（CNRTL 转引）；英语侧补记 Collins 16c 经古意大利语一说（与 etymonline mid-15c 并列，不折中）——原「待 TLFi 核实」项**已清**。

@@ -2,7 +2,7 @@
 title: royal
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -33,8 +33,8 @@ root: "拉丁 regalis「国王的」← rex (regis)「国王」← PIE *reg-「�
 **词源 / 构词**
 - **拆解**：拉丁 **regalis**「国王的」＝ **rex / regis**「国王」＋ 形容词尾 **-alis**（表「属于……的」）；rex ← PIE ***reg-**「直线移动」→ 引申「引导、统治」（同根「直线 → 指挥 → 治理」）
 - **演变**：拉丁 regalis → 古法语 **roial**（12c.，etymonline 转引）→ 现代法语 **royal**（-g- 元音化 → 半元音 /j/，拼作 -y-）；「王室」义最古，「盛大、威严」为引申义
-- **同族 / 派生（法语）**：roi（国王）、reine（王后 ← 拉丁 regina）、royaume（王国）、royauté（王权）、royaliste（保皇的）、royalement（王式地、极好地）；英语一侧见下节
-- **记忆钩**：royal 家族一条线「国王」——roi / reine / royaume / royal 全出拉丁 rex；「统治」根的 PIE \*reg- 也串起英语 regal / reign / rule 与 right
+- **同族 / 派生（法语）**：roi（国王）、[[reine]]（王后 ← 拉丁 regina）、royaume（王国）、royauté（王权）、royaliste（保皇的）、royalement（王式地、极好地）；英语一侧见下节
+- **记忆钩**：royal 家族一条线「国王」——roi / [[reine]] / royaume / royal 全出拉丁 rex；「统治」根的 PIE \*reg- 也串起英语 regal / reign / rule 与 right
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语**：**royal**（adj.「国王的」——「配当国王」义 mid-13c、「与国王相关」义 late 14c ← 古法语 **roial**〔12c.〕← 拉丁 regalis〔etymonline，2026-10-01 经检索转引〕）；**royalty**（c. 1400 ← 古法语 roialte / 仿 roialte ← 俗拉丁 \*regalitas）；**loyal**（← 古法语 loial/leal，虽出拉丁 legalem，但 royal/loyal 之对是英语拼写「-oyal」并行的样本）

@@ -85,6 +85,27 @@ casser
 proche
 dispute
 produit
+hate
+avoir hate de
+ecole
+solution
+controler
+rembourser
+completement
+emporter
+reine
+micro-ondes
+cuisine
+postuler
+aucune idee
+interesse
+meme si
+loin
+culture
+payant
+prince
+
+
 
 
 

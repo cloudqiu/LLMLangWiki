@@ -2,7 +2,7 @@
 title: amener
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -29,7 +29,7 @@ root: "à（拉丁 ad-「向」）+ mener「领」← 拉丁 minare「驱赶（�
 - 动词：不定式 **amener** ｜ **1er groupe** ｜ 助动词 **avoir**（j'ai **amené**）｜ 过去分词 **amené**
 - 现在时六形：j'**amène** ｜ tu **amènes** ｜ il·elle **amène** ｜ nous **amenons** ｜ vous **amenez** ｜ ils·elles **amènent**
 - 拼写提示：词干 **amen-** + 哑音 e——重读时 e 前加 accent grave 变 **-è-**（j'**amène**、ils **amènent**），与 lever / acheter 同类「哑 e 交替」动词
-- 辨析（关键）：**amener**（带来**人**）｜ **apporter**（带来**物**）｜ **emmener**（带走**人**）｜ **emporter**（带走**物**）——前缀 a-（来向）vs em-（去向）、mener（带人）vs porter（带物）两条轴
+- 辨析（关键）：**amener**（带来**人**）｜ **apporter**（带来**物**）｜ **emmener**（带走**人**）｜ **[[emporter]]**（带走**物**）——前缀 a-（来向）vs em-（去向）、mener（带人）vs porter（带物）两条轴
 
 **词源 / 构词**
 - 拆解：**a-**（拉丁 ad-「向」）+ **mener**（领、带）＝「带领过来」
@@ -44,7 +44,7 @@ root: "à（拉丁 ad-「向」）+ mener「领」← 拉丁 minare「驱赶（�
 
 **同义 / 搭配 / 易混**
 - 搭配：`amener qqn à + 地点`（把某人带到某处）；`amener qqn à + 动词`（使某人做：Cette nouvelle l'a amené à réfléchir 这消息使他思考）；`amener un sujet`（引出话题）
-- 易混（核心辨析）：**amener**（带来人）｜ **apporter**（带来物）｜ **emmener**（带走人）｜ **emporter**（带走物）
+- 易混（核心辨析）：**amener**（带来人）｜ **apporter**（带来物）｜ **emmener**（带走人）｜ **[[emporter]]**（带走物）
 - 再易混：amener 与 **mener**（带、引导）——amener 强调「带到某处」，mener 强调「引导/进行」
 
 ## 闪卡 #flashcards/fr
