@@ -2,7 +2,7 @@
 title: competent
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [vocab, src/mattering]
 status: growing
 learning: new
@@ -35,6 +35,7 @@ root: "com-（拉丁「共同」）+ pet-（拉丁 petere「追求、争取」�
 - 搭配：`a competent driver / teacher`；**`competent authority`**（主管机关——法律与欧盟文书高频）；`competent to do sth`；`mentally competent`（有行为能力）
 - 易混：**qualified** 侧重「有资格、够条件」；**capable** 侧重「做得到」，可接 of doing；**proficient / skilled** 侧重「技术熟练」；**competent** 强调「达到胜任标准」，常是「合格、够用」而非「出色」
 - 反义：**incompetent**（不称职的）——注意重音仍在 -com- 上
+- 相关：[[competition]]（法语 compétition——**同一 competere 词根的另一支**：拉丁 competere「相合／争取」在现代英语分出 competent「胜任」与 competition「竞争」两极；而法语 compétition 是 18c. **借自英语 competition** 的回流词，见该页「英法交叉核对」）
 
 ## 闪卡 #flashcards/en
 

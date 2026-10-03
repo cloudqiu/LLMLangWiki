@@ -27,9 +27,11 @@
 - 第九批法语待回补（2026-10-03）：28 条新词 ≈ 24 项细节待清（英语侧细节、TLFi 原条未直连、首证未得、并存两说——明细见各词条「来源」节与 log）；同批建立 2 个综合页（[[mots-de-la-royaute]] / [[connaitre-vs-savoir]]，清 2 个长期候选）；`converture`→couverture 拼写变体待用户确认
 - 第十批法语待回补（2026-10-03）：30 条（29 新页 + ouvrir 补充）≈ 70 项细节待清——**本会话 WebSearch 预算 200 次耗尽**（残留多为法语首证年代 ≈20 词；清账通道：etymonline 直读 + Wiktionnaire 转引 / 新会话）；判定待确认：`enserve`→énerver、`reconter`→raconter；同批新增答案页 [[verbes-pronominaux]]
 - 英语第二批待回补（2026-10-03）：15 条 ≈ 17 项待清——**linoleum / cyan 全条未核**、shiver / flicker / stiff 词源未核等（预算耗尽）；后 6 条出处「推断同源」待确认
-- 待建词条（占位链接）：[[grand]]（[[important]] 页「大」义互链目标；本库未收，待收词后建页）
+- 第十一批法语待回补（2026-10-03）：1 条（[[vie]]）≈ 4 项——法语 vital / vitalité / vieillir 首证年代、「à vie」性别处理、古法语 vite ← vita 说（Burdy 2019 质疑）、Meillet 仿希腊说原文献；同批**清账通道升级**：新会话 WebSearch 额度可用，CNRTL/TLFi 原条全文经检索摘要即可完整转引（见 [[french-vocabulary]] 开放问题）
+- 第十二批法语待回补（2026-10-03）：13 条（8 新页 + `a quelle heure`→[[heure]]、`finit-elle`→[[finir]] 两处补充）≈ 20 项细节待清——首证并存两说（désert ca 1100/1080、quand 11c./10c.）、词源或造词诸说（comédie kōmos、ciné Lumière 1895 vs Bouly 1892、désert desertum/desertus）、**compétition 系 18c. 借自英语 competition**（回借，Littré 旧说「← 拉丁」并存）、英语侧年代零星未核（équipe 入英、dessert 1393→1549 等）、`que pense-tu de`→`que penses-tu de` 勘正待确认（明细见各词条「来源」节与 log）
+- 待建词条（占位链接）：[[grand]]（[[important]] 页「大」义互链目标；本库未收，待收词后建页）、[[vivre]]（[[vie]] 页同族核心词——法语的「活着／过生活」动词，ca 1050 首证；待收 vivre / vital / vieillir 后可建 vita 词族综合页）、[[penser]]（[[que-penses-tu-de]] 页核心动词——拉丁 pensare「称量」← pendere；英语 pensive 借自法语；待收 penser / pensée 后可建 pensare·pendere 词族综合页）
 - （评估）Dataview 插件：装上后可动态统计词条（按 learning / tags / 语言）
 
 ## Stats
 
-- vocab 词条：**184**（en **32** ｜ fr **152**） ｜ wiki 页面：**5** ｜ Outputs：**1** ｜ 最近更新：2026-10-03
+- vocab 词条：**193**（en **32** ｜ fr **161**） ｜ wiki 页面：**5** ｜ Outputs：**1** ｜ 最近更新：2026-10-03

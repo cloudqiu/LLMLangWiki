@@ -392,3 +392,38 @@
 - 勘正：机制一节改述为「直承拉丁 se 用法、法语进一步规范化」（原稿「拉丁未做进词形」表述不确）；分词配合细节补全
 - 互链：[[la-pron]]（叠用顺序）、[[en-pron]]（s'en aller）、[[emporter]] / [[interesser]] / [[hate]]（代词式用法）
 - 更新：`index.md`（Answers 区 +1、wiki 页面 4→5）、log
+
+## [2026-10-03] ingest | vocab-fr: 第十一批 1 条 → 1 词条（vie）——单条小批；清账通道验证：CNRTL/TLFi 原条全文经检索转引当场取得
+
+- 来源：`raw/vocab-fr-inbox.md` 第 165 行 `vie`（**未标注出处**——推断 Duolingo，**待确认**）；去重：前 164 行均已编译；全库扫名（含 templates/）无 `vie`／近形冲突 → 直接建 `wiki/vocab/fr/vie.md`（n.f.，la vie，复数 les vies）
+- 新建 1 页 [[vie]]（主代理直接编译，未派子代理——单条无需并行）
+- **词源要点（法语侧经 WebSearch 转引 CNRTL/TLFi 原条，当场核实——CNRTL 直连仍失败，但检索摘要已能返回全文义项分层）**：
+  - 拉丁 **vita**「生命」← **vivere**「être en vie」← PIE **\*gwei-**「活」；法语 **vie** 为裸词干，三字母原样承自拉丁
+  - 字形演变：fin xe s. **vida / vide**（奥克语《Passion》）→ ca 1050 **vithe**（《圣 Alexis》*la vithe est fraisle*，-th- 为 10–11c. 抄本以希腊 θ 代 /t/ 的写法，同 [[auteur]] 页所记现象）→ ca 1100 **vie**（《罗兰之歌》*perdre sa vie*／*toute vostre vie*）
+  - **义项链（TLFi 逐义项首证全取到）**：生命事实（10c/1050）→ 生命原理·活力 ca 1050 → 施于无生命物 1370（Oresme *un serf senz vie*）→ 来世·灵魂 life ca 1050、ca 1145（Wace *pardurable vie*）→ **人生** ca 1050/1150/1170（Chrétien de Troyes、Marie de France）→ **传记义** 1130-40（Wace *Dirai d'une virge la vie*）→ 时长 ca 1100／**à vie** 1288（贝阿芒瓦尔《博韦习惯法》）→ **生计义** 1395 *avoir sa vie*（＝avoir le vivre et le couvert）／1507-08（D'Amerval 洗牛谋生）／1676（Sévigné）→ **亲昵称呼义** 1561（Grévin *Mon bien, ma vie*）；TLFi 注（Ern. Meillet）：vie 仿希腊 βίος 学出「人生·人世」义
+  - 形态教学点：*avoir / gagner / perdre / donner sa vie* 一律用 **sa** 不用 la；*à vie* 不带冠词且与 la vie 不同性（性别处理各家词典不一，**待验证**）；复数仅见 *avoir neuf vies*、*doubles vies*
+  - 同族：[[vivre]]（未收：ca 1050《Alexis》*qui vivet*；现在分词 vivant → *de son vivant* 1489；名词化 **le vivre** ca 1160 → 复数 *les vivres*、1601 *couper les vivres*）、vital / vitalité、**vitamine**（1913 ← 英 vitamine 1912 ← 拉丁 vita + amine ← C. Funk）、**vieillir**（← vieil 即 vieux 旧形，**非**从 vie 派生）、envie（← invidia，另一 *vid-* 线）
+- **英法交叉（英语侧 etymonline 直读，全条已核实）**：
+  - **同义不同源（本日最大彩蛋）**：英语 **life** ← 古英语 lif ← 日耳曼语 **\*leiban** ← PIE **\*leip-**「黏附、附着」，与拉丁 vita **无亲缘**——法语 vie 与英语 life 是「同义异源」的一对（对照 [[loin]]↔long 的同形假朋友）
+  - **经法语借入**：**vital**（late 14c. ← 古法语 vital ← 拉丁 vitalis；15c. 转「活着的」、1610s 转「至关重要的」）、**vitality**（1590s ← 拉丁 vitalitatem）
+  - **不经法语**：**vitamin**（vitamine 1912 Funk 造，1920 去 -e 立 A/B/C 命名法）、**aqua vitae**（15c.「生命之水」＝酒精，对应法语 eau-de-vie）、**arbor vitae**（1660s，Lécluse 命名）、curriculum vitae
+  - **反向回流（法←英←拉）**：法语 **vitamine** 1913 直接借英语（与 [[detective]] 同属「法语里的英语借词」样本）；**同形异源**：英语 **vie**（v. mid-15c.「争胜、下注」← OF envier ← 拉丁 invitare）与法语 vie **毫无关系**
+- **待回补（≈ 4 项）**：法语 vital / vitalité / vieillir 首证年代；「à vie」的性别处理（各家词典不一）；古法语 **vite** ← 拉丁 vita 之说（Burdy 2019《Antico francese "vite" "modo di vivere" e la rima baciata》对该传统说法提出质疑）；Meillet 仿希腊说的原始文献
+- **清账通道升级（可复用）**：新会话 WebSearch 额度可用，且检索摘要可返回 CNRTL/TLFi **原条全文**（义项分层＋逐条首证＋词源说明）——通道排序更新为 ①检索转引 CNRTL/TLFi 全文 ②etymonline 直读 ③Wiktionnaire（引 TLFi/DMF）转引；已写入 hub 开放问题
+- 更新：[[french-vocabulary]]（152→153、词条列表 +[[vie]]、待回补 +第十一批、命名表 +vie 行（英语 vie-en 规则）、词族候选 +**vita「活」词族 + 一次语义分家**、开放问题 +预算重置验证）；`index.md`（Backlog +1 行、Stats：fr 152→153，总 184→185）
+
+## [2026-10-03] ingest | vocab-fr: 第十二批 13 条 → 8 词条 + 2 处补充（comédie / ciné / désert / triste / compétition / équipe / quand / que penses-tu de；`a quelle heure`→[[heure]]、`finit-elle`→[[finir]]）——含「compétition 实为英→法回借」方向反转发现
+
+- 来源：`raw/vocab-fr-inbox.md` 第 166–178 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 165 行均已编译；批内 `morceau`（166）、`casser`（170）系**重复**，`disupte`（172）系 `dispute` **手误**——均未重复建页
+- 新建 8 页（3 批子代理并行，主代理做补充与记账）：[[comedie]]、[[cine]]、[[desert]]、[[triste]]、[[competition]]、[[equipe]]、[[quand]]、[[que-penses-tu-de]]（**多词短语页**，按 v1.5 约定：kebab-case 文件名、`word` 保留空格原形）；补充 [[heure]]（`a quelle heure` 问「某事的时刻」句式，与 Quelle heure est-il ? 分工）、[[finir]]（`finit-elle` 疑问倒装，含 -t- 由来与谐音 -t- 的区分）
+- 词源亮点（法语侧经检索转引 TLFi / DMF / Académie 9e，英语侧 etymonline 直读，**当场核实为主**）：
+  - **comédie** ← 拉丁 comoedia ← 希腊 kōmōidia（kōmos + ōidē「歌」）；首证 **1361**（Usito/NPR 转引，**待验证**）；英 **comedy late 14c. 经古法语 comedie**、comedian 1580s/c.1600 ← comédien、comedienne 1849；词源**三说并列**（传统「乡村歌」kōmē 说已被 Beekes 判「不再采信」，kōmos 来源不明／可能 Pre-Greek；另有 PIE \*komso- 一说）
+  - **ciné** ← cinéma（TLFi 1899）← cinématographe（**1893 专利文本**已见）——阿波科普截短；首证 **1905**（*Photo-Ciné-Gazette* 刊名）／1908（*Ciné-Journal*），etymonline 记 1917——**两说并列不折中**；**造词者两说**：Lumière 兄弟 1895 vs **Léon Bouly 1892 *Cynématographe***；1895-12-28 大咖啡馆首次公开放映；英 **cinema 1899 借自法语 cinéma** → 英再截 `cine`（1928，一说部分借自法语）——「**法语造词 → 英语借入 → 英语再截短**」镜像；kinetic 等系希腊直入（共祖）
+  - **désert** ← 帝国拉丁 **desertum**（名词）／古典拉丁 **desertus**（形容词）← deserere（de- + serere「联结」）；《罗兰》**ca 1100**（Bédier 校 v. 3246 作形容词「inculte」vs Gautier 词表作名词 ← Desertum）vs fr.wiktionary **1080**——并存；英 desert n. c.1200 经古法 desert ← 晚期拉丁 desertum、adj. mid-13c.、v. c.1600 ← déserter、just deserts（**另一线** ← deservire）；**dessert ↔ désert 反向词源**：dessert ← desservir ← servire（法语 1393 *desserte* → 1549 *dessert*）——一字母两词源的标本
+  - **triste** ← 拉丁 **tristis**（**词源不明**，de Vaan 未列日耳曼同源）→ 古法语 **trist**（10c., 约 950-1000）→ triste ca 1145；tr **tristesse ca 1165**（Benoît de Sainte-Maure《Troie》16028，+ -esse 仿拉丁 tristitia，非继承）；英 **trist early 15c.**（← 古法 triste）与 **triste late 18c.**（再借义「乏味」）双重借入（en.wiktionary 标 rare）、tristful late 15c.；**勘正两处**：德语 **traurig 非亲缘**（← 日耳曼 \*drūrēn，与英 **dreary** 同源；与法语 triste 亲缘的是 18c. **借**自法语的德 trist）；**Tristan ← 威尔士 Drystan**（受 triste 民间词源影响，非真词源）；英 **tryst** 系同音假朋友
+  - **compétition**——**方向反转的发现**：法语 compétition 系 **18c.（TLFi 记 1759，Targe 译 Smollett《英国史》，引 Féraud）借自英语 competition**（Académie 9e 明记「emprunté de l'anglais」）；而英语 competition **c.1600 直承晚期拉丁 competitio、不经法语**（etymonline 直读；OED 1605 Bacon）；**Littré 系统旧说「← 拉丁 competitio」并列不折中**；运动义 late 19c./1931（J.-R. Bloch）；同根 compétent **ca 1240** → 英 competent late 14c. 借自法语 compétent（与库内英语页 [[competent]] **双向互链**）；英 compete 1610s 系逆构、competitive 1826
+  - **équipe** ← 古法语 esquiper ← 古诺斯 **skipa**「装备船」← **skip「船」**（诺曼海事借层）；名词首证 **1456**（船组，罕见孤立）→ 1469（比武队，后废）→ 1864（工班）→ **1890 复兴**为「运动队」；动词 équiper **ca 1120 *eschiper***（《圣 Brendan》252）；英 **equip 1520s ← 法语 équiper**、équipage 1570s、equipment 1717、équipe 作法语借词保留；**ship / skipper 同出 ON skip / OE scip**——**équipe ↔ team 同义异源**（team ← OE tēam ← PIE \*deuk-「引导」，运动义 1846）；写法仿 [[vie]]↔life 对照
+  - **quand** ← 拉丁 **quando**（← PIE **\*kʷo-**）；首证 **1050《圣 Alexis 传》**（Alexis 98，同时义；Alexis 150 因果义「既然」），另一说 Usito 记 **10c.**——并存；**勘正**：842《斯特拉斯堡誓言》的 *in quant* 系拉丁 **quantum**（in quantum），**非** quando——已在页内点明；英 **when** ← 古英语 hwænne ← **PIE \*kʷo-**，与 quand 系**共祖非借入**（quondam 系拉丁直借）；**易混三同音**：quand / quant（quant à）/ qu'en
+  - **que penses-tu de**（多词短语页）：inbox `que pense-tu de` **缺 -s**——正确为 **Que penses-tu de… ?**（已勘正并标**待确认**）；三语域（倒装正式 ／ Qu'est-ce que tu penses de… ? 日常 ／ Tu penses quoi de… ? 极口语，quoi 原位）；并行 **Qu'en penses-tu ?** 互链 [[en-pron]] / [[en-parler]]；penser ← 拉丁 **pensare**（pendere「悬挂／称量」的反复态）——英 **pensive** late 14c. 借自法语 pensif；**penser ↔ think 同义异源**（think ← 日耳曼 \*thankjan）；`penser` 登待建
+- **待回补（≈ 20 项）**：①首证并存两说（désert ca 1100/1080、quand 11c./10c.；équipe 名词唯得词典转写、TLFi 原条未直连）；②词源／造词诸说（comédie kōmos 三说、ciné Lumière/Bouly 与 1905/1908/1917、cinéma 1899/1900、désert desertum/desertus）；③英语侧年代零星（équipe 入英年代、comedian/comedienne、dessert 1393→1549、military *désert* = *déserteur* 义无书面首证、Idiomatic register 判断）；④**勘正／待确认**（`que pense-tu de`→`que penses-tu de`；triste 未得《Alexis》/《罗兰》确证，只到古法语 trist 10c.）——明细在各词条「来源」节
+- 更新：[[french-vocabulary]]（153→161、待处理 +第十二批（含批内重复/手误判定）、词条列表 +8、待回补 +第十二批、命名表 +5 词「-en」预置与 dessert 近形备注、词族候选 **+7**（kōmōidia / kinēma / deserere / tristis / petere / skip 北日耳曼海事层 / pensare·pendere）并更新 2 条（\*kʷo- +quand、英语回借簇 +compétition））；`index.md`（Backlog +第十二批、待建词条 +[[penser]]、Stats：fr 153→161，总 185→193）；`wiki/vocab/en/competent.md`（+相关行 → [[competition]]，updated 2026-10-03）；已 git 提交

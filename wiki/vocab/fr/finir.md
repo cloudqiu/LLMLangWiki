@@ -18,7 +18,7 @@ root: "拉丁 finire「限定、结束」← finis「界限、终点」；古法
 
 # finir
 
-> 收录说明：inbox 形式 `fini` 是过去分词兼形容词（j'ai fini ／ c'est fini），按词形归并规则收于不定式 lemma **finir**。
+> 收录说明：inbox 形式 `fini` 是过去分词兼形容词（j'ai fini ／ c'est fini），`finit-elle` 是 **3e 单数倒装形**（疑问倒装），二者均按词形归并规则收于不定式 lemma **finir**。
 
 **释义**：（1）完成、做完（finir un travail）；（2）结束、终止（Le film finit à dix heures）；（3）finir de + inf. 做完某事；（4）finir par + inf. 最终（终于）…… ｜ mener à terme ; arriver au terme ; terminer
 
@@ -26,12 +26,14 @@ root: "拉丁 finire「限定、结束」← finis「界限、终点」；古法
 - _J'ai fini mes devoirs._ 我做完作业了。
 - _Le film finit à dix heures._ 电影十点结束。
 - _Il a fini par accepter._ 他最终接受了。
+- _Quand finit-elle ?_ 它什么时候结束？（inbox 第 178 行 `finit-elle`——疑问倒装，见 [[quand]]）
 
 **形态要点**
 - 动词：不定式 **finir** ｜ **2e groupe**（-ir 型，复数加 **-iss-** 扩展）｜ 助动词 **avoir**（j'ai **fini**）｜ 过去分词 **fini**（兼作形容词：c'est fini「结束了」）
 - 现在时六形：je **finis** ｜ tu **finis** ｜ il·elle **finit** ｜ nous **finissons** ｜ vous **finissez** ｜ ils·elles **finissent**
 - 变位提示：单数词干 fin-，复数词干 finiss-；同类（2e 组全族同型）：choisir、réussir、grandir；将来 je **finirai** ｜ 未完成 je **finissais**
 - 句法：`finir qch`（做完）；`finir de + inf.`（做完……）；`finir par + inf.`（最终……）；`en finir`（了结）；代词式 `se finir`（以……告终：ça se finit bien）
+- **疑问倒装**（inbox 第 178 行 `finit-elle`）：动词 + 连字符 + 主语代词——*finit-elle ?* ｜ *finit-il ?* ｜ *finissent-ils ?*；注意 3e 单数 **-t-** 的由来：finit 本身以 -t 结尾，故 *finit-elle*（**不**再加 -t-），而 *aime-t-il* / *va-t-il* 的 -t- 是**为免元音相遇而插入的谐音 -t-**；读法 finit-elle /fi.nit.ɛl/（-t- 与 elle 连读）。倒装限**代词**主语（*Quand finit-elle ?*），名词主语须用 *Quand le film finit-il ?* 或口语 *Il finit quand, le film ?* 的**复指**结构
 
 **词源 / 构词**
 - **拆解**：拉丁 **finire**「限定、结束」，派生自 **finis**「界限、终点」——「划出界限」→「到头、结束」；finis 本身词源不明，一说与 **figere**「固定」相关（etymonline）
@@ -55,12 +57,12 @@ root: "拉丁 finire「限定、结束」← finis「界限、终点」；古法
 finir
 ??
 **v.** 完成、做完（finir un travail）；结束（le film finit à dix heures）；finir par + inf. 最终
-**形态**：2e groupe（-iss- 扩展）；助 avoir；过去分词 fini；je finis / nous finissons / ils finissent
+**形态**：2e groupe（-iss- 扩展）；助 avoir；过去分词 fini；je finis / nous finissons / ils finissent；倒装 finit-elle ?（-t- 已含于 finit，勿加谐音 -t-）
 **词源**：拉丁 finire ← finis「界限」；古法语 fenir（约 1100）→ 13 世纪依 fin 重构为 finir
 **英法交叉**：英 finish（late 14c. ← 古法语 finiss-）、fine、final、finance ← 古法语；define 法-拉丁双线
 **易混**：finir 通用 ｜ terminer 正式 ｜ achever 做到最后 ｜ se terminer 自身结束
 
 ## 来源
 
-- raw/vocab-fr-inbox.md（2026-10-03 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
+- raw/vocab-fr-inbox.md（2026-10-03 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；第十批 `fini` 建页，第十二批第 178 行 `finit-elle` 补充倒装用法）
 - 核对说明：2026-10-03 经检索转引核对——法语侧（CNRTL/TLFi）：finire ← finis；古法语 fenir 约 1100（《罗兰之歌》「完成」义，一说 Robert 历史词典记 1080）、finer 更常用（finance 一支所出）；现代 finir 系 13 世纪依 fin 重构（《Vie de St Giles》写本年代）。英语侧（etymonline）：finish v. late 14c. ← 古法语 finiss-、n. 1779；fine n. c. 1200 ／ adj. mid-13c.；final early 14c.；finance c. 1400 ← 古法语 finance（CNRTL：法语 finance 约 1280「付款」、finer ← finir 变体）；define late 14c.（法-拉丁双线）；finis 词源不明（一说 figere）。待验证：现代 finir 首证的具体年份诸源只给世纪（13 世纪写本年代），无确年。

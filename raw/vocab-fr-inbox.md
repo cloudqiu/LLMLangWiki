@@ -162,7 +162,19 @@ blanche
 bleue
 ambiance
 histoire
-
-
+vie
+morceau
+comedie
+cine
+desert
+casser
+triste
+disupte
+a quelle heure
+competition
+equipe
+que pense-tu de
+quand
+finit-elle
 
 
