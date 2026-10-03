@@ -356,3 +356,39 @@
 - **待回补（≈ 24 项）**：英语侧细节（boon 两义合流、receipt 义变、petite 入英年代、diplomatic 年代、liseuse 英语借义）；TLFi 原条未直连 / 首证未得（trop、tarte、roi 拼写定型、étagère、tirer les rois、polar、电子阅读器义、librairie 现代义定型）；并存两说（tarte 词源、Tatin 传说、savoir-faire 1788/1815、librairie 窄化 16c vs 1846、princesse/principissa、donc 三说、peut-être 1680、polar 词源）——明细在各词条「来源」节
 - **备注（环境）**：CNRTL 直连仍 sinkhole（未 WebFetch，一律 WebSearch 转引）；本批子代理 5 只 / 合计约 56 万 token / 并行约 7–8 分钟
 - 更新：[[french-vocabulary]]（进度 95→123、词条列表全列、待回补 +第九批、命名表 +couverture / roman·liseuse 两行、综合页「已建」区 +2 并清 2 候选、词族候选 +8：书与阅读 / 厨房食谱 / bon·bien / recepta 双胞 / ratio / legere / 因果连接簇 / -ment）；`index.md`（Topics +2、Stats：fr 95→123，总 112→140，wiki 页面 2→4；Backlog 更新）；已 git 提交
+
+## [2026-10-03] ingest | vocab-fr: 第十批 30 条 → 29 词条 + `ouvre` 补充（vrai / trésor / piment / dans / sauce / normal / mystérieux / heure / ensemble / magique / cacher / personnage / raconter / crevette / objet / entrée / passionnant / mère / qui / énerver / simple / fin / inventer / différent / courageux / blanc / bleu / ambiance / histoire）——⚠️ 本会话 WebSearch 预算耗尽，残留 ≈70 项登待回补
+
+- 来源：`raw/vocab-fr-inbox.md` 第 135–164 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 134 行均已编译，无重复
+- 新建 29 页 + `ouvre`→[[ouvrir]] 补充（同 lemma，frontmatter updated 2026-10-03）；归并：`blanche`→[[blanc]]、`bleue`→[[bleu]]、`differente`→[[different]]、`a neuf heures`→[[heure]]、`en entree`→[[entree]]、`cache`→[[cacher]]；拼写变体：`reconter`→[[raconter]]（待确认）；**判定待确认：`enserve`→[[enerver]]（s'énerve）**
+- 词源亮点（部分经检索核实；预算耗尽后经 **etymonline 直读 + Wiktionnaire（引 TLFi/DMF）转引**补关键项）：
+  - **vrai** ↔ 英 **very** ← 古法语 verai「真的」（late 13c 借入，mid-15c 才弱化为「非常」——faux ami 大彩蛋）；**trésor**（~1050 首证，圣阿莱克西斯传）↔ 英 **thesaurus**（1823 拉丁直借）——「三兄弟」同出希腊 thēsauros
+  - **sauce** ← 拉丁 salsa ← sal（↔ [[salaire]]、saucisse/sausage 同线）；**piment** ↔ pigment 一源两枝（西 pimiento 线）；**normal** ← norma「矩尺」（école normale **1794** 立）
+  - **qui**：**修正**——`qu'` 系 **que** 的省音（qui 元音前不省音）；who 与 qui 实为 PIE **\*kʷo-** 共祖（非「源异」）
+  - **heure** ← hora（PIE \*yer-——与英 **year** 共祖）；英 hour c.1200 挤掉 OE tīd；inbox `a neuf heures` 归并入页（链 [[ouvrir]]）
+  - **énerver**：拉丁 enervare「抽筋→使虚弱」→ **1836** 翻转「使烦躁」；英 enervate 守「使虚弱」旧义——同源异义 faux ami；**énervé ≠ nervous** 干扰点
+  - **cacher** ← VL \*coacticare ← cogere；英 **cache 1797** 借入（后成计算机术语）、cachet 同族双胞；inbox `cache` 三形均在页内说明
+  - **histoire**：history（拉丁线）/ story（法语线）——同一希腊词**两次入英**，1500s 才分工（双借入彩蛋）
+  - **courageux** ← courage ← cœur（cor）——「勇气＝心气」；英 courage/courageous 借入；**Courage ! ＝加油**（faux ami）
+  - **blanc / bleu** ← 法兰克 \*blank / \*blao（日耳曼借层；英 blank 13c、**blue c.1300 皆经法语**）；同层互链 [[hate]] / [[gateau]] / [[choix]]
+  - **mystérieux** 首证 **前 1475**（**修正提示「17c 词」**）；inventer ← invenire「碰见→发现→发明」（invent/inventory 同源）；raconter ← re- + aconter ← computare（↔ [[compte]]）；dans ← deintus（~1112）；crevette ← 诺曼 chevrette「小山羊」（1532）；piment/objet/mère/qui 等拉丁链已核
+- **环境（重要）：本会话 WebSearch 上限 200 次于本批中途耗尽**——主代理向 7 个在跑代理广播止损（不重试、未核项标「待验证」+注明原因）；替补通道 **etymonline 直读 / Wiktionnaire 转引** 经多代理验证可行
+- 子代理按检索实质修正 4 处提示：qu'=que 省音；who/qui 共祖；mystérieux 15c（非 17c）；英 ensemble 音乐义 1844 / 套装 1927（非 1703/1774）
+- **待回补（≈ 70 项）**：①法语各词首证年代未得 ≈20 词（vrai / sauce / normal / mystérieux 前 1475 系年 / ensemble / magique / cacher / personnage / entrée / passionnant / mère / simple / fin / inventer / différent / courageux / bleu / ambiance / histoire 等）；②英语衍词年代零星；③并存两说（simple simplus/simplex、fin 形容词两源、mysterious 路径、thēsauros 深层、cacher 法兰克说待考）；④判定待确认（enserve / reconter）——明细在各词条「来源」节
+- 更新：[[french-vocabulary]]（152、词条列表全列、待回补 +第十批、命名表 +énerver、候选 4 更新【书与阅读 / 厨房食谱 / sal / computare】+ 4 新增【cœur·cor / 法兰克借词层 / hora / PIE \*kʷo-】、开放问题 +检索预算注）、`index.md`（Backlog +2 行、Stats：fr 123→152，总 140→184）；已 git 提交
+
+## [2026-10-03] ingest | vocab: 英语第二批 15 条 → 15 词条（orderly / scrub / gaunt / stripe / linoleum / fluorescent / sterile / shiver / flicker / stiff / menacing / close-up / bursting / halftone-dot / cyan）——英语轨首次扩容（17→32）
+
+- 来源：`raw/vocab-inbox.md` 第 26–40 行（前 9 条标注「From one prompt」；后 6 条未标注——推断同源，**待确认**）；去重：前 25 行均已编译，无重复
+- 新建 15 页（3 批子代理并行）；多词词条 2 条（[[close-up]] **1913**、[[halftone-dot]]——按 v1.5 多词约定）
+- 已核实要点：**fluorescent** ← fluor（拉丁 fluere）+ -escent，**1852 G. G. Stokes 命名**；**sterile** 细菌学义 **1877**（PIE \*ster- 两说）；**menacing** ← minacia（PIE \*men-「突出」——minae 原义「城墙尖角」）；**close-up** 1913（OED）；**burst** ← 古英语 berstan（-st- 换位史：bresten→burst）；**orderly** 1570s；**stripe** ← 中古荷兰 strīpe（词根两说）；scrub 同形两源（擦洗 / 灌木——两说不折中）；gaunt 词源**三说并列**（无定论）
+- **环境**：WebSearch 预算耗尽——**linoleum / cyan 全条未核**、**shiver / flicker / stiff 词源未核**、halftone-dot 1873 未确证等；残留 **≈ 17 项**登 [[english-vocabulary]] 待回补（含出处「推断同源」待确认）
+- 更新：[[english-vocabulary]]（32、词条列表全列、【其中 4 条多词词条】、待回补 +第二批、候选 +2：印刷 / 色彩术语簇、医院场景词簇）；`index.md`（Backlog +1 行、Stats：en 17→32）；已 git 提交
+
+## [2026-10-03] query | 答案归档：[[verbes-pronominaux]]（法语代词式动词为什么存在？）——raw/ 文档整理入 wiki/answers/
+
+- 触发：用户将一份问答文档放入 `raw/法语反身代词（代词式动词）为什么存在？.md`（raw/ 只读不改）——按「好答案回填」流程归档
+- 新建 `wiki/answers/verbes-pronominaux.md`（type: answer）：四类代词式动词分工表（réfléchi / réciproque / essentiellement pronominaux / passif）、中文母语者四坑表（含复合过去一律 être + **分词配合规则**：se 为直接宾语→配合；间接→不配合）、速判口诀；**补上原文末尾许诺的「去掉 se 就换义」16 词对照表**（passer/se passer … emporter/s'emporter）
+- 勘正：机制一节改述为「直承拉丁 se 用法、法语进一步规范化」（原稿「拉丁未做进词形」表述不确）；分词配合细节补全
+- 互链：[[la-pron]]（叠用顺序）、[[en-pron]]（s'en aller）、[[emporter]] / [[interesser]] / [[hate]]（代词式用法）
+- 更新：`index.md`（Answers 区 +1、wiki 页面 4→5）、log

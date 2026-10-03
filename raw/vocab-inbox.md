@@ -23,3 +23,20 @@ competent -- From the book "Mattering"
 faucet -- From the book "Mattering"
 wore on -- From the book "Mattering"
 in sight -- From the book "Mattering"
+orderly -- From one prompt
+scrub -- From one prompt
+gaunt -- From one prompt
+stripe -- From one prompt
+linoleum -- From one prompt
+fluorescent -- From one prompt
+sterile -- From one prompt
+shiver -- From one prompt
+flicker -- From one prompt
+stiff
+menacing
+close-up
+bursting
+halftone-dot
+cyan
+
+

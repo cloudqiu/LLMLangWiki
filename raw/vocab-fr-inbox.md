@@ -132,7 +132,36 @@ donc
 offiirai
 roman
 vu que
-
+vrai
+tresor
+piment
+dans
+sauce
+normal
+mysterieux
+ouvre
+a neuf heures
+ensemble
+magique
+cache
+personnage
+reconter
+crevette
+objet
+en entree
+passionnant
+mere
+qui
+enserve
+simple
+fin
+inventer
+differente
+courageux
+blanche
+bleue
+ambiance
+histoire
 
 
 

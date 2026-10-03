@@ -2,7 +2,7 @@
 title: 英语词汇（Vocabulary）
 type: topic
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [vocabulary, english, learning]
 status: growing
 sources: [raw/vocab-inbox.md]
@@ -22,10 +22,11 @@ sources: [raw/vocab-inbox.md]
 
 ## 进度
 
-- 词条：**17**（new 17 ｜ learning 0 ｜ known 0）；更新于 2026-10-01
-- 待处理：inbox 暂无积压（八批共 17 条已编译，均出自《Mattering》）
-- 词条（17）：[[deplete]]、[[off-kilter]]、[[unravel]]、[[turquoise]]、[[flurry]]、[[nook]]、[[counterweight]]、[[disconcert]]、[[hospice]]、[[decor]]、[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]]（其中 2 条为**多词词条**）
+- 词条：**32**（new 32 ｜ learning 0 ｜ known 0）；更新于 2026-10-03
+- 待处理：inbox **积压清零**（第二批 15 条已编译：前 9 条标注「From one prompt」＋后 6 条未标注——推断同源，**待确认**，2026-10-03）；第一批 17 条出自《Mattering》
+- 词条（32）：[[deplete]]、[[off-kilter]]、[[unravel]]、[[turquoise]]、[[flurry]]、[[nook]]、[[counterweight]]、[[disconcert]]、[[hospice]]、[[decor]]、[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]]、[[orderly]]、[[scrub]]、[[gaunt]]、[[stripe]]、[[linoleum]]、[[fluorescent]]、[[sterile]]、[[shiver]]、[[flicker]]、[[stiff]]、[[menacing]]、[[close-up]]、[[bursting]]、[[halftone-dot]]、[[cyan]]（其中 4 条为**多词词条**：wear-on · in-sight · close-up · halftone-dot）
 - **待回补清账（2026-10-01 完成，两批）**：[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]] 共 **7** 条 + [[counterweight]]（成词年代已复清补入：**1693**，Merriam-Webster／Random House）均已经「**WebSearch 转引** etymonline / 医学词典」核对（直连仍 sinkhole）——含实质订正（sew 同源形式按 etymonline 校正、faucet 得名理据改「两说并存」、endometriosis 1927 Sampson 命名核实）；遗留 **3 项**无定论如实保留（in-sight 同源假说、faucet 理据取舍、endometriosis 首见年份两说——见 log 清账条目）；前 10 词编译时已对照核实
+- **第二批待回补（2026-10-03，15 条）**：**本会话 WebSearch 预算（200 次）中途耗尽**——已核实项含 orderly 1570s、fluorescent 1852（Stokes 命名）、sterile 1877（细菌学义）、menacing ~1300、close-up 1913、bursting / burst 词源线等（etymonline 检索 + 直读）；残留 **≈ 17 项**（各页「来源」节列）——重点：**linoleum 全条未核**（1860 / Walton / linum + oleum）、**cyan 全条未核**（1879 义、kyanos 线）、**shiver / flicker / stiff 词源全未核**；另 gaunt 三说并列（无定论）、scrubs 手术服年代、halftone-dot 1873、stripe 词根两说、orderly 医院义年代；出处：后 6 条之「推断同源」**待确认**
 
 ## 怎么用
 
@@ -58,6 +59,8 @@ sources: [raw/vocab-inbox.md]
 - **候选（2026-10-01）**：**同音易混簇 sew · sow · so**（均读 /səʊ/，拼写高发错点）——[[sew]] 已收词，sow / so 未收；再遇同音簇可合并建一页拼写辨析（每词条内已先记录）
 - **候选（2026-10-01）**：**wear + 小品词四兄弟**（wear **on** / **off** / **out** / **down**）——[[wear-on]] 已收词，本义动词 `wear` 及另三个短语未收；四条含义相去甚远，值得一页对照（并可挂上「on ＝ 继续下去」这条通用线索：go on / read on / carry on）
 - **候选（2026-10-01）**：**sight 家族与介词搭配**（[[in-sight]] · out of sight · on sight · at sight · insight / foresight / hindsight）——核心是「**同源 + 只差一个空格/介词就换义**」：in sight 看得见 vs **insight** 洞察力；in sight vs **on sight**（一见就）。[[in-sight]] 已收词，其余未收
+- **候选（2026-10-03）**：**印刷 / 色彩术语簇**（[[halftone-dot]] · [[cyan]] · [[close-up]] · [[bursting]] ＋ CMYK / dot gain——图像与制版场景词）——由 [[halftone-dot]] / [[cyan]] 触发
+- **候选（2026-10-03）**：**医院场景词簇**（[[orderly]] · [[scrub]] · [[sterile]] · [[fluorescent]] · [[linoleum]] ＋ 已有 [[hospice]]——图像提示词的场景组）——由 [[orderly]] / [[sterile]] 触发
 
 ## 开放问题
 

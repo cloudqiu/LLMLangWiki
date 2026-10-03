@@ -2,7 +2,7 @@
 title: ouvrir
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-03
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -61,3 +61,4 @@ ouvrir
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
 - 核对说明：2026-10-01 经 WebSearch 转引核对——ouvrir ← 拉丁 aperire（TLFi）、apéritif ← aperire（Académie）、英 overt/overture ← 古法语 ouvrir（etymonline）已核实；ouvrir 具体首证年代待验证
+- 2026-10-03 补：inbox 另收 `ouvre`（现在时 1/3 单 / 命令式形）——同一 lemma，未另建页
