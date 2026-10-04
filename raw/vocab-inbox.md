@@ -68,6 +68,29 @@ lentil
 deliberate
 premise
 endotoxin
+contaminant
+paygrade
+microorganism
+graze on
+legume
+deluded
+habitat
+thermostat
+coil
+stifle
+thermoregulate
+hefty
+retrofit
+furnace
+rebate
+insulate
+indigenous
+evaporate
+brine
+microbial
+phosphate
+unearth
+
 
 
 
