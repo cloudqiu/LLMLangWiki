@@ -142,7 +142,8 @@ sources: []                # 词条必填：raw/vocab-inbox.md 或 raw/vocab-fr-
   - 算法 FSRS（retention 0.9）；`dataStore = NOTES`——排程以 `<!--SR:…-->` 注释写回词条笔记（正常现象，git 中会见到此类小改动）。
   - 入口：`Ctrl+P` → "Review Flashcards from all notes"。
 - 版本管理：**已启用 git**（分支 `main`；仓库级身份）；每次有意义的变更后提交一次。
-- 可选工具（未启用，需要时再上）：Dataview（按 frontmatter 出动态统计表）；Marp（幻灯片产物）。
+- **斜杠命令**（`.claude/commands/`）：**`/headwords`** —— 刷新「词头总表」产物 `output/YYYY-MM-DD-vocab-headwords.md`（脚本提取各页 frontmatter 的 `word` 字段，**核对两 hub 与 index 的计数后**落盘并记账；参数 `en` / `fr` 可只出单语）。词条不逐条进 index，故这是查看全量词头的既定手段。
+- 可选工具（未启用，需要时再上）：Dataview（按 frontmatter 出动态统计表——装上后亦可用它实时列词头）；Marp（幻灯片产物）。
 
 ## 7. Schema 演进记录
 
@@ -154,3 +155,4 @@ sources: []                # 词条必填：raw/vocab-inbox.md 或 raw/vocab-fr-
   - v1.6：新增**法语系统**并分语言重构（`vocab/en`、`vocab/fr`）；`lang` / `gender` / `plural` 字段；词源权威源 CNRTL；ASCII 转写与全库唯一命名规则；`#flashcards/en|fr` 子牌组；模板不带标签（防幽灵卡）。
   - v1.6.1：法语词条新增「英法交叉核对（受影响的英语词）」小节（借入 vs 共祖分清）。
 - **[2026-10-01]** 迁移记录：拆分建库与逐字节校验见本库 `log.md` 建库条目（原库同日 v1.7 条目对应）。
+- **[2026-10-04]** 新增斜杠命令 **`/headwords`**（`.claude/commands/headwords.md`）与产物 `output/2026-10-04-vocab-headwords.md`：随时刷新 en / fr **词头总表**（含「文件名 ≠ 词形」对照表），并强制步骤「先核对两 hub 与 index 的计数、不一致先报告」。此前查全量词头只能靠 hub 词条行 / 搜索 / graph；Dataview 仍列为未启用的替代方案。

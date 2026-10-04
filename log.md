@@ -514,3 +514,11 @@
 - **一致性核对**：词头总数与两 hub 计数及 index Stats 完全一致（en 62 ｜ fr 181 ｜ 243）——顺带验证了 hub 记账无误
 - 更新：`index.md`（Outputs 区 +1、Stats Outputs 1→2）；log 本条
 - 待办（用户选择）：是否加**一条斜杠命令**（`.claude/commands/`）或**装 Dataview** 以便随时刷新/实时查看——见对话中给出的两个方案
+
+## [2026-10-04] schema | 新增斜杠命令 /headwords（`.claude/commands/headwords.md`）
+
+- 用户确认选择「加斜杠命令」（备选 Dataview 插件保留为未启用方案）
+- 新建 `.claude/commands/headwords.md`：刷新词头总表产物 `output/YYYY-MM-DD-vocab-headwords.md`——步骤含 ①脚本提取 frontmatter `word` ②**核对两 hub 与 index 计数、不一致先报告不静默改数**（§5 第 5 条）③落盘（快照式覆盖，含「文件名 ≠ 词形」三类对照）④index Outputs + Stats、log 记账 ⑤回报；参数 `en` / `fr` 可只出单语
+- 同步改 `CLAUDE.md`：§6 环境与工具 +1 条（斜杠命令；并把 Dataview 备注改为「装上后亦可用它实时列词头」）、§7 演进记录 +1 条（2026-10-04）
+- 说明：`.claude/` 此前不存在，且未被 `.gitignore` 排除 → 命令文件入库版本管理
+- 备注：本次连同上一条 query 条目一并提交
