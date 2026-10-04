@@ -506,3 +506,11 @@
 - **连带待建（法语轨，已入 [[french-vocabulary]] 待建信号）**：本批 19 词牵出约 30 个法语对应词（étourdi / vigilant 家族 / hostilité / hôte / véhément / tribu / hème / hacher / émincer / lentille / endotoxine / fermentation / calcaire / chaux / abattre / abattoir / fortifier / micronutriment / oligo-élément / prémisse / délibérer / exploiter / puiser / robinet / crépiter / craquer / acide aminé 等）——**其中 5 个与英语页 ASCII 撞名**（vigilant / véhément→`vehement` / mince / hème→`heme` / fermentation），**命名表已 +1 行预置 `-fr` 后缀**
 - 更新：[[english-vocabulary]]（43→62、待处理 +第四批、词条列表 +19、待回补 +第四批 +跨页矛盾条、**词族候选 +5**（\*ghos-ti- 客与敌同根 / 古法借词层样本组 / lens 两面 / 营养与食品科学簇 / libra vs liber）并更新 1 条（希腊医学构词零件 +heme/endotoxin））；[[french-vocabulary]]（命名表 **+1 行**（5 个 `-fr` 预置）、开放问题 +第四批连带待建信号）；`index.md`（Backlog +第四批、Stats：en 43→62，总 224→243）；`wiki/vocab/en/hospice.md`（**新增并存记录小节 + [[hostility]] 互链**、updated 2026-10-04）
 - **需用户确认（1 项）**：英语第三、四批（第 41–70 行）**均未标注出处**——是否同源（第二批标「From one prompt」）？
+
+## [2026-10-04] query | 词头总表：en 62 + fr 181 = 243 → 产物 output/2026-10-04-vocab-headwords.md
+
+- 用户问「能否总结所有英法词头、有没有命令」——**本库无现成命令**（词条不逐条进 index，只能靠 hub 词条行 / 搜索 / graph）；本次以脚本从各页 frontmatter `word` 字段提取（只读，不写 `raw/`）
+- 产物落盘 `output/2026-10-04-vocab-headwords.md`：①统计（en 62 ｜ fr 181 ｜ 合计 243；learning 全 new）②英语 62 按字母（标出 7 个多词条目）③法语 181 按字母（点明 `la` 双页：[[la-art]] / [[la-pron]]；`en` 指 [[en-pron]]）④附录「文件名 ≠ 词形」三类对照表（重音转写 44 条 / 多词单位 11 条 / 词性后缀与保留名 5 条）⑤生成脚本（PowerShell 只读，可重跑）
+- **一致性核对**：词头总数与两 hub 计数及 index Stats 完全一致（en 62 ｜ fr 181 ｜ 243）——顺带验证了 hub 记账无误
+- 更新：`index.md`（Outputs 区 +1、Stats Outputs 1→2）；log 本条
+- 待办（用户选择）：是否加**一条斜杠命令**（`.claude/commands/`）或**装 Dataview** 以便随时刷新/实时查看——见对话中给出的两个方案
