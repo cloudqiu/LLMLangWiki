@@ -176,5 +176,26 @@ equipe
 que pense-tu de
 quand
 finit-elle
+quel
+erreur
+chaque
+explique
+comment
+ecrit
+jeune
+recommander
+dernier
+parce que
+souvent
+comme toi
+titre
+fois
+aide-moi
+d'accord
+coute
+regarder
+pourquoi
+nul
+
 
 

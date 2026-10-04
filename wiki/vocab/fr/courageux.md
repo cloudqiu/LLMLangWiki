@@ -2,7 +2,7 @@
 title: courageux
 type: vocab
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -47,6 +47,7 @@ root: "古法语 corage「心、情感」（← 拉丁 cor「心」+ -age）→ 
 - 搭配：`Bon courage !`（祝顺利/加油）；`courageux comme un lion`（勇猛如狮）；`un acte courageux`（勇敢之举）；`être courageux face à + n.`（勇敢面对……）
 - 易混：**courageux**（勇敢的——偏「扛得住、有担当」）｜ **brave**（勇敢的——偏「胆大、敢做」；法语 brave 另有「老实厚道」义，与英语 brave 不完全对齐，属部分 faux ami）｜ **vaillant**（英勇的——文雅）
 - 反义：**lâche**（懦弱的）、**peureux**（胆小的）、**découragé**（气馁的）
+- 同根：[[d-accord]]（d'accord 的核是拉丁 **cor**「心」——「一条心」即「同意」，与 courageux 的「心气」同根；2026-10-04 建页，双向互链，见 hub「cœur / cor『心』词族」候选）
 
 ## 闪卡 #flashcards/fr
 

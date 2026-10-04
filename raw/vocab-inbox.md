@@ -38,5 +38,17 @@ close-up
 bursting
 halftone-dot
 cyan
+dissonance
+uproot
+resentful
+grueling
+reverberate
+airtime
+gutter
+widow
+supplant
+unattainable
+pricey
+
 
 

@@ -2,7 +2,7 @@
 title: précieux
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-04
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -45,6 +45,7 @@ root: "拉丁 pretiosus「值钱的」← pretium「价格、价值」→ 古法
 - 搭配：`un conseil précieux`（宝贵的建议）、`pierre précieuse`（宝石）、`métal précieux`（贵金属）、`temps précieux`（宝贵时间）
 - 易混：**précieux**（珍贵的，adj.）｜ **prix**（价格/奖，n.m.）｜ **précise**（精确的——拼写近形，词源不同，出拉丁 praecidere「切短」）——别把「珍贵」与「精确」混写
 - faux amis 提示：英语 **precious** 与法语 **précieux** 形义几乎全同（拼写、词义、词源皆对应）；法语引申「矫揉造作」（précieuse）在英语 precious 也有「做作的」义——平行发展
+- 英法互链：[[pricey]]（英语口语「昂贵的」——同出拉丁 **pretium**：英语 price ← 古法 pris、法语 précieux ← pretiosus，**一源多路**；英语侧 2026-10-04 建页，已与本页互链）
 
 ## 闪卡 #flashcards/fr
 

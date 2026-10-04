@@ -427,3 +427,50 @@
   - **que penses-tu de**（多词短语页）：inbox `que pense-tu de` **缺 -s**——正确为 **Que penses-tu de… ?**（已勘正并标**待确认**）；三语域（倒装正式 ／ Qu'est-ce que tu penses de… ? 日常 ／ Tu penses quoi de… ? 极口语，quoi 原位）；并行 **Qu'en penses-tu ?** 互链 [[en-pron]] / [[en-parler]]；penser ← 拉丁 **pensare**（pendere「悬挂／称量」的反复态）——英 **pensive** late 14c. 借自法语 pensif；**penser ↔ think 同义异源**（think ← 日耳曼 \*thankjan）；`penser` 登待建
 - **待回补（≈ 20 项）**：①首证并存两说（désert ca 1100/1080、quand 11c./10c.；équipe 名词唯得词典转写、TLFi 原条未直连）；②词源／造词诸说（comédie kōmos 三说、ciné Lumière/Bouly 与 1905/1908/1917、cinéma 1899/1900、désert desertum/desertus）；③英语侧年代零星（équipe 入英年代、comedian/comedienne、dessert 1393→1549、military *désert* = *déserteur* 义无书面首证、Idiomatic register 判断）；④**勘正／待确认**（`que pense-tu de`→`que penses-tu de`；triste 未得《Alexis》/《罗兰》确证，只到古法语 trist 10c.）——明细在各词条「来源」节
 - 更新：[[french-vocabulary]]（153→161、待处理 +第十二批（含批内重复/手误判定）、词条列表 +8、待回补 +第十二批、命名表 +5 词「-en」预置与 dessert 近形备注、词族候选 **+7**（kōmōidia / kinēma / deserere / tristis / petere / skip 北日耳曼海事层 / pensare·pendere）并更新 2 条（\*kʷo- +quand、英语回借簇 +compétition））；`index.md`（Backlog +第十二批、待建词条 +[[penser]]、Stats：fr 153→161，总 185→193）；`wiki/vocab/en/competent.md`（+相关行 → [[competition]]，updated 2026-10-03）；已 git 提交
+
+## [2026-10-04] ingest | vocab: 英语第三批 11 词 → 11 词条（dissonance / reverberate / supplant / uproot / resentful / grueling / unattainable / pricey / airtime / gutter / widow）
+
+- 来源：`raw/vocab-inbox.md` 第 41–51 行（**均未标注出处**——推断续第二批「one prompt」语境，**待确认**）；去重：前 40 行均已编译；无重复、无近形冲突（11 个 basename 全库唯一，未撞 Windows 保留名）
+- 新建 11 页（3 批子代理并行，主代理做记账与双向互链）
+- 词源要点（英语侧 **etymonline 直读**为主，当场核实）：
+  - **dissonance** ← 拉丁 dissonantia ← **sonare「响」**；early 15c. 经古法 **and** 直承中世纪拉丁（**两路径并存不折中**）；音乐义 1590s；**cognitive dissonance 1957**（etymonline 未具名 Festinger——标待验证）；同族 consonance / assonance / sonorous / sonata
+  - **reverberate** ← 拉丁 reverberare「击回」（re- + **verberare「鞭打」** ← verber）；1570s（及物）／声音义 1590s；**勘正**：brief 原拟「intransitive 1620s」实为与名词 **reverberation「回声」义**混淆；另有旧动词 reverberen（early 15c.）——与 [[dissonance]] 同属「声音」词族但**两条拉丁路线**（sonare 响 ／ verberare 击）
+  - **supplant** ← 拉丁 supplantare「绊倒」（sub- + planta「脚掌」）；c.1300 首见于 agent noun **supplanter**，**古法 suplanter 或直承拉丁**（etymonline 并列、古法形无年代）；「取代（事物）」义 1670s；planta 兼「脚掌」与「幼芽」两义——英 plant 出后者、supplant 出前者
+  - **uproot** —— 英语本土 up + root（root ← 晚期 OE rōt / 古诺斯 rót ← PIE \*wrād-）；**etymonline：比喻义 1590s（隐含于 *uprooted*）、字面义 1690s**——与本批 brief 原拟**方向相反**，已从 etymonline 并把 brief 版并列登记（**子代理纠正主代理提示的一例**）
+  - **resentful** ← resent + -ful（1650s）；resent ← 古法 resentir（re- + sentir）c.1600 旧义 → 1620s 今义「怨恨」（**词义窄化**：原义「感觉、感激」）；resentment 1610s ← 法 ressentiment 16c.；同族 consent / sentiment / dissension
+  - **grueling** adj. **1852**（etymonline）← gruel（v.）「使精疲力竭」（late 18c. 俚语 get one's gruel）；gruel（n.）← 古法 gruel ← **法兰克 \*grut / PIE \*ghreu-「磨」**；**「喂稀粥以折磨」说判为民间词源**（etymonline gruel 条无此内容），三说并列
+  - **unattainable** = un- + attain（c.1300 ← 古法 ataindre ← 俗拉丁 \*attangere ← 拉丁 attingere = ad- + **tangere「触」**）+ -able（attainable 1640s）；**无独立 etymonline 条目**；同族 tangent / tangible / contact / tact
+  - **pricey** **1932**（etymonline；更早 high-pricey 1923）← price + -y；price ← 古法 pris ← 拉丁 **pretium**；**pretium 一源多路**——英 price/precious/prize/praise/appreciate ／ 法 [[precieux]]/prix/apprécier（**双向互链已补**）
+  - **airtime** —— 英语复合词 air（「广播」义 20c.）+ time；**etymonline 无词条**（已检索确认）→ 首现年代推断 1920s–30s，**标待验证**
+  - **gutter** ← **古法 goutiere（Anglo-French gotere）** ← 古法 goute ← 拉丁 **gutta「一滴」**；13c. 末首见；檐槽 mid-14c.／冲刷沟 1580s／喻义「社会底层」1818／**印刷义（订口）1841**；同族 **gout**（c.1200，共祖）、guttersnipe 1857；法 **gouttière** 同源借入
+  - **widow** ← 古英 widewe ← 原始日耳曼 \*widuwō ← **PIE 形容词 \*widhewo-**（词根 \*uidh-「分开」）；动词 early 14c.／**印刷义「寡行」1904**；**etymonline 未给名词首现年代**（须另觅 OED）；**法 veuve ← 拉丁 vidua ← 同一 PIE \*widhewo-——共祖非借入**
+- **英法交叉（本批跨轨亮点）**：`gutter ↔ 法 gouttière`（**借入**）＋ `gout`（**共祖**）——same Latin **gutta**；`widow ↔ 法 veuve`（**共祖非借入**，日耳曼支 vs 拉丁支）；`uproot ↔ 法 déraciner`（**同训异源**；真共祖是 root ↔ racine，PIE \*wrād-）；`dissonance ↔ 法 [[son]]`（sonus 同族，**已补双向互链**）；`pricey ↔ 法 [[precieux]]`（pretium 一源两路，**已补双向互链**）；`resentful ↔ 法 ressentir / ressentiment`（借入）
+- **待回补（≈ 36 项）**：三类（①airtime / unattainable / grueling 无独立 etymonline 条目 ②诸说并列不折中 ③未核细节）——见 index 与各页「来源」节
+- 更新：[[english-vocabulary]]（32→43、待处理 +第三批、词条列表 +11、待回补 +第三批、词族候选 **+4**（声音两路线 / dis- 簇 / \*widhewo- 同义异源 / pretium 两面）并更新印刷簇（**+gutter 印刷义 1841、+widow 印刷义 1904**））；`index.md`（Backlog +第三批、Stats：en 32→43，总 193→224）；`wiki/vocab/fr/courageux.md`、`precieux.md`、`son.md`（**补双向互链**、updated 2026-10-04）
+
+## [2026-10-04] ingest | vocab-fr: 第十三批 20 条 → 20 词条（quel / comment / pourquoi / chaque / souvent / expliquer / recommander / regarder / couter / ecrire / erreur / titre / fois / dernier / jeune-adj / parce-que / comme-toi / aide-moi / d-accord / nul-adj）——含 5 个多词短语页与 2 处保留名/近形消歧
+
+- 来源：`raw/vocab-fr-inbox.md` 第 179–198 行（均**未标注出处**——推断 Duolingo，**待确认**）；去重：前 178 行均已编译；批内无重复
+- 新建 20 页（4 批子代理并行，主代理做记账与双向互链）：疑问/副词组 [[quel]]、[[comment]]、[[pourquoi]]、[[chaque]]、[[souvent]]；动词组 [[expliquer]]、[[recommander]]、[[regarder]]、[[couter]]、[[ecrire]]；名词/形容词组 [[erreur]]、[[titre]]、[[fois]]、[[dernier]]、[[jeune-adj]]；短语组 [[parce-que]]、[[comme-toi]]、[[aide-moi]]、[[d-accord]]、[[nul-adj]]
+- **命名消歧（2 处，已入 hub 登记表）**：①`nul` 系 **Windows 保留名**（§3.1）→ `nul-adj.md`（`word` 保留 `nul`）；②`jeune`（adj.）与 `jeûne`（n.m. 禁食）ASCII 转写同名 → 按「同语言近形一律先用词性后缀」预置 `jeune-adj.md`（同 [[sur-prep]] 例），日后 jeûne 记 `jeune-nm.md`
+- **lemma 判定待用户确认（2 处）**：`coute`→[[couter]]（coûter；同形亦可读 `couteau` 截断）、`ecrit`→[[ecrire]]（亦可读名词 `l'écrit`）；页内均加「收录说明」
+- 词源要点（法语侧经检索转引 CNRTL/TLFi、DHLF、Académie 9e；**CNRTL 直连仍全部 sinkhole**——本批 5 次直取均只回「Portail lexical」壳；英语侧 etymonline 直读）：
+  - 疑问词族：**quel** ← 拉丁 qualis（← \*kʷo- + -alis）；首证 10c 下半叶（圣 Léger 149）／ca 1100 罗兰；**勘正**：英 such 与 qualis **非亲缘**（← \*swalikaz），which 系共祖；**comment** ← 拉丁 **quomodo**（＝ comme 同源）；首证 ca 1100 间接疑问（罗兰 3872）／1080（DHLF 另说）；**pourquoi** ← pour（← pro）+ quoi（← quid）；首证 **ca 1050 pur quei**（圣 Alexis 131/444）；**chaque** ← 拉丁 **quisque** → 通俗 \*cascu；chaque 无复数、与代词 chacun 分工
+  - **souvent** ← 拉丁 **subinde**「随即、屡屡」（sub + inde；inde 又出法语 en）→ 古法 sovent（**ca 1050 圣 Alexis，TLFi 首证**）→ 13c réfection；**拉丁 saepe 消失后由 subinde 接替其「经常」义**（Löfstedt，TLFi 引）；意 sovente **借自**古法；英 often ← 日耳曼 \*ufta-（**同义异源**，深度来源不明）
+  - 动词组：**expliquer** ← 拉丁 **explicare**（ex- + plicare）14c 学界借入（首证 1362-65）；**勘明英 explain ← explanare 系另一词根分支，英 explicate/explicit 才与 expliquer 同源**；**recommander** ← re- + commander ← commendare（command/commend/recommend **同一词根三次入英**）；**regarder** ← **法兰克 \*wardōn**（日耳曼底层非拉丁），首证「注视」义 1080；英 ward（共祖）/guard（借入）/regard（借入）——w-/gu- 分化 doublets；**coûter** ← 拉丁 constare → 俗 \*costare（12e s.）；英 cost 同源借入；**écrire** ← 拉丁 scribere（首证 ca 1050 Alexis 284 **escrit**）；英 write ← 日耳曼 **同义异源**
+  - 名词/形容词组：**erreur** ← 拉丁 error（首证 fin xe s. *error*「欺骗」，现代义 ca 1200）——**TLFi 该条只列 error、未提 errare**（与 etymonline 并列）；**titre** ← 拉丁 titulus（古法 title ca 1170；**法异化去 -l-**，英 title 反保留 -l-）；**fois** ← 拉丁 vicis 的复数 vices → 古法 feiz；v- → f- 两说；**单复数同形**；英 vicissitude **共祖但承「更迭」义**；**dernier** ← 通俗拉丁 **\*deretranus**（de retro + -anus）→ derrain → -ier 类比 premier → dernier——**三形并列**（\*deretranus / \*deretranacius；brief 原拟 `deretinus` 诸源查无已剔除）；**jeune** ← 通俗 \*jovenis ← juvenis（PIE \*yeu-）；英 juvenile/junior 拉丁支 **vs** young 日耳曼支——**同根不同支**
+  - 短语组：**parce que** = par + ce + que（古法 por ço que；Académie 记 12c）；**勘明英 because 系「仿法语 *par cause*」的平行构式、非借入**（且 etymonline 对照的是 par cause 非 par ce que——**待验证**）；**comme toi**：comme ← quomodo（与 [[comment]] 同源）＋ **重读代词 toi**（非 tu）；**aide-moi** ← aider ← adjutare；命令式肯定式**代词后置连字符**；英 aid 借入（← 古法 aide）vs adjutant 拉丁直借；**d'accord** ← ad + **cor「心」**（PIE \*kerd-）→ 古法 acord；英 accord 借入；**已与 [[courageux]] 双向互链**；**nul** ← 拉丁 nullus（ne- + ullus）；首证 **842《斯特拉斯堡誓词》**；**英 null 经 Anglo-French nul 借入**（**非**直承拉丁——**子代理勘正 brief**）；nul 的「纹章学义」检索无据**已剔除**
+  - **易混辨析页内点明**：英 comment（← 拉丁 commentum ← \*men-）与法语 [[comment]]（← quomodo）**同形而词源全异**；fois / foie / foi 同音
+- **待回补（≈ 75 项）**：四类（①首证并存两说 ②词源重构诸说 ③lemma 判定待确认 ④**chaque 全条风险最高**、recommander 首证未取得）——见 index 与各词条「来源」节
+- **待建信号（已入 index Backlog）**：[[comme]]（优先——[[comment]] / [[comme-toi]] 反复需引）、`jeûne`→`jeune-nm.md`、`couteau`
+- 更新：[[french-vocabulary]]（161→181、待处理 +第十三批、词条列表 +20、待回补 +第十三批、**命名表 +2 行（nul-adj / jeune-adj）**、词族候选 **+11**（quisque·qualis / vicis / titulus / errare / scribere / subinde / retro / juvenis 三支 / adjutare·juvare / parce que·because 平行构式 / gutta 与 \*widhewo- 跨轨两条）并更新 2 条（PIE \*kʷo- **+quel/comment/pourquoi＝已收 6 词、可评估建页**；cœur/cor +d-accord）、开放问题 +CNRTL sinkhole 复核 +待建信号）；`index.md`（Backlog +第十三批、待建 +[[comme]]、Stats：fr 161→181，总 193→224）；`wiki/vocab/fr/courageux.md`（⇄d-accord 互链）、`son.md`（+dissonance 互链）
+
+## [2026-10-04] ingest | vocab + vocab-fr 合并提交（上文两条同一次会话；31 页新词条 + 3 页补链）——待用户确认项清单
+
+- 本日一次会话内完成**两语轨** ingest（用户「ingest this」→ 确认「两条都 ingest」）：英语第三批 11 词 + 法语第十三批 20 条 = **31 页新词条**
+- **需用户确认（4 项，为 CLAUDE.md §3.1 第 1 步与法语细则要求）**：
+  1. `coute` → 判为 **coûter**（coûte）——同形亦可读 **couteau** 截断；若为 couteau，请告知，我改收 couteau 页
+  2. `ecrit` → 判为**动词 écrire** 的过去分词/现在时——亦可能为名词 **l'écrit**（文字作品）
+  3. `jeune` → 按近形规则建 **`jeune-adj.md`**（与 jeûne 撞名预置）——确认无误则日后 jeûne 记 `jeune-nm.md`
+  4. **第三批英语词出处**：inbox 第 41–51 行**未标注来源**（第二批标「From one prompt」）——是否同源？
+- git：本次 `ingest: vocab 第三批 11 词 + vocab-fr 第十三批 20 条`

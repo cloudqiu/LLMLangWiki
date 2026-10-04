@@ -2,7 +2,7 @@
 title: 英语词汇（Vocabulary）
 type: topic
 created: 2026-10-01
-updated: 2026-10-03
+updated: 2026-10-04
 tags: [vocabulary, english, learning]
 status: growing
 sources: [raw/vocab-inbox.md]
@@ -22,11 +22,12 @@ sources: [raw/vocab-inbox.md]
 
 ## 进度
 
-- 词条：**32**（new 32 ｜ learning 0 ｜ known 0）；更新于 2026-10-03
-- 待处理：inbox **积压清零**（第二批 15 条已编译：前 9 条标注「From one prompt」＋后 6 条未标注——推断同源，**待确认**，2026-10-03）；第一批 17 条出自《Mattering》
-- 词条（32）：[[deplete]]、[[off-kilter]]、[[unravel]]、[[turquoise]]、[[flurry]]、[[nook]]、[[counterweight]]、[[disconcert]]、[[hospice]]、[[decor]]、[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]]、[[orderly]]、[[scrub]]、[[gaunt]]、[[stripe]]、[[linoleum]]、[[fluorescent]]、[[sterile]]、[[shiver]]、[[flicker]]、[[stiff]]、[[menacing]]、[[close-up]]、[[bursting]]、[[halftone-dot]]、[[cyan]]（其中 4 条为**多词词条**：wear-on · in-sight · close-up · halftone-dot）
+- 词条：**43**（new 43 ｜ learning 0 ｜ known 0）；更新于 2026-10-04
+- 待处理：inbox **积压清零**（**第三批 11 条→11 新页**（第 41–51 行；**均未标注出处**——推断续第二批「one prompt」语境，**待确认**，2026-10-04）：`dissonance` / `uproot` / `resentful` / `grueling` / `reverberate` / `airtime` / `gutter` / `widow` / `supplant` / `unattainable` / `pricey`）；第二批 15 条已编译：前 9 条标注「From one prompt」＋后 6 条未标注——推断同源，**待确认**，2026-10-03）；第一批 17 条出自《Mattering》
+- 词条（43）：[[deplete]]、[[off-kilter]]、[[unravel]]、[[turquoise]]、[[flurry]]、[[nook]]、[[counterweight]]、[[disconcert]]、[[hospice]]、[[decor]]、[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]]、[[orderly]]、[[scrub]]、[[gaunt]]、[[stripe]]、[[linoleum]]、[[fluorescent]]、[[sterile]]、[[shiver]]、[[flicker]]、[[stiff]]、[[menacing]]、[[close-up]]、[[bursting]]、[[halftone-dot]]、[[cyan]]、[[dissonance]]、[[reverberate]]、[[supplant]]、[[uproot]]、[[resentful]]、[[grueling]]、[[unattainable]]、[[pricey]]、[[airtime]]、[[gutter]]、[[widow]]（其中 4 条为**多词词条**：wear-on · in-sight · close-up · halftone-dot；第三批 11 词见 2026-10-04）
 - **待回补清账（2026-10-01 完成，两批）**：[[unto]]、[[endometriosis]]、[[sew]]、[[competent]]、[[faucet]]、[[wear-on]]、[[in-sight]] 共 **7** 条 + [[counterweight]]（成词年代已复清补入：**1693**，Merriam-Webster／Random House）均已经「**WebSearch 转引** etymonline / 医学词典」核对（直连仍 sinkhole）——含实质订正（sew 同源形式按 etymonline 校正、faucet 得名理据改「两说并存」、endometriosis 1927 Sampson 命名核实）；遗留 **3 项**无定论如实保留（in-sight 同源假说、faucet 理据取舍、endometriosis 首见年份两说——见 log 清账条目）；前 10 词编译时已对照核实
 - **第二批待回补（2026-10-03，15 条）**：**本会话 WebSearch 预算（200 次）中途耗尽**——已核实项含 orderly 1570s、fluorescent 1852（Stokes 命名）、sterile 1877（细菌学义）、menacing ~1300、close-up 1913、bursting / burst 词源线等（etymonline 检索 + 直读）；残留 **≈ 17 项**（各页「来源」节列）——重点：**linoleum 全条未核**（1860 / Walton / linum + oleum）、**cyan 全条未核**（1879 义、kyanos 线）、**shiver / flicker / stiff 词源全未核**；另 gaunt 三说并列（无定论）、scrubs 手术服年代、halftone-dot 1873、stripe 词根两说、orderly 医院义年代；出处：后 6 条之「推断同源」**待确认**
+- **第三批待回补（2026-10-04，11 条）**：英语侧全程 **etymonline 直读**（个别词条经 /word/gruel、/word/root 等交叉引述取得）；残留 **≈ 36 项**（各页「来源」节逐条列）——三类：①**权威条目缺失**（`airtime` etymonline **无词条**，首现年代推断 1920s–30s 标待验证；`unattainable` / `grueling` 亦无独立条目，grueling 经 /word/gruel 交叉取得）；②**诸说并列不折中**（**`uproot`：etymonline 记比喻义 1590s 隐含于 *uprooted*、字面义 1690s——与本批 brief 原拟（字面 1590s / 比喻 1690s）**方向相反**，已从 etymonline 并把 brief 版并列登记；`grueling`：「喂稀粥折磨」说判为**民间词源**（etymonline gruel 条无此内容），与 late 18c. 俚语短语说、方言「磨」说三说并列；`supplant`：**古法 suplanter 还是直承拉丁**两说（etymonline 并列，古法形无年代）；`dissonance`：经古法 vs 直承中世纪拉丁两路径并存；`cognitive dissonance` 1957 的 Festinger 归属 etymonline 未具名）；③**未核细节**（`widow` 名词首现年代 etymonline 未给、须另觅 OED；`gout`「体液滴落」病因说、`widow's peak` / `weeds` / `mite` 理据、`reverberate` 的 intransitive 1620s 实为与名词 reverberation「回声」义混淆——已勘正、另记 15c. 旧动词 reverberen）；另 `pricey` **1932**（更早 high-pricey 1923）、`pricy` 异拼年代未得
 
 ## 怎么用
 
@@ -59,7 +60,12 @@ sources: [raw/vocab-inbox.md]
 - **候选（2026-10-01）**：**同音易混簇 sew · sow · so**（均读 /səʊ/，拼写高发错点）——[[sew]] 已收词，sow / so 未收；再遇同音簇可合并建一页拼写辨析（每词条内已先记录）
 - **候选（2026-10-01）**：**wear + 小品词四兄弟**（wear **on** / **off** / **out** / **down**）——[[wear-on]] 已收词，本义动词 `wear` 及另三个短语未收；四条含义相去甚远，值得一页对照（并可挂上「on ＝ 继续下去」这条通用线索：go on / read on / carry on）
 - **候选（2026-10-01）**：**sight 家族与介词搭配**（[[in-sight]] · out of sight · on sight · at sight · insight / foresight / hindsight）——核心是「**同源 + 只差一个空格/介词就换义**」：in sight 看得见 vs **insight** 洞察力；in sight vs **on sight**（一见就）。[[in-sight]] 已收词，其余未收
-- **候选（2026-10-03）**：**印刷 / 色彩术语簇**（[[halftone-dot]] · [[cyan]] · [[close-up]] · [[bursting]] ＋ CMYK / dot gain——图像与制版场景词）——由 [[halftone-dot]] / [[cyan]] 触发
+- **候选（2026-10-03；2026-10-04 更新）**：**印刷 / 色彩术语簇**（[[halftone-dot]] · [[cyan]] · [[close-up]] · [[bursting]] ＋ **[[gutter]]（2026-10-04 收——印刷义「订口、书页间的空白」**1841**）· [[widow]]（2026-10-04 收——印刷义「寡行」**1904**，与 orphan 相对）** ＋ CMYK / dot gain——图像与制版场景词）——由 [[halftone-dot]] / [[cyan]] / [[gutter]] / [[widow]] 触发
+- **候选（2026-10-04）**：**拉丁「声音」两条路线**（[[dissonance]]（sonare「响」）· [[reverberate]]（verberare「击」）＋ resonance / sonorous / assonance / consonant / sonata——同属英语里的拉丁「声音」词族，但 **sonare 与 verberare 是两条不同的拉丁路线**）——由 [[dissonance]] / [[reverberate]] 触发
+- **候选（2026-10-04）**：**dis- 否定前缀簇**（[[disconcert]] · [[dissonance]] · dis- 家族——「分开 / 取消 / 相反」义，与 de- / un- 分工对照）——由 [[disconcert]] / [[dissonance]] 触发
+- **候选（2026-10-04）**：**「被分开 / 离弃」PIE \*widhewo-：同义异源标本**（[[widow]]（← 日耳曼支）＋ 法 **veuve** ← 拉丁 vidua（**未收**）；并列 **[[uproot]] ↔ 法 déraciner**（**同训异源**）对照 root ↔ racine（PIE \*wrād- **真共祖**））——「同义异源」与「真共祖」的辨识标本；与法语 hub 的跨轨候选互见；由 [[widow]] / [[uproot]] 触发
+- **候选（2026-10-04）**：**拉丁 gutta「一滴」英法双边**（[[gutter]] ← 古法 goutiere（**借入**）＋ **gout**（**共祖**）· 法 **gouttière / goutte**（**均未收**））——屋檐 → 排水沟 → 社会底层（1818 喻义）；与法语 hub 同名候选互为跨轨对照；由 [[gutter]] 触发
+- **候选（2026-10-04）**：**拉丁 pretium「价格」一面多路**（[[pricey]] ＋ price / precious / prize / praise / appreciate / appraise / depreciate ＋ 法 [[precieux]] / prix / apprécier——**pretium 一源分入英语（price ← 古法 pris）与法语（précieux ← pretiosus）两支线**；法语 hub 已有同名候选，两页互见）——由 [[pricey]] 触发
 - **候选（2026-10-03）**：**医院场景词簇**（[[orderly]] · [[scrub]] · [[sterile]] · [[fluorescent]] · [[linoleum]] ＋ 已有 [[hospice]]——图像提示词的场景组）——由 [[orderly]] / [[sterile]] 触发
 
 ## 开放问题

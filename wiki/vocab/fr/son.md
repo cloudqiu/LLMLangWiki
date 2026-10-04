@@ -2,7 +2,7 @@
 title: son
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-04
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -46,6 +46,7 @@ root: "两源同形：拉丁 suus「他的」／ sonus「声音」"
 - 搭配：`son frère / son livre`（他的/她的）；`son amie`（元音前阴名）；`un son étrange / clair`（奇怪/清晰的声音）
 - 易混：**son（他的/她的）** 随名词性数、不随所有者性别——son 配阳性名词，与「他」还是「她」拥有无关（son livre 可能是「她的书」）；**son / sa / ses**；**le son（声音）** vs **la voix（嗓音）** vs **le bruit（噪音）**
 - **faux ami**：sound ≈ son（名词，对齐）；主有 son ≈ his/her（对齐）——但注意 son 的主有义与名词义是法语内部的同形巧合
+- 英法互链：[[dissonance]]（英语「不协和」← 拉丁 **dissonantia** ← **sonare**「响」——与拉丁 **sonus**（→ 法语 son）同根；英语侧 2026-10-04 建页，已与本页互链）
 
 ## 闪卡 #flashcards/fr
 
