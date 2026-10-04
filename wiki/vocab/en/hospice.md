@@ -2,7 +2,7 @@
 title: hospice
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-04
 tags: [vocab, src/mattering]
 status: growing
 learning: new
@@ -26,7 +26,8 @@ root: "拉丁 hospes（客人/主人）→ hospitium 招待所 → 法语 hospic
 **词源 / 构词**
 - **拆解**：整体借自法语，无词头 / 词尾可拆——法语 hospice ← 古法语 ospice ← 拉丁 hospitium「款待、客栈」← hospes / hospitis「客人；主人」；深一层为 PIE **\*ghos-pot-**「陌生人之主」（\*ghos-ti-「陌生人」+ \*poti-「主人」）
 - **演变**：拉丁 hospitium → 法语 hospice → 英语 **1818**「（阿尔卑斯山修道院办的）旅人招待所」→ **1879**「收容老人与临终者的机构」→ 1978 首见「hospice movement」。词义路径耐人寻味：招待所 → 收容安养 → 临终关怀——「庇护来客」贯穿始终（古语中「陌生人」兼指客人与敌人，待客之道是一份双向契约）
-- **同族 / 派生**：\*ghos-ti- 家族：hospital、hospitality、hostel、hotel、host（主人/客人）、**hostile**（同根的另一结局：陌生人→敌意）、guest、希腊语 xeno-（同源）；St. Bernard 犬得名于阿尔卑斯山口的僧侣 hospice
+- **同族 / 派生**：\*ghos-ti- 家族：hospital、hospitality、hostel、hotel、host（主人/客人）、**hostile** / [[hostility]]（同根的另一结局：陌生人→敌意）、guest、希腊语 xeno-（同源）；St. Bernard 犬得名于阿尔卑斯山口的僧侣 hospice
+- **并存记录（2026-10-04，不折中）**：etymonline 的 PIE 根条目**只记 \*ghos-ti-**「陌生人来客」（把 hospes / hostis / guest / xeno- 一并列为同族），**未记 \*ghos-pot-**；本页原记的 **\*ghos-pot-**（＝ \*ghos-ti- + **\*poti-**「主人」的复合——hospes「客主」之构拟）与之**两说并存**。[[hostility]] 页（2026-10-04 建）按 etymonline 根条目记 \*ghos-ti-，两页互见。**待回补**：核实 \*ghos-pot- 构拟的权威出处（de Vaan 等）
 - **记忆钩**：hospital / hotel / hostel / hospice / hospitality / hostile——全是 \*ghos-ti-「陌生人来客」家族的子孙：如何对待陌生人，就有了招待所、旅馆、医院，也有了敌意
 
 **同义 / 搭配 / 易混**

@@ -49,6 +49,25 @@ widow
 supplant
 unattainable
 pricey
+sturdy
+limestone
+hard-to-abate
+heme
+mince
+micronutrient
+fortify
+vigilant
+amino acid
+fermentation
+tap into
+crackle
+hostility
+vehement
+tribe
+lentil
+deliberate
+premise
+endotoxin
 
 
 

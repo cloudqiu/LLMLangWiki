@@ -474,3 +474,35 @@
   3. `jeune` → 按近形规则建 **`jeune-adj.md`**（与 jeûne 撞名预置）——确认无误则日后 jeûne 记 `jeune-nm.md`
   4. **第三批英语词出处**：inbox 第 41–51 行**未标注来源**（第二批标「From one prompt」）——是否同源？
 - git：本次 `ingest: vocab 第三批 11 词 + vocab-fr 第十三批 20 条`
+
+## [2026-10-04] ingest | vocab: 英语第四批 19 词 → 19 词条（sturdy / vigilant / hostility / vehement / tribe / heme / mince / amino-acid / lentil / endotoxin / limestone / hard-to-abate / micronutrient / fortify / fermentation / tap-into / crackle / deliberate / premise）——含本库首例**跨页矛盾显式并存**
+
+- 来源：`raw/vocab-inbox.md` 第 52–70 行（**均未标注出处**——推断延续前批语境，**待确认**）；去重：前 51 行均已编译；19 个 basename 全库唯一（未撞 Windows 保留名；`amino-acid` / `hard-to-abate` 为多词、`tap-into` 为短语动词，均按 v1.5 约定命名）
+- 新建 19 页（4 批子代理并行，主代理做记账）
+- 题材：**营养／可持续 + 生物医学 + 通用抽象**；**古法借入层密集**（本批 8 词英 ← 古法）
+- 词源要点（英语侧 **etymonline 直读**为主，8–9 次/组）：
+  - **sturdy** ← 古法 **estourdi / estourdir**「使眩晕」← 俗拉丁 \*exturdire ← 拉丁 ex- + **turdus「鸫鸟」**（**「鸫鸟吃葡萄吃到醉」**的著名理据——etymonline 明标 *the usual suggestion*，**OED 判其旁证「严重可议」**，Century Dictionary 另拟拉丁 torpidus——**三说并列不折中**）；c.1300 首义「鲁莽」→ late 14c. 转「结实」（**义变是重点**；法语同源词 étourdi 另走「心不在焉」）
+  - **vigilant** ← 拉丁 vigilare「守夜」← vigil「醒着的」← vigere；late 15c.；法 **veiller / veille / réveiller / surveiller** 一族同出 vigilare——**英语只借走形容词，法语把动词支自己发展**
+  - **hostility** ← 拉丁 hostilitas ← hostilis ← **hostis「敌人」（原义「陌生人」）**；early 15c.；**hostis 与 hospes 同源**——「客与敌同根」（与 [[hospice]] 互链）
+  - **vehement** ← 拉丁 vehemens——**今说 vehere「载」**（PIE \*wegh-，与 vehicle 同族）vs OED 旧说 vehe-+mens（de Vaan 2008 辨正）**两说并列**；early 15c. 经古法
+  - **tribe** ← 拉丁 **tribus**「古罗马三政治／族群分区」——**etymonline 直言 unknown origin**（tri-「三」说记 generally held）；mid-13c. 首指以色列十二支派 → 1590s 泛化
+  - **heme** ← 希腊 **haima「血」**（属格 haimatos）→ 德语 Häm → heme——**etymonline 无 heme 词条**，「haima→Häm→heme」中间环节与造词者**均待验证**；同族 hemoglobin（1862 ← hæmatoglobin 1845）、-emia；**与 [[endometriosis]] 的希腊零件族互见**
+  - **mince** ← 古法 **mincier** ← 俗拉丁 \*minutiare ← 拉丁 **minutus**「小」；late 14c.；**同根 `minute` / `menu` / `minutiae` / `diminish`**；法今用 hacher / émincer
+  - **amino-acid**：amino- ← amine **1863**（= ammonia + -ine）+ acid（← acidus ← acere）；amino- 构词 **1887**、amino acid **1898**；**勘正 brief**：「amino- 1838」与 etymonline 不符
+  - **lentil** ← 拉丁 **lens / lentis**「扁豆」→ 古法 lentille（← 拉丁指小词 lenticula）；英语 **mid-13c.**（inbox 作 c.1200——**两说并列**）；**lens（透镜，1690s 直借）与 lentil 同根**——同一拉丁词两条英语来路
+  - **endotoxin** ← 希腊 endon「在内」+ **toxikon「箭毒」**（← toxon「弓」；toxon 有斯基泰借词说 vs Beekes 前希腊语——**两说**）+ -in；**造词史两说并列**：Pfeiffer 1892 观察／1904 印行 **vs 首印 1903**（Wolff 演讲、Rehns 综述）；**与 [[endometriosis]] 共享 endo- 零件**
+  - **limestone** = lime（OE līm「黏物」← PIE \*(s)lei-）+ stone；本土复合词 **late 14c.**，得名「烧之出石灰」；**三 lime 同形**（矿物／酸橙 **1630s**／椴树 1620s）——**acid 橙路径勘正**（西 lima / 葡 limão / 阿 lima，brief 的「法 ← līmah」etymonline 不支持）
+  - **hard-to-abate** —— hard + to + abate（**c.1300** ← 古法 abatre ← 俗拉丁 \*abbatere ← ad + battuere「打」）的复合形容词；**etymonline 无词条**（直取返回首页）——2010s 气候／能源话语新词，**首见年代待验证、未臆造**
+  - **micronutrient** —— micro-（希腊 mikros）+ nutrient（← nutrire）；**etymonline 无词条**——20c 营养学造词，年代待验证
+  - **fortify** ← 古法 **fortifier** ← 晚期拉丁 **fortificare**（fortis + facere）；英 early 15c.（**医学义「增效」为先**）→ mid-15c 军事 → late 15c 道德 → 1880「掺酒」→ **1939「添加营养素」**——**双义并存**（军事＋营养）
+  - **fermentation** ← 晚期拉丁 fermentatio ← 拉丁 **fermentum**「酵母」（可能缩合自 \*fervimentum ← fervere「沸」← PIE \*bhreu-）；英语 **late 14c.**（炼金术）→ 科学义 c.1600 → 比喻义 1650s；法 fermentation 同形同源
+  - **tap-into** ← OE **tæppian**「给…装龙头」← tæppa「龙头」；**勘正 brief**：OE 义为「装龙头」而非「开桶取酒」（后者 c.1400）；引申义「打开以供取用」1570s、窃听 1869；**两个 tap 同形异源**（取液 ← OE tæppian／轻敲 ← 古法 taper）
+  - **crackle** ← mid-15c. crackelen = **cracken 的反复态**（OE cracian ← PGmc \*krakojan；德 krachen 同源）+ -le；名词「噼啪声」1833（inbox 作 late 14c.——**两说并列**）
+  - **deliberate** ← 拉丁 **deliberare**「仔细权衡」（de- + **librare「称量」← libra「天平」**）；adj. early 15c.／现代动词形 1540s，**但最早动词记录 deliberen（late 14c.）反早于形容词**——brief 的「adj. 先于 v.」须加此限定；**libra「天平」 vs liber「书」（library）两线分清**
+  - **premise** ← 古法 premisse ← 中世纪拉丁 **praemissa**（propositio praemissa）← praemittere（prae- + mittere）；逻辑义 late 14c.；**`premises`「房舍」义与逻辑义同源分化**（← 法律文书里先列的「上述不动产」）→ 1730——义变重点
+- **英法交叉（本批几乎全是英 ← 古法借入）**：`sturdy ↔ 法 étourdi`（借入，**借后义走相反方向**）；`mince ↔ mincier`（借入）；`fortify ↔ fortifier`（借入）；`vigilant ↔ vigilant`（借入）；`hostility ↔ hostilité`（借入）；`vehement ↔ véhément`（借入）；`tribe ↔ tribu`（借入）；`premise ↔ prémisse`（同借中世纪拉丁）；`deliberate ↔ délibérer`（共祖＋英早期动词经古法）；`lentil ↔ lentille`（**共祖**，拉丁 lens 一词两语分工相反）；`fermentation ↔ fermentation`（同形同源）；`endotoxin ↔ endotoxine` / `heme ↔ hème` / `amino acid ↔ acide aminé`（同构科学词）；`tap into ↔ exploiter / puiser dans`（同训异源）；`crackle ↔ crépiter`（**平行拟声**，同一反复态构词路）；`limestone ↔ calcaire / chaux`（同训异源；英 chalk 与法 chaux 同出拉丁 calx）；库内已互链：[[micronutrient]] → [[micro-ondes]]、[[fermentation]] → [[cuisine]] / [[recette]] / [[produit]] / [[culture]] / [[tarte]]、[[hostility]] → [[hospice]]
+- **跨页矛盾（本库首例，按 §5 显式并存、不折中）**：代理指出 etymonline 的 PIE 根条目**只记 \*ghos-ti-**（"stranger, guest, host"，并列为同族 hospes / hostis / guest / xeno-），**未记 \*ghos-pot-**——而 [[hospice]]（2026-10-01 建，原 `updated` 2026-10-01）页记的是 **\*ghos-pot-**「陌生人之主」（＝ \*ghos-ti- + \*poti-「主人」的复合构拟）。**处置（由主代理直接执行，未静默覆盖）**：①在 [[hospice]] 页「词源/构词」新增「**并存记录（2026-10-04，不折中）**」小节，写明两说来源与差异；②hospice 页补 [[hostility]] 互链、`updated` 改 2026-10-04；③**待回补**核实 \*ghos-pot- 构拟的权威出处（de Vaan 等）
+- **待回补（≈ 58 项）**：四类（①无权威条目 ②首见两说 ③造词史并列 ④已勘正 brief 五处）——见 index 与各页「来源」节
+- **连带待建（法语轨，已入 [[french-vocabulary]] 待建信号）**：本批 19 词牵出约 30 个法语对应词（étourdi / vigilant 家族 / hostilité / hôte / véhément / tribu / hème / hacher / émincer / lentille / endotoxine / fermentation / calcaire / chaux / abattre / abattoir / fortifier / micronutriment / oligo-élément / prémisse / délibérer / exploiter / puiser / robinet / crépiter / craquer / acide aminé 等）——**其中 5 个与英语页 ASCII 撞名**（vigilant / véhément→`vehement` / mince / hème→`heme` / fermentation），**命名表已 +1 行预置 `-fr` 后缀**
+- 更新：[[english-vocabulary]]（43→62、待处理 +第四批、词条列表 +19、待回补 +第四批 +跨页矛盾条、**词族候选 +5**（\*ghos-ti- 客与敌同根 / 古法借词层样本组 / lens 两面 / 营养与食品科学簇 / libra vs liber）并更新 1 条（希腊医学构词零件 +heme/endotoxin））；[[french-vocabulary]]（命名表 **+1 行**（5 个 `-fr` 预置）、开放问题 +第四批连带待建信号）；`index.md`（Backlog +第四批、Stats：en 43→62，总 224→243）；`wiki/vocab/en/hospice.md`（**新增并存记录小节 + [[hostility]] 互链**、updated 2026-10-04）
+- **需用户确认（1 项）**：英语第三、四批（第 41–70 行）**均未标注出处**——是否同源（第二批标「From one prompt」）？

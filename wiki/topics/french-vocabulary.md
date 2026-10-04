@@ -91,6 +91,7 @@ sources: [raw/vocab-fr-inbox.md]
 | [[desert]] / [[cine]] / [[triste]] / [[competition]] / [[equipe]]（法语，2026-10-03） | désert / ciné / triste / compétition / équipe | 本批先建法语页的 5 个「与英语同形或近形」词条（英 desert（c.1200 借入）／cine（1928，部分借自法语 ciné）／triste（early 15c. 借入，今罕见，标 rare）／competition（区别在重音与 -é）／équipe（英语保留的法语借词））：英语侧日后收词一律记 `-en` 后缀（`desert-en.md`、`cine-en.md`、`triste-en.md`、`competition-en.md`、`equipe-en.md`），并与原页互链；**同族近形另记**：英 **dessert**（甜点）与法语 [[desert]] 拼写近形但**词源相反**（dessert ← desservir ← servire），英语侧收词时单独命名并在两页互标 |
 | [[nul-adj]]（法语，2026-10-04） | nul | **Windows 保留名**（nul，§3.1）→ 加词性后缀记 `nul-adj.md`；首要词性 adj.（阴性 nulle），代词 / 数词义并收本页。英语侧 **`null` 经 Anglo-French `nul` 借入**（etymonline / M-W 明记经法语，**非**直承拉丁）——英语日后收 `nul` 记 `nul-en.md`，两页互标「同形异路」 |
 | [[jeune-adj]]（法语，2026-10-04） | jeune | **同语言近形预置**：jeune（adj.）与 jeûne（n.m. 禁食）ASCII 转写**同为 `jeune`** → 按「同语言近形一律先用带词性后缀」规则本页记 `jeune-adj.md`（同 [[sur-prep]] 之例）；日后收 jeûne 记 `jeune-nm.md` 并与本页互链 |
+| en [[vigilant]] · [[vehement]] · [[mince]] · [[heme]] · [[fermentation]]（英语，2026-10-04） | vigilant / véhément / mince / hème / fermentation | 英语第四批先建**英语**页的 **5 个「与法语词 ASCII 同形」**词条：法语侧日后收词一律记 **`-fr` 后缀**（`vigilant-fr.md`、`vehement-fr.md`、`mince-fr.md`、`heme-fr.md`、`fermentation-fr.md`），与原页互链。注意 5 词各自的**义域落差**：法 **mince** 是常用词（「薄的／苗条的」＋委婉感叹语），与英 mince（切碎；英式「装腔作势的」）**义域主要不同**；法 **hème** 系科学词、**véhément** 与英同义、**fermentation** 英法同义同源；**vigilant** 英法同义 |
 
 ## 词族 / 综合页
 
@@ -181,6 +182,7 @@ sources: [raw/vocab-fr-inbox.md]
 - **预算重置验证（2026-10-03，第十一批）**：新会话 WebSearch 额度可用，且 **CNRTL/TLFi 原条全文可经检索摘要完整转引**（[[vie]] 一词即取到完整义项分层与逐条首证）——清账通道排序更新为：①WebSearch 检索转引 CNRTL/TLFi 全文；②etymonline 直读（英语侧）；③Wiktionnaire（引 TLFi/DMF）转引。
 - **CNRTL 直连持续 sinkhole（2026-10-04，第十三批复核）**：本批 5 次直取 `cnrtl.fr/etymologie|lexicographie/*` 均只返回「Portail lexical」壳——检索转引仍是唯一通道；**每条法语首证在状态上属「转引」而非「原条直核」**，清账时优先补 TLFi 原条定年。
 - **待建信号（2026-10-04）**：①**`comme`**（[[comment]] / [[comme-toi]] 两页反复需引 comme 的连词用法却只能纯文本提及——建议优先收词建页）；②`jeûne`（n.m.——建页时按命名表记 `jeune-nm.md`）；③`couteau`（若用户确认 `coute` 读作 couteau）；④`parce-que` 已建（原 [[pourquoi]] 页曾担心缺失，现已闭合）。
+- **待建信号（2026-10-04，英语第四批连带）**：英语第四批 19 词密集牵出**法语对应词**（多为其**直接源头**或同源近邻），是法语轨的高价值收词清单——`étourdi`（← 英 sturdy 之源，义「心不在焉的」）· `vigilant` / `veille` / `veiller` / `réveiller` / `surveiller` / `éveiller`（一窝 vigilare 后代）· `hostilité` / `hostile` / **`hôte`**（← hospes，与 hostile 形近源分——易混点）· `véhément` · `tribu` · `hème` / `hémoglobine` / `hématie` · `mincer` / **`hacher`** / `émincer` · `lentille`（一词兼「扁豆」与「透镜」）· `endotoxine` · `fermentation` / `fermenter` · `calcaire` / **`chaux`**（与英 chalk 同出拉丁 calx）· `abattre` / **`abattoir`** · `fortifier` / `forteresse` · `micronutriment` / **`oligo-élément`** · `prémisse` / `prémices`（近形异义）· `délibérer` · `exploiter` / `puiser` / `robinet` · `crépiter` / `craquer` · `acide aminé`。**其中 5 个与英语页 ASCII 撞名**（vigilant / véhément→`vehement` / mince / hème→`heme` / fermentation），建页须按命名表加 `-fr` 后缀。
 
 ## 来源
 
