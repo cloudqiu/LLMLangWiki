@@ -31,7 +31,7 @@ root: "拉丁 lens / lentis「扁豆」→ 古法 lentille（← 拉丁指小词
 
 **同义 / 搭配 / 易混**
 - 搭配：red / green / brown lentils（红 / 绿 / 褐扁豆）、lentil soup（扁豆汤）、lentil salad、lentil flour、a lentil burger
-- 易混：**lens**（透镜 / 晶状体——同根、异义，最易混）、**lenticular**（透镜状的；亦指「透镜状（矿体 / 云）」）；豆类家族：bean、chickpea、pea、**pulse**（豆类总称）
+- 易混：**lens**（透镜 / 晶状体——同根、异义，最易混）、**lenticular**（透镜状的；亦指「透镜状（矿体 / 云）」）；豆类家族：[[legume]]（豆科植物——扁豆所属的**科**，2026-10-04 建页，两页互链）、bean、chickpea、pea、**pulse**（豆类总称）
 - 语域：烹饪与营养语境高频；红扁豆是南亚 dal 的主角
 
 **英法交叉（法语轨道）**

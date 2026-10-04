@@ -37,7 +37,7 @@ root: "拉丁 fermentum「酵母、发面」（或为 *fervimentum 缩略 ← fe
 
 **同义 / 搭配 / 易混**
 - 搭配：alcoholic / lactic / malolactic fermentation（酒精／乳酸／苹果酸-乳酸发酵）、the fermentation process / tank / vat（发酵罐）、spontaneous / wild fermentation（自然／野生发酵）、secondary fermentation（二次发酵）、top / bottom fermentation（上／下发酵，啤酒工艺）；动词侧：undergo fermentation、leave sth to ferment
-- 易混 / 相关：**fermentation** vs **brewing**（酿酒的全套工艺，含发酵但不限于发酵）vs **leavening**（使面团膨起——烘焙语域，可由发酵或化学膨松剂实现）vs **putrefaction**（腐败——同为微生物分解，但语义域偏负面）；**ferment** 的**比喻义**作「骚动、沸腾」（*a country in ferment* 处于动荡中的国家）
+- 易混 / 相关：**fermentation** vs **brewing**（酿酒的全套工艺，含发酵但不限于发酵）vs **leavening**（使面团膨起——烘焙语域，可由发酵或化学膨松剂实现）vs **putrefaction**（腐败——同为[[microorganism|微生物]]分解，但语义域偏负面）；**ferment** 的**比喻义**作「骚动、沸腾」（*a country in ferment* 处于动荡中的国家）；腌渍保存所用的**[[brine]]**（盐卤、浓盐水，2026-10-04 建页）是并行的另一条保藏路线（乳酸发酵 / 盐渍）
 - 语用：核心场景是食品、酿造与生化；比喻义偏书面（社会情绪、思潮的「沸腾」）
 
 ## 闪卡 #flashcards/en

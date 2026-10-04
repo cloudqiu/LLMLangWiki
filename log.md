@@ -522,3 +522,24 @@
 - 同步改 `CLAUDE.md`：§6 环境与工具 +1 条（斜杠命令；并把 Dataview 备注改为「装上后亦可用它实时列词头」）、§7 演进记录 +1 条（2026-10-04）
 - 说明：`.claude/` 此前不存在，且未被 `.gitignore` 排除 → 命令文件入库版本管理
 - 备注：本次连同上一条 query 条目一并提交
+
+## [2026-10-04] query | 词头总表：en 62 + fr 181 = 243 → 产物 output/2026-10-04-vocab-headwords.md
+
+- **`/headwords` 命令首次运行**（命令建立于同日 schema 条目）：脚本从 `wiki/vocab/en|fr` 各页 frontmatter 提取 `word` / `learning`（只读，未动 `raw/`）
+- 产物 `output/2026-10-04-vocab-headwords.md`：快照式覆盖——内容与上一版**逐条比对无差异**（en 62 / fr 181 两清单 Compare-Object 均空），仅改写「刷新记录」尾注（记本次刷新 + inbox 待编译提示）
+- **一致性核对**：live 提取 en 62 ｜ fr 181 ｜ 合计 243，与 [[english-vocabulary]]（词条 **62**）、[[french-vocabulary]]（词条 **181**）及 `index.md` Stats 行**三处完全一致**，无差异可报；`learning` 全为 new（243/243）
+- 本次**无新词条并入**（自 2ae8684 以来 vocab 目录未变）；`index.md` Outputs 行与 Stats 行数值未变，故未改动
+- 待办：`raw/vocab-inbox.md` 有 **22 词待 ingest**（contaminant / paygrade / microorganism / graze on / legume / deluded / habitat / thermostat / coil / stifle / thermoregulate / hefty / retrofit / furnace / rebate / insulate / indigenous / evaporate / brine / microbial / phosphate / unearth）——编译后本表将变为 en 84 / 合计 265
+
+## [2026-10-04] ingest | vocab: 第五批 22 词（环境微生物 / 土地农业 / 热工 / 建筑节能 / 通用）→ 22 新页
+
+- **来源**：`raw/vocab-inbox.md` 第 **71–92 行** 22 条（**均未标注出处**——推断延续前批语境，**待用户确认**，同第二至四批情形）；`raw/` 未作任何修改
+- **方式**：5 个子代理**并行编译**（环境·微生物 4 · 土地农业 4 · 热工 4 · 建筑节能工业 5 · 通用 5），一律 **etymonline 直读**为权威源；派生词无独立条目者回落基础词条并**在页内注明交叉路径**（如 contaminant→/word/contaminate、thermoregulate→/word/thermo- + /word/regulate、paygrade→/word/pay + /word/grade）
+- **建页 22**（`wiki/vocab/en/`，均 growing / learning: new）：[[contaminant]]、[[paygrade]]、[[microorganism]]、[[graze-on]]、[[legume]]、[[delude]]、[[habitat]]、[[thermostat]]、[[coil]]、[[stifle]]、[[thermoregulate]]、[[hefty]]、[[retrofit]]、[[furnace]]、[[rebate]]、[[insulate]]、[[indigenous]]、[[evaporate]]、[[brine]]、[[microbial]]、[[phosphate]]、[[unearth]]
+- **lemma / 命名判定**：①`deluded`（inbox 第 76 行）按 schema「lemma 取词典 headword」**归并为动词 [[delude]]**——页面顶部加「收录说明」，分词 / 形容词用法一并讲；**lemma 判定待用户确认**；②`graze on` 为**多词 / 短语动词** → `graze-on.md`，frontmatter `word: "graze on"`；③与既有 243 页**无重名、无近形撞车**（建页前已全库扫描）
+- **词源收获（本批最值得记的一条）**：**[[furnace]]（拉丁 fornax / formus）与 [[thermostat]] / [[thermoregulate]] / thermal / thermometer（希腊 thermos / thermē）同出 PIE \*gwher-「加热」——共祖而非借入**，etymonline 在 furnace 与 thermo- 两条下**各自独立**指向 \*gwher-，四页已互链成一条**经双源佐证的同根链**
+- **诸说并列 / 未定论（一律不折中）**：microorganism 首见 **1855（etymonline）/ 1880（OED，MacCormac）/ 1875–80（Collins）** 三说；retrofit **1954（USAF）vs OED 引文 1951**（另 1949 一说）；coil 名词 **1620s（etymonline，由动词来）vs 1567（MW）/ 1560–70（TFD，标 origin uncertain、或 cull 变体）**；insulate 物理义 **1742 vs 约 1741（MW）**；thermoregulation **1920s（OED 引例 1927）vs 法语 1904**；thermostat 造词年 **1831 vs 1830**（均系 Andrew Ure）；stifle 名词首见书各记不一（1275–1325 / 1350–1400）；**brine 与 vapor 经 etymonline 明记 of unknown origin（brine 且未给年代）**、warm「不明」而 \*gwher- 仅两猜之一、legume 拉丁 legumen unknown origin
+- **已勘正的 brief 偏差**：`graze on` 的「擦伤义与吃草义**同形异源**」一说被 etymonline 的 **「possibly a transferred sense of graze (v.1)」（倾向同源）** 取代，页内两说并列；`coil` brief 所给年代经 etymonline **完全印证**（v. 1610s ← 古法 coillir ← 拉丁 colligere；n. 1620s 航海 → 1660s 环状 → 1849 电学）
+- **交叉引用**：新建页互链（组内）＋ **回补旧页入链 8 处**——[[lentil]] → [[legume]]、[[reverberate]] → [[furnace]]、[[fermentation]] → [[microorganism]] / [[brine]]、[[sterile]] → [[microorganism]] / [[microbial]]、[[stifle]] → [[stiff]]、[[unearth]] → [[unravel]]、[[habitat]] ↔ [[indigenous]]（双向）
+- **更新**：[[english-vocabulary]]（词条 62→**84**、待处理 +第五批 22 条、词条列表 +22、**待回补 +第五批（≈73 项）**、**词族候选 +7**：\*gwher- 共祖链 / 建筑节能「手段—动作—激励」链 / 微生物与污染簇 / 拉丁 insula 一源多分 / ludere 族 / 豆科与放牧簇 / 盐的两条线）；[[french-vocabulary]]（**命名消歧登记表 +1 行**（legume · habitat · thermostat · phosphate 四词预置 `-fr`）、**词族候选 +3 跨轨**（insula · \*gwher- · légume faux ami）、**待建信号 +第五批连带**法语对应词清单）；`index.md`（Stats：en 62→84、总 243→**265**；Backlog +第五批待回补 + 第五批连带待建清单）
+- **待办**：①**需用户确认**：第五批 22 条**均未标注出处**（第 71–92 行）是否延续前批语境；`deluded → delude` 的 lemma 判定；②待回补 ≈73 项（明细见各页「来源」节与 index/hub）；③法语轨第五批连带收词清单已入 [[french-vocabulary]]（含 **étouffer**——正是 stifle 动词可能源头古法 estouffer 的现代形）

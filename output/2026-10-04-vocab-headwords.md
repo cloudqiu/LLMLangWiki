@@ -1,7 +1,7 @@
 # 词头总表（Vocabulary Headwords）— 2026-10-04
 
 > 产自 `wiki/vocab/en/` 与 `wiki/vocab/fr/` 各页 frontmatter 的 `word` 字段（脚本提取，非手工誊录）。
-> 词条不逐条进 `index.md`，本表是**一次性快照**；增删词条后重新生成即可。
+> 词条不逐条进 `index.md`，本表是**一次性快照**；增删词条后重新生成即可（说「刷新词头总表」或 `/headwords`）。
 
 ## 统计
 
@@ -109,9 +109,10 @@ Get-ChildItem wiki/vocab/en, wiki/vocab/fr -Filter *.md | ForEach-Object {
 }
 ```
 
-重新生成：说一句「刷新词头总表」即可（新会话亦可），产物覆盖本文件并更新 `index.md` Outputs 区。
+重新生成：说一句「刷新词头总表」或运行 `/headwords` 即可（新会话亦可），产物覆盖本文件并更新 `index.md` Outputs 区。
 
 ---
 
 - 生成日期：2026-10-04（英语第 1–4 批 + 法语第 1–13 批全部编译完成后）
 - 词头总数与 hub 计数一致：en 62 ｜ fr 181 ｜ 合计 243
+- 刷新记录：2026-10-04 `/headwords` 首次刷新——与上一版快照逐条比对**无差异**（自 2ae8684 以来无新词条并入；`raw/vocab-inbox.md` 有 22 词待 ingest，尚未编译故不入本表）

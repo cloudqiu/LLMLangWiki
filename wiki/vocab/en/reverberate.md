@@ -26,7 +26,7 @@ root: "拉丁 re-「回」+ verberare「鞭打、击」（← verber「鞭、笞
 **词源 / 构词**
 - **拆解**：词头 **re-**（拉丁「回、向后」）+ 词根 **verber-**（拉丁 **verberare**「打、击」← 名词 **verber**「鞭子、笞、棍棒」）+ 动词词尾 **-ate**（← 拉丁过去分词 / 动词化后缀）。拉丁 **reverberare** ＝「打回去、击退、使反弹」——reverberate 即其过去分词 **reverberatus** 的英语化。verber 又与拉丁 **verbena**「（祭坛用的）圣枝、马鞭草」同族，上溯到根 **\*werb-**「转、弯」← PIE **\*wer-** (2)「转、弯」（etymonline）
 - **演变**：英语 **1570s** 首见，义为「打回去、击退、逼退」——这是拉丁本义的直搬，**今已废弃**（etymonline）；**声音义**「回声、回荡」自 **1590s** 起（etymonline 记其理据为拉丁 verberare 另有「弯折、反射」的一面，「bend back, reflect」）。更早另有一个英语动词 **reverberen**（**early 15c.**，见于外科医书 Chauliac），义为「把（热）回送到身体某部位」——与本词同源而不同流（etymonline）。名词 **reverberation** 反而**更早**：**late 14c.** 已见 *reverberacioun*，义为「光或热的反射、空气的振荡」，来源为古法语 **reverberacion** 并直接借自中世纪拉丁 **reverberationem**；「回声」这一义项则迟至 **1620s**（etymonline）
-- **同族 / 派生**：**reverberation**（回响；反射；深远反响）、**reverberant**（回响的）、**reverberant / reverberatory**（反射炉 reverberatory furnace——冶金用反射炉）；拉丁亲族 **verberate**（鞭打——英语中已废弃的词，仅见于词典）；同出 verber 的 **verbena**（马鞭草——**待验证**其与本词的亲缘细节）。声音词族横向参照：[[dissonance]]（不协和——同属英语里的拉丁「声音」词族，但 dissonance 走 sonare「响」，本词走 verberare「击」——**两条不同的拉丁路线**）
+- **同族 / 派生**：**reverberation**（回响；反射；深远反响）、**reverberant**（回响的）、**reverberant / reverberatory**（反射炉 reverberatory furnace——冶金用反射炉，见 [[furnace]]）；拉丁亲族 **verberate**（鞭打——英语中已废弃的词，仅见于词典）；同出 verber 的 **verbena**（马鞭草——**待验证**其与本词的亲缘细节）。声音词族横向参照：[[dissonance]]（不协和——同属英语里的拉丁「声音」词族，但 dissonance 走 sonare「响」，本词走 verberare「击」——**两条不同的拉丁路线**）
 - **法语对照**：法语 **réverbérer**（反射、回响）与 **réverbération**（n.f.）为**共祖**关系（同出拉丁 reverberare，法语为本土演化），非英语借入法语、亦非法语借入英语；法语轨尚无词条，建页后互链
 - **记忆钩**：**re-（回）+ verber（鞭）** ＝「鞭子抽出去，又给抽回来」——击回 → 声波被墙壁「打回来」 → 回声 → 事件像回声一样荡开去。把 verber「鞭」这一点钉住，就不会把它和 sonare（响）那条线混起来
 

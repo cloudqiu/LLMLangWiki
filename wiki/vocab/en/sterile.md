@@ -32,7 +32,7 @@ root: "拉丁 sterilis「不毛的」（← PIE *ster-「不育」；一说更�
 **同义 / 搭配 / 易混**
 - 搭配：sterile field（手术无菌区）、sterile equipment / gloves / dressing（无菌器械／手套／敷料）、a sterile room（无菌室）、a sterile debate / argument（毫无结果的辩论）、sterile soil（贫瘠土壤）
 - 辨析：**sterile** 的两个高频面——医疗「无菌」（技术语，绝对干净）＋「不结果实／无结果」（彻底不能生育）；**barren** 重「贫瘠、荒芜」的土地与「不孕」，文学与情感色彩重（barren land 最自然，barren woman 带痛感）；**infertile** 最中性、最临床——infertile couple（不孕夫妇）、infertile soil（贫瘠土壤）。绝对程度：sterile（彻底不能）＞ infertile（难以／不能，医学可干预）＞ barren（文学上的「不毛」）
-- 场景联想（本批同源）：无菌场景与 [[scrub]]（刷手消毒；外科洗手）直接相关——scrub in 之后进 sterile field
+- 场景联想（本批同源）：无菌场景与 [[scrub]]（刷手消毒；外科洗手）直接相关——scrub in 之后进 sterile field；「无菌」的定义即**不含活的 [[microorganism|微生物]]**（其形容词为 [[microbial]]，两页 2026-10-04 新建，与 [[contaminant]] 同组）
 
 ## 闪卡 #flashcards/en
 
