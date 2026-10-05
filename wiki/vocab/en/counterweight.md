@@ -2,7 +2,7 @@
 title: counterweight
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-05
 tags: [vocab, src/mattering]
 status: growing
 learning: new
@@ -31,7 +31,7 @@ root: "counter-（拉丁 contra 对抗）+ weight（古英语「重量」）"
 
 **同义 / 搭配 / 易混**
 - 搭配：act as a counterweight to…（对…起制衡作用）、a counterweight against…、counterweight block（配重块）
-- 易混：**counterbalance**（几乎同义，更常作动词）、**ballast**（压舱物，船舶/气球语境）、**balance**（泛指平衡）
+- 易混：**[[counterbalance]]**（几乎同义，更常作动词；且更常指**抽象的力量制衡**——见该词条互见辨析）、**ballast**（压舱物，船舶/气球语境）、**balance**（泛指平衡）
 
 ## 闪卡 #flashcards/en
 

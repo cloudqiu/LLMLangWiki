@@ -90,6 +90,52 @@ brine
 microbial
 phosphate
 unearth
+jack-of-all-trades
+spread oneself with
+intimidating
+bevel
+intricate
+shringle
+disdain
+refurbish
+dumpster
+tendonitis
+dry up
+stench
+haul
+tailgate
+scoot
+cling to
+unrelenting
+slacker
+catch off guard
+plaque
+memoir
+counterbalance
+mischievous
+juggle
+linger
+decompressing
+firepit
+lifeline
+undeterred
+recession
+carve out
+cortisol
+tenuous
+crippling
+push through
+subfreezing
+grounded
+shrine
+brass
+scarve
+purse
+adorn
+chandelier
+relinquish
+resentment
+
 
 
 
