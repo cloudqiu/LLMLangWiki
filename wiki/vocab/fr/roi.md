@@ -2,7 +2,7 @@
 title: roi
 type: vocab
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -60,4 +60,5 @@ roi
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-03 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
+- **2026-10-05 复收录**：raw/vocab-fr-inbox.md 第 232 行**再次收录** `roi`——本页已存在，按「已存在的词只补充不重复建页」**未另建页**（去重）；词条内容经复核无需改动
 - 核对说明：2026-10-03 经 WebSearch 转引核对（CNRTL 直连仍 sinkhole）——roi ← 拉丁 regem（rex, regis 宾格），首证 ca 880 形式 rex（《圣欧拉莉颂歌》）、10c. 后半 rei（《圣莱热传》）、12c. roi/roy（CNRTL / Académie 9e）；中世纪拉丁 rex fabe「豆王」1334（CNRTL）；英 viceroy 1520s ← 法 vice-roy、法 vice-roi 15c.（vige-roy 1463 等，CNRTL / etymonline）；king ← 古英语 cyning ← \*kuningaz（cynn + -ing，PIE \*gene-），与 rex 无词源关系（etymonline 转引）。**待验证**：① `tirer les rois` 表达首见年代未获明证；② roi 拼写 -oi 于 12 世纪内定型的确切年代未细核（Académie 9e 仅记「xiie siècle」）。

@@ -560,3 +560,25 @@
 - **悬空链接核对（全库）**：本批**新增 0 条悬空 wikilink**——现存 4 条（comte / grand / lentille / vivre）**均为法语侧旧有待建信号**、已在 [[french-vocabulary]] / index Backlog 登记
 - **更新**：[[english-vocabulary]]（词条 84→**129**、待处理 +第六批 45 条、词条列表 +45、**待回补 +第六批（≈40 项）**、**词族候选 +7**（un-+分词簇 / 拉丁 caput 一源多分 / 拉丁 linquere 族 / 拉丁两条「怕」timere vs terrere / balance 家族 / PIE \*ten- 族 / 名物词语义漂移标本组 / sentire 族补齐））；`index.md`（header 最近更新 2026-10-05；Stats：en 84→**129**、总 265→**310**；Backlog +英语第六批待回补）；log 本条
 - **待办**：①**需用户确认**：第六批 45 条**均未标注出处**（第 93–137 行）是否延续前批语境；②待回补 ≈40 项（明细见各页「来源」节与 index/hub）；③法语轨：本批英语词牵出的法语对应词（cortisol / plaque / tendinite / dédain / méchant / ressentiment 等）尚未清点入 [[french-vocabulary]] 连带待建信号
+
+## [2026-10-05] ingest | vocab-fr: 第十四批 52 条 → 47 新页 + 5 处去重补充（家居名词 / 抽象名词 / 动词 / 形容词 / 虚词代词）
+
+- **来源**：`raw/vocab-fr-inbox.md` 第 **199–250 行** 52 条（**均未标注出处**——推断 Duolingo，**待确认**，同第三至十三批情形）；`raw/` 未作任何修改
+- **方式**：6 个子代理**并行编译**（家居日常名词 10 · 抽象名词 7 · 动词 11 · 形容词 7 · 虚词副词 7 · 代词 5），一律 **etymonline 直读**（英语侧）＋ **fr.wiktionary（引 TLFi/DMF）直取 + WebSearch 转引 CNRTL/TLFi**（法语侧——**CNRTL 直连仍全部 sinkhole**）
+- **建页 47**（`wiki/vocab/fr/`，均 growing / learning: new）：[[idee]]、[[table]]、[[stable]]、[[parfait]]、[[maintenant]]、[[utile]]、[[bouger]]、[[un-peu]]、[[quoi]]、[[pratique]]、[[ne-plus]]、[[papier]]、[[moi-meme]]、[[fonctionnel]]、[[quelque-chose]]、[[main]]、[[mensuel]]、[[chez]]、[[le-mien]]、[[venir]]、[[enlever]]、[[diriger]]、[[embouteillage]]、[[guerre]]、[[peindre]]、[[avis]]、[[marteau]]、[[louer]]、[[debut]]、[[quantite]]、[[million]]、[[lave-vaisselle]]、[[donner]]、[[partout]]、[[en-train]]、[[voyager]]、[[dictionnaire]]、[[moutarde]]、[[lait]]、[[lumiere]]、[[toujours]]、[[bibliotheque]]、[[eux]]、[[essayer]]、[[drole]]、[[epouser]]、[[economiser]]
+- **去重补充 5 处**（词条已存在，**未另建页**，均已在各页「来源」记复收录 + `updated` 2026-10-05）：`roi`（第 232 行）· `expliquer`（第 235 行）· `pris`→**[[prendre]]**（第 219 行，过去分词，lemma 归并）· `du bleu`→**[[bleu]]**（第 211 行，部分冠词）· `per erreur`→**[[erreur]]**（第 218 行，判定为 `par erreur` 拼写变体）
+- **lemma 归并 4 处**（各页「收录说明」记录 inbox 原形）：`bouge`→[[bouger]]、`viens`→[[venir]]、`donne`→[[donner]]、`essaie`→[[essayer]]
+- **判定待用户确认 4 处**：`plus partique`→**pratique**（拼写变体 partique→pratique）、`per erreur`→**par erreur**、`en papier` 按**名词 papier** 建页、`au lait` 按**名词 lait** 建页（后两处 lemma 取词典 headword）
+- **格式自检（脚本，47/47 通过）**：frontmatter 13 项字段齐全（含 lang / gender / plural / word / ipa / pos / root）、每页**恰一个** `??` 分隔符、闪卡小节均带 `#flashcards/fr`、正文无游离 `?`；**47 页「来源」节的行号逐一核对与 inbox 实际行号一致**（子代理自行 `grep` 核实——brief 所给行号有 +2 位移，实际块为 199–250）
+- **悬空链接核对**：本批**新增 0 条悬空 wikilink**（现存 4 条 comte / grand / lentille / vivre 均为法语侧旧有待建信号）
+- **已勘正的 brief 偏差（矛盾显式记录，未静默覆盖）**：①**guerre**——brief 断言「英 war 与法 guerre 同源但**非**英借自法」；etymonline 明记英语 **war ← 古北法语（诺曼）werre ← 法兰克 \*werra**，即**确经诺曼法语中介**——页内两说并列、以权威源表述为准；②**stable**——brief「法语 stable 兼名词『马厩』」经 Larousse / Wiktionnaire / TLFi 核实**不成立**（马厩 = écurie / étable），系 **faux ami**；③**parfait**——brief「英经古法 perfet 借入」未获支持，etymonline 只记 **parfit**（ME c.1300）；④**fonctionnel**——brief「英 functional 系 19c 仿法语」**方向相反**：英 functional 首证 **1630s** 早于法 fonctionnel（ca 1830），实为**平行构词**；⑤**économiser**——brief「19c 英→法回流」**未见来源支持且年代不符**：英 economize 1640s 早于法 économiser 1718，且法语「省钱」义（1747）反早于英语（1790），判为**两语平行自造**（共出希腊 oikonomia）
+- **首证并存诸说（不折中）**：marteau 三说（xiie s. / v.1140 / 1380）、moutarde（ca 1223 vs 12c.）、lave-vaisselle（1925 vs 1969）、louer 赞美义（fin 11e s. vs Xe s.）、toujours（ca 1170 vs 1er tiers xiie）、essayer（1080 vs xie s.）、lumière（约 1100 vs xie s.）、mensuel（1794/1795）；**词源诸说**：chez（casa 方位格 vs 复合 etymon）、drole（Verdam 中古荷兰 drol vs Sainéan \*tragulare）、moutarde（mustum+-ard vs mustum ardens）、table（拉丁 tabula 词源「不明」）
+- **本批最值得记的一条**：**英法「同形异义」标本——法 main（手）vs 英 main（主要的）**；对照 **stable（法「稳定的」/ 英「稳定的」同义，但法**无**「马厩」义——马厩 écurie/étable）**——两条 faux ami 已入 [[french-vocabulary]] 命名消歧登记表
+- **更新**：[[french-vocabulary]]（词条 181→**228**、待处理 +第十四批、词条列表 +47、**待回补 +第十四批（≈150 项）**、**命名消歧登记表 +2 行**（8 词英语侧 `-en` 预置 ＋ 4 处 lemma 判定待确认））；`index.md`（Stats：fr 181→**228**、总 310→**357**、wiki 页面 5→**6**；Backlog +法语第十四批待回补；**Answers 区 +[[article-partitif]]**）；log 本条
+
+## [2026-10-05] query | 归档 raw/ 部分冠词文档 → wiki/answers/article-partitif.md
+
+- **来源**：`raw/部分冠词（article partitif）.md`（用户新放入 raw/ 的整理稿，git untracked）——按 CLAUDE.md §3.2 第 5 条「好答案回填」归档为 `wiki/answers/article-partitif.md`（依 `templates/answer.md`）；`raw/` 原文**未改动**
+- **内容**：部分冠词（article partitif）四形式 du / de la / de l' / des ＋ 与不定冠词之别（`c'est de l'art` vs `c'est un art`）；**依据节挂本库实例**：`du bleu`（→ [[bleu]]）· `au lait`（→ [[lait]]，并辨 **au = à + le 缩合 ≠ 部分冠词**）· `en papier`（→ [[papier]]，介词 en 表材料）；**后续节**留三个衍生问题（部分冠词 vs 缩合冠词 au/du/des 的分工、否定句部分冠词变 de、beaucoup de/peu de 后一律 de）
+- **交叉**：本页与第十四批法语词条 [[bleu]]（页内 `du bleu` 复收录已链 [[article-partitif]]）、[[papier]]、[[lait]] 互链；补记 **待验证**：部分冠词的权威语法表述（CNRTL / Grevisse / Académie）本次未逐条对照
+- **更新**：`index.md`（Answers 区 +1、Stats wiki 页面 5→6）；log 本条

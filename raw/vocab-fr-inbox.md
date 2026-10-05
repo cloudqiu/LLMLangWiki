@@ -196,6 +196,60 @@ coute
 regarder
 pourquoi
 nul
+idee
+table
+stable
+parfait
+maintenant
+utile
+bouge
+un peu
+quoi
+plus partique
+ne...plus
+en papier
+du bleu
+moi-meme
+fonctionnel
+quelque chose
+main
+mensuel
+chez
+per erreur
+pris
+le mien
+viens
+enlever
+diriger
+embouteillage
+guerre
+peindre
+avis
+marteau
+louer
+debut
+quantite
+roi
+million
+lave-vaisselle
+expliquer
+donne
+partout
+en train
+voyager
+dictionnaire
+moutarde
+au lait
+lumiere
+toujours
+bibliotheque
+eux
+essaie
+drole
+epouser
+economiser
+
+
 
 
 

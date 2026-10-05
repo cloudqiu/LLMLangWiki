@@ -2,7 +2,7 @@
 title: expliquer
 type: vocab
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -69,4 +69,5 @@ expliquer
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-04 收录，形作 `explique`——1re/3e pers. du prés. de l'ind.，归并到 lemma **expliquer**）
+- **2026-10-05 复收录**：raw/vocab-fr-inbox.md 第 235 行**再次收录** `expliquer`——本页已存在，**未另建页**（去重）；词条内容经复核无需改动
 - 待回补：①TLFi「expliquer」原条首证定年（现为转引 1362-65 / DMF「Doc. XIVe s. ds TLF」）；②explicare → expliquer 有无通俗（非书卷）延续形

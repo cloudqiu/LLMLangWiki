@@ -2,7 +2,7 @@
 title: bleu
 type: vocab
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -62,4 +62,5 @@ bleu
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-03 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
+- **2026-10-05 短语复收录**：raw/vocab-fr-inbox.md 第 211 行收录 **`du bleu`**——系**部分冠词 + 名词**（du = de + le，取不可数／抽象义：「一些蓝」「蓝这种东西」），本页 n.m.「蓝色」义已覆盖（见「释义」第 2 义），**归并入本页、未另建页**；部分冠词用法另见 [[article-partitif]]
 - 核对说明：2026-10-03——英语侧 etymonline 词条直引（blue c.1300 ← 古法语 blo/bleu ← 法兰克语 \*blao ← PGmc \*blæwaz ← PIE \*bhel-；cordon bleu 1727）；法国侧仅 etymonline 转述的古法语 12c blo/bleu，CNRTL 未直连——法语首证年代**待验证**。待验证：法语 bleu 的 TLFi 首证年代；提示短语「n'avoir rien vu venir de bleu」未获明证。本批检索预算耗尽——未核实项已登待回补。

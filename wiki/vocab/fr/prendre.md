@@ -2,7 +2,7 @@
 title: prendre
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-05
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -60,4 +60,5 @@ prendre
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
+- **2026-10-05 形式复收录**：raw/vocab-fr-inbox.md 第 219 行收录 **`pris`**——系 **prendre 的过去分词**（本页「形态要点」已列「过去分词 **pris**」、「同族 / 派生」已列 pris），按 lemma 规则**归并到 prendre，未另建页**
 - 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：prendre 最早见于 10 世纪下半叶《圣莱热传》（据 CNRTL）；enterprise 入英 early 15c.、entrepreneur 1828（据 etymonline）。2026-10-01 复清：comprise（early 15c.，← 古法语 compris ← 拉丁 comprehendere）与 apprehend（late 14c.）/ comprehend（mid-14c.，直接源自拉丁）经 WebSearch 转引 etymonline 核实；无遗留待验证项

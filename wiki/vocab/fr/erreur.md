@@ -2,7 +2,7 @@
 title: erreur
 type: vocab
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-05
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -77,4 +77,5 @@ erreur
 ## 来源
 
 - raw/vocab-fr-inbox.md（2026-10-04 收录，第 180 行；出处：inbox 未标注——推断 Duolingo，**待确认**）
+- **2026-10-05 复收录**：raw/vocab-fr-inbox.md 第 218 行再次收录 **`per erreur`**——判定为 **`par erreur`** 的拼写变体（per → par），本页「释义」「搭配」两节**已收 `par erreur`**（「误、错手」），故**未另建页**；**判定待用户确认**
 - 核对说明：2026-10-04——法语侧据 **WebSearch 转引 CNRTL/TLFi**：étymon 作「latin classique error, erroris「erreur, illusion, méprise, faute」」并注基督教拉丁义「doctrine fausse, hérésie」；逐义项首证 fin xe s. *error*「tromperie, imposture」(*Passion de Clermont* 365) / ca 1125 (*Grant mal fist Adam* 15 f) / ca 1200 (*Jourdain de Blaye* 3864；*Dialogue Grégoire*) / ca 1355 (Bersuire) / 1549 (Estienne) / 1585 (N. Du Fail)；DMF 并引 FEW IV, 825a。英语侧 **etymonline 直读**：error c. 1300 等义项年代、err c. 1300 ← 古法 errer ← 拉丁 errare、aberrant 1798 ← aberrare、PIE \*ers-。**待验证**：①TLFi「erreur」**原条**首证定年（现为转引 fin xe s.，CNRTL 直连失败）；②TLFi 该条 étymon 只列名词 **error**、未提动词 errare（英语 etymonline 则明言 error ← errare）——**两说并列，未折中**；③英语 `errant` / `erroneous` 与法语 `errant` / `erroné` 的首证年代未逐核（etymonline 该页未给）。
