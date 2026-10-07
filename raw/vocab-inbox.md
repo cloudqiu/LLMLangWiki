@@ -135,6 +135,11 @@ adorn
 chandelier
 relinquish
 resentment
+sand down
+grenade
+piecemeal
+debris
+sting
 
 
 

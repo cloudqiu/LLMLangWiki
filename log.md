@@ -582,3 +582,36 @@
 - **内容**：部分冠词（article partitif）四形式 du / de la / de l' / des ＋ 与不定冠词之别（`c'est de l'art` vs `c'est un art`）；**依据节挂本库实例**：`du bleu`（→ [[bleu]]）· `au lait`（→ [[lait]]，并辨 **au = à + le 缩合 ≠ 部分冠词**）· `en papier`（→ [[papier]]，介词 en 表材料）；**后续节**留三个衍生问题（部分冠词 vs 缩合冠词 au/du/des 的分工、否定句部分冠词变 de、beaucoup de/peu de 后一律 de）
 - **交叉**：本页与第十四批法语词条 [[bleu]]（页内 `du bleu` 复收录已链 [[article-partitif]]）、[[papier]]、[[lait]] 互链；补记 **待验证**：部分冠词的权威语法表述（CNRTL / Grevisse / Académie）本次未逐条对照
 - **更新**：`index.md`（Answers 区 +1、Stats wiki 页面 5→6）；log 本条
+
+## [2026-10-07] ingest | vocab: 英语第七批 5 词 → 5 新页（sand down / grenade / piecemeal / debris / sting）
+
+- **动了哪些文件**：新建 `wiki/vocab/en/sand-down.md`、`grenade.md`、`piecemeal.md`、`debris.md`、`sting.md`（共 5 页）；更新 [[english-vocabulary]]（进度 129→**134**：待处理、词条清单、第七批待回补、词族候选 +3）；更新 `index.md`（Stats en 129→134、Backlog + 英语第七批待回补）；本 log 条
+- **去重判定**：inbox 第 138–142 行为新增（`git diff` 核对）；**无重复页**——本批 5 词全库无近形冲突
+- **关键决定 / 发现**：
+  - **出处**：5 行**均未标注**——推断续前批语境（「From the book *Mattering*」等），**待用户确认**
+  - **`sand down`**：etymonline **无短语条目**，故其自身首见年代**标待验证、未臆造**；拆查组件 sand（v.「砂磨」**1858**）+ down（late OE *ofdune* ← *of dune*「离开山丘」）；与既有 [[dry-up]] 的 up（「穷尽」）成小品词对照（up 向尽 / down 到底）
+  - **`grenade`**：与 [[pomme]]（本批法语新页）**双向互见**——同一法语 *grenade*「石榴」在英语**先以「石榴」义入英（1520s）、再以「手榴弹」义入英（1590s）**，而水果义由 **pomegranate**（c.1300）承担 → **英语把「多籽果」一分为二**；根为拉丁 granum（PIE \*gre-no-）
+  - **`piecemeal`**：**-meal 不是现代后缀**，而是古英语 *mæl*「时刻」的与格复数 **mælum**「at a time」——今只活在 piecemeal / inchmeal 等化石词里；**已勘正**「1590s/1580s/1560s」诸年代属 **inchmeal / piece 其他义、非本词**
+  - **`debris`**：英 ← 法 *débris*（**1708**）；**briser 终极来源照录 etymonline 的推测措辞**（"possibly of Gaulish origin" / 另路 "probably of Celtic origin"）——**不当事实**
+  - **`sting`**：**日耳曼本族词**（OE stingan ← PGmc \*stingan），PIE 终极来源 etymonline 明记 "**Perhaps**"（照录）
+- **方法变更（重要）**：**etymonline.com 直连 WebFetch 本会话起返回 403**（转引代理亦被安全验证拦截）——本批英语词源**一律经 WebSearch 检索结果所引条目文本**取得，状态属「**转引**」而非「原条直核」；**cnrtl.fr 直连仍全 sinkhole**。已登记入两 hub 的「数据通道变更」条与 `index.md` Backlog
+- **核实方式**：1 个子代理并行核实 5 词（etymonline 经检索转引；OED / M-W 对照部分未做，登待回补）
+- **待办**：约 25 项待回补（无条目者 1 · 词源明记未知/推测者 2 · 细节待核 3 · 已勘正 brief 1）——见 [[english-vocabulary]] 第七批待回补条与各页「来源」节
+
+## [2026-10-07] ingest | vocab-fr: 法语第十五批 37 条 → 35 新页 + 2 处去重
+
+- **动了哪些文件**：新建 `wiki/vocab/fr/` 下 **35 页**——`decorer`、`cle-usb`、`reunion`、`installer`、`professionnel`、`original`、`acheter`、`outil`、`compter`、`machine-a-cafe`、`quelqu-un-d-autre`、`dossier`、`jusque`、`courrier`、`pomme`、`proprietaire`、`tout-le-temps`、`raquette`、`piscine`、`midi`、`detester`、`plat`、`epice`、`chance`、`rentrer`、`on`、`vendre`、`dentifrice`、`salle-de-bain`、`oiseau`、`peur`、`savon`、`monde`、`d-habitude`、`enorme`；更新 [[french-vocabulary]]（进度 228→**263**：待处理、词条清单、第十五批待回补、**命名消歧登记表 +1 行（11 词）**、词族候选 +7、数据通道变更、待建信号）；更新 `index.md`（Stats fr 228→263、Backlog + 法语第十五批待回补）；本 log 条
+- **去重判定**：inbox 第 251–287 行为新增（`git diff` 核对）——**去重 2 处**：`au lait`（第 251 行，系第十四批第 242 行重出）→ 已在 [[lait]]；`quand`（重出）→ 页已存在，均未另建；**归并 4 处**（`decore`→décorer、`comptent`→compter、`deteste`→détester、`vend`→vendre）；**拼写变体 2 处**（`dentifirice`→dentifrice、`enorme`→énorme）
+- **关键决定 / 发现**：
+  - **lemma 判定待用户确认 1 处**：`decore`——去重音后与 *décoré* / *décore* **三形同形**，判为归并到 **décorer**（本批 inbox 混有屈折形，如 `comptent`），已在该页「收录说明」记录
+  - **方向反转 / 仿借发现（重要）**：**[[professionnel]] 很可能是仿英语 professional 而造**（CNRTL 明言）——英 professional（形 mid-18c / 名 1848）**早于**法 1842 / 1872，属**法 ← 英**，已与「英语回借簇」候选合观
+  - **两语独立直取拉丁**：[[dentifrice]]——英 *dentifrice* **early 15c 早于**法 1495，etymonline 明言英词系直取拉丁 *dentifricium* → 与法语**共祖而非借入**（**英法方向非法 → 英**）
+  - **faux ami 集群（11 词同形 / 近形）**：已登命名消歧登记表；其中 **`on` 最须留意**——法语 **on 是代词**、英语 **on 是介词**，**同形异类异源**
+  - **「同义异源」vs「同源异途」两层并列**：[[peur]] ↔ 英 fear（**祖源不同**：拉丁 *pavor* vs 日耳曼 \*feraz）｜ [[savon]] ↔ 英 soap（**同一 PGmc \*saipôn、路径不同**——既非借入亦非严格共祖）｜ [[oiseau]] ↔ 英 aviary（共祖，英直取拉丁）｜ [[salle-de-bain]] 的 *salle* ↔ 英 salon / saloon（同出日耳曼 \*salaz，非直接借 *salle*）——四型已登候选综合页
+  - **勘正 2 处**：**[[dossier]] 文件义「1580」经复核无据 → 改 1586**（TLFi，Arch. mun. de Bayonne）；**[[proprietaire]] 的 1676 Ménage 记载系词形讨论、非首证** → 按 TLFi 记 13 世纪
+  - **不采信 1 处**：**[[plat]] 的「法兰克语 \*flat」说**——fr.wiktionary 未列该形，本页不写入、标待验证
+  - **助动词两制标本**：[[rentrer]]（不及物 **être** / 带宾语 **avoir**）
+- **方法变更（重要）**：**cnrtl.fr 直连仍全 sinkhole**（多试只回「Portail lexical」外壳）**＋ etymonline 直连 403**——法语首证一律经「**fr.wiktionary 直取（引 TLFi / DMF / Académie 9e）+ WebSearch 让 TLFi 条文浮现**」取得，英语侧经检索转引 etymonline，**状态属「转引」**；清账通道排序已更新入 [[french-vocabulary]] 开放问题
+- **核实方式**：2 个子代理并行核实 35 词（French 侧 fr.wiktionary 直取 + 检索转引；英语侧 WebSearch 转引 etymonline）
+- **待办**：约 65 项待回补（首证并存两/三说 14 处 · 词源诸说并列 5 处 · 首证未获 5 处 · 已勘正 2 处 · 方向反转 2 处 · 未逐条核年若干）——见 [[french-vocabulary]] 第十五批待回补条与各页「来源」节
+- **命名占位提醒**：本批法语页占了全库 basename `on`、`chance`、`dossier`、`installer`、`original`、`plat`、`monde`、`midi`、`piscine`、`dentifrice`、`reunion`——**英语侧日后收同形词须记 `-en` 后缀**（已登命名消歧表）
