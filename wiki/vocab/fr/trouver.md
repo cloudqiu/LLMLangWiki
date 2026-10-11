@@ -2,7 +2,7 @@
 title: trouver
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-11
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -18,7 +18,7 @@ root: "通俗拉丁 *tropare「作曲、寻章摘句」← 拉丁 tropus「修�
 
 # trouver
 
-> 收录说明：inbox 里的遇到形式是 **trouve**（je/tu 现在时）——按 lemma 规则归并至不定式 **trouver**。
+> 收录说明：inbox 里的遇到形式是 **trouve**（je/tu 现在时）——按 lemma 规则归并至不定式 **trouver**。（**2026-10-01 首发收录；2026-10-11 inbox 第 304 行 `trouve` 重出**——同一词形、词条已存在，未另建页。）
 
 **释义**：（1）找到、发现；（2）觉得、认为（trouver que…）；（3）se trouver 位于、处于 ｜ découvrir ce qu'on cherche ; estimer, juger ; être situé
 
@@ -63,3 +63,4 @@ trouver
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**；inbox 形式 `trouve` → trouver）
 - 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：古法语 trover 最早见载约 980 年（Wiktionnaire）；trouvaille（英语 19c.）／troubadour（英语 1727）／trove（1888）／contrive（14c. 初）借入年代均已核实（etymonline／Collins 等）；无遗留待验证项
+- **2026-10-11 复收（第十六批）**：inbox 第 304 行 `trouve` 重出——词条已存在，仅在正文「收录说明」补记，**未另建页**；未新增核对项

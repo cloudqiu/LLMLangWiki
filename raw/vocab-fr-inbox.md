@@ -285,6 +285,30 @@ savon
 monde
 d'habitude
 enorme
+campagne
+pres de
+riviere
+reve
+moustache
+nord
+habite
+frais
+vache
+cela fait longtemps
+sale
+propre
+cochon
+rappelle
+enfance
+emouvant
+trouve
+vieille
+utilisions
+ferme
+calme
+la bas
+endroit
+
 
 
 

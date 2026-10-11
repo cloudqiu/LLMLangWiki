@@ -1,7 +1,7 @@
 # Index — 词汇库目录（LLMLangWiki）
 
 > 内容目录（content-oriented）：本库所有页面的清单。每次 ingest 后更新；查询时**先读本文件**找候选页面，再深入具体页面。
-> 维护规则见 `CLAUDE.md`；**词条不逐条登记**（由各语言 hub 统辖）。最近更新：2026-10-07。
+> 维护规则见 `CLAUDE.md`；**词条不逐条登记**（由各语言 hub 统辖）。最近更新：2026-10-11。
 
 ## Topics 主题（hub / 综合页）
 
@@ -24,6 +24,7 @@
 
 - 词族 / 综合页候选：见两 hub 的「词族 / 综合页」区（**英语 2026-10-07 新增 3 条**：granum「谷粒」族 · -meal 化石后缀族 · 「同义异源」标本组（再添 debris / sting）；**法语 2026-10-07 新增 7 条**：currere「跑」族 · norma「规矩」族 · 英法关系四种标本 · ūti「使用」族 · installare「席位」族 · computare 族补齐 · 家居日常物件簇）
 - **英语第七批待回补（2026-10-07）**：5 词 ≈ **25 项**——**本会话方法变更：etymonline 直连 WebFetch 返回 403**，英语词源一律经 WebSearch 转引（状态属「转引」）；`sand down` **短语无 etymonline 条目**（自身首见年代待验证）；`debris` 的 briser 终极来源标准记「**possibly of Gaulish origin**」（另路「probably of Celtic」）——**两说皆推测**；`sting` 的 PIE 终极来源 etymonline 明记 "**Perhaps**"；`piecemeal` 动词义 1611 系 OED 转述；已勘正 **「1590s/1580s/1560s」诸年代属 inchmeal / piece 其他义、非本词**（明细见 [[english-vocabulary]] 与各页「来源」节）
+- **法语第十六批待回补（2026-10-11）**：23 条（22 新页 + 1 重出去重）≈ **45 项**——**cnrtl.fr 直连仍 sinkhole + etymonline 直连 403**（fr.wiktionary 亦部分被拦），法语首证经「WebSearch 转引 TLFi / DMF / Académie 9e / Robert 史典 / FEW / Usito」、英语经检索转引 etymonline（状态属「转引」）；①首证两 / 三说（campagne 1535/1536、vache IXe vs 约 1130、propre 1090 vs xiie（**「1080」无源已剔除**）、calme 1418 vs xve、moustache 1511/1549/fin xve、là-bas 1532/1402-03、nord 1549/xvie、ferme 1140/12e）；②**词源诸说**（**rêve 的 resver 源头 ≥6 说——本库罕见多说标本**、cochon 来源不明、calme 三传入路径、rivière rivus/riparia、frais fractus/fredum）；③首证未获 / 无权威条目（**cela fait longtemps 未词汇化、无条目**、près de 短语、habiter/enfance 的 TLFi 日期）；④**已勘正**（**fermer 为 1er groupe 非 3e**、propre「1080」剔除）；⑤**方向反转 / 同源发现**（**nord 反向借入（法 ← 古英语 norþ）**、**utiliser → 英 utilize 1794**、**rappeler ↔ 英 repeal 同源双胞**、**vache → 英 vaccine**、**ferme → 英 farm c.1300**）（明细见 [[french-vocabulary]] 与各页「来源」节）
 - **法语第十五批待回补（2026-10-07）**：35 条 ≈ **65 项**——**cnrtl.fr 直连仍全 sinkhole + etymonline 直连 403**，法语首证经「fr.wiktionary 直取（引 TLFi/DMF/Académie 9e）+ WebSearch 转引」取得（状态属「转引」）；①首证并存两/三说 14 处（clé 1080 vs ca 1100、acheter Xe vs XIe s.、compter 拼写 **三说**、installer 1349 vs 1403、original 1240 vs 13e s.、réunion 1468 vs XVe。midi 约 1100 vs 1493、peur 881 vs 10c、piscine 1865 vs 1892、dentifrice 1495 vs 1560、monde 12c vs 10c、bain **三说**、vendre 三说、détester 1461 vs 15c、courrier 14c. vs 1464、chance 12c. vs 未定年）；②词源诸说并列（**raquette** 拉丁 recaptare vs 阿拉伯 rāḥa(t)、**plat** 法兰克 \*flat 说**不采信**、**savon** 高卢语中介存疑、**midi** meridies 直承 vs mi+di 复合、**monde** 两 mundus 关系不明）；③首证未获（machine à café / tout le temps / d'habitude 凝固短语 / clé USB 复合）；④**已勘正**：**dossier 文件义 1580 无据 → 1586**、**propriétaire 1676 Ménage 系词形讨论非首证**；⑤**方向反转**：**professionnel 很可能仿英语 professional 而造**（法 1842/1872 晚于英 mid-18c/1848）、**dentifrice 英 early 15c 早于法 1495**（两语独立直取拉丁）（明细见 [[french-vocabulary]] 与各页「来源」节）
 - 待回补清账（2026-10-01 完成，两批共 13 个子代理）：法语 38 条 + 英语 7+1 条经「检索转引」核对（CNRTL 直连仍 sinkhole）——多项实质订正；复清后**仅余 9 项**无定论如实保留（fr 6 ｜ en 3，见 log）
 - 第七批法语待回补（2026-10-01）：25 条法语侧首证年代待 CNRTL/TLFi 详核 + 5 项学界未定（brûler/marcher/totus/aller-aler/proche 俗拉丁形，见 [[french-vocabulary]] 与 log）
@@ -44,4 +45,4 @@
 
 ## Stats
 
-- vocab 词条：**397**（en **134** ｜ fr **263**） ｜ wiki 页面：**6** ｜ Outputs：**2** ｜ 最近更新：2026-10-07
+- vocab 词条：**419**（en **134** ｜ fr **285**） ｜ wiki 页面：**6** ｜ Outputs：**2** ｜ 最近更新：2026-10-11

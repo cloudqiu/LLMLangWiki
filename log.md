@@ -615,3 +615,21 @@
 - **核实方式**：2 个子代理并行核实 35 词（French 侧 fr.wiktionary 直取 + 检索转引；英语侧 WebSearch 转引 etymonline）
 - **待办**：约 65 项待回补（首证并存两/三说 14 处 · 词源诸说并列 5 处 · 首证未获 5 处 · 已勘正 2 处 · 方向反转 2 处 · 未逐条核年若干）——见 [[french-vocabulary]] 第十五批待回补条与各页「来源」节
 - **命名占位提醒**：本批法语页占了全库 basename `on`、`chance`、`dossier`、`installer`、`original`、`plat`、`monde`、`midi`、`piscine`、`dentifrice`、`reunion`——**英语侧日后收同形词须记 `-en` 后缀**（已登命名消歧表）
+
+## [2026-10-11] ingest | vocab-fr: 法语第十六批 23 条 → 22 新页 + 1 处重出去重
+
+- **动了哪些文件**：新建 `wiki/vocab/fr/` 下 **22 页**——`campagne`、`riviere`、`endroit`、`nord`、`ferme`、`vache`、`cochon`、`moustache`、`enfance`、`reve`、`frais`、`sale`、`propre`、`calme`、`emouvant`、`vieux`、`habiter`、`rappeler`、`utiliser`、`pres-de`、`la-bas`、`cela-fait-longtemps`；更新 [[trouver]]（第 304 行 `trouve` 重出补记，`updated` 2026-10-01→2026-10-11）；更新 [[french-vocabulary]]（进度 263→**285**：待处理、词条清单、第十六批待回补、**命名消歧登记表 +2 行（8 词 + 5 词）**、词族候选 +6、待建信号）；更新 `index.md`（Stats fr 263→**285** → 总 **419**、Backlog + 法语第十六批待回补）；本 log 条
+- **去重判定**：inbox 第 288–310 行为新增（`git diff` 核对）——**重出去重 1 处**：`trouve`（第 304 行，系 2026-10-01 首发重出）→ 已在 [[trouver]]，**未另建页**、仅在页内「收录说明」补记；**lemma 归并 4 处**（`habite`→habiter、`rappelle`→rappeler、`utilisions`→utiliser、`vieille`→vieux）；**拼写勘正 4 处**（`emouvant`→émouvant、`reve`→rêve、`pres de`→près de、`la bas`→là-bas）
+- **关键决定 / 发现**：
+  - **同形多词判定 2 处**：`ferme` 判为 **n.f.「农场」**（同形 adj.「坚定的」/ v. fermer 收同页「同形异义」小节——**是否分页待用户确认**）；`vache` 兼收 adj. 俗义（*La vache !* / *vachement*）
+  - **方向反转 / 反向借入（重要）**：**[[nord]] 系法语借自古英语 norþ**（经诺曼底，1140 首见）——英 **north 为本族词**，两词**同源、方向相反**（本库罕见标本）；**[[utiliser]] → 英语 utilize（1794，反向借入 fr → en）**
+  - **同源双胞 / 同根借出**：**[[rappeler]] ↔ 英语 repeal**（同出古法 *rapeler*——一个成「废止」、一个留「叫回 / 提醒」）；**[[vache]] → 英语 vaccine**（同出拉丁 *vacca*）；**[[ferme]] → 英语 farm（c.1300 ← 古法 ferme「租金」）**；**[[riviere]] → 英语 river（early 13c ← 盎格鲁-法语 rivere）**；**[[campagne]] → 英语 campaign（1640s）**；**[[propre]] → 英语 proper / property / propriety**；**[[moustache]] → 英语 mustache（1580s）**
+  - **同义异源对照**：[[vache]] ↔ 英 cow、[[cochon]] ↔ 英 pig / swine（英家畜词皆日耳曼——**唯 pork ← porc 借入**，诺曼分层标本）；[[sale]] ↔ 英 dirty、[[propre]] ↔ 英 clean——**两两同义异源**；[[enfance]] ↔ 英 child / childhood
+  - **faux ami**：[[propre]]（干净 / 自己的）≠ 英 proper（**无「干净」义**，英语 = clean）；[[riviere]] 的 **rivière vs fleuve** 之分英语 river 一概不分（**高优先待收 fleuve**）
+  - **本库罕见「多说标本」**：**[[reve]] 的 resver 源头 ≥6 说**（\*esver / \*reexvadare / \*reexvagus / \*reex-vare / revehi / \*refragu，另 rabies 已否）——**全部并列、绝不择一**
+  - **已勘正 2 处**：**fermer 为 1er groupe（非 3e）**——原设误、已改；**[[propre]]「1080」诸源查无 → 已剔除**（保留 1090 vs xiie 两说）
+  - **跨页互链**：[[habiter]] ↔ 英语页 [[habitat]]（**英 habitat 1762 系拉丁直造、早于法 1818**）
+- **方法变更（沿用第十五批）**：**cnrtl.fr 直连仍全 sinkhole ＋ etymonline 直连 403**（fr.wiktionary 亦**部分被网络策略拦截**）——法语首证经「**WebSearch 转引 TLFi / DMF / Académie 9e / Robert 史典 / FEW / Usito**」、英语经**检索转引 etymonline**，**状态属「转引」而非「原条直核」**
+- **核实方式**：**4 个子代理并行**核实 22 词（A 乡村名词 5 · B 生物名词 5 · C 形容词 6 · D 动词 + 短语 6）
+- **待办**：约 45 项待回补（首证两 / 三说 8 处 · 词源诸说 6 处 · 首证未获 / 无条目 5 处 · 已勘正 2 处 · 方向反转 / 同源 5 处）——见 [[french-vocabulary]] 第十六批待回补条与各页「来源」节
+- **命名占位提醒**：本批法语页占了全库 basename `sale`、`moustache`、`calme`、`propre`、`frais`、`nord`、`ferme`、`endroit`——**英语侧日后收同形 / 近形词须记 `-en` 后缀**（**`sale` 尤须注意：法语 sale 是「脏的」、英语 sale 是「售卖」，同形异类异源**；已登命名消歧表）
