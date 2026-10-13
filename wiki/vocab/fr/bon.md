@@ -51,7 +51,7 @@ root: "拉丁 bonus「好」→ 古法语 bon（10c. 已见作 buon）→ 法语
   - 修饰**名词**用 bon（un bon film 一部好电影；une bonne idée 好主意）；修饰**动词**用 bien（Il travaille bien. 他工作得好；Il parle bien français. 他法语说得好）
   - _C'est bon._ ＝「（吃的）不错／好了、行了」——评价事物的状态（味道、是否完成）；_C'est bien._ ＝「（这）不错／挺好」——评价事情本身或表示认可（常带轻微保留：「还行」）。一句话记：bon 评**物**，bien 评**事**
   - 主语是人时：_Il est bon._ 他心地好（品质）；_Il est bien._ 他（过得／表现）不错——同主语两义，靠 bon / bien 切换
-  - 第二组同类：**meilleur**（bon 的比较级：形容词，更好）vs **mieux**（bien 的比较级：副词，更好地）——_Il est meilleur que moi._ 他比我强 ｜ _Il travaille mieux que moi._ 他工作得比我好
+  - 第二组同类：**[[meilleur]]**（bon 的比较级：形容词，更好——**2026-10-13 建页**）vs **mieux**（bien 的比较级：副词，更好地）——_Il est meilleur que moi._ 他比我强 ｜ _Il travaille mieux que moi._ 他工作得比我好
 - 搭配：`un bon repas`（一顿好饭）；`bonne chance`（祝好运）；`bon courage`（加油）；`bon appétit`；`bon marché`（便宜）；`à quoi bon`（何必）；`pour de bon`（当真）
 - **faux ami**：英语 **bonus**（奖金）在法语日常对应 **prime**（奖金、津贴）；法语近年也直接借用英语 bonus 说「额外奖励」（如 le bonus écologique 环保奖励）——**英→法反向借入**（年代**待验证**）；名词 `le bon`（券）与英语 bonus（奖金）不是一回事
 

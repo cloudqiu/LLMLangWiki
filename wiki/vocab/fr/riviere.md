@@ -2,7 +2,7 @@
 title: "rivière"
 type: vocab
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-13
 tags: [vocab]
 status: growing
 learning: new
@@ -66,3 +66,4 @@ rivière
   - 首见「fin XIe s.」系经 Robert 史典**转引** Gloses de Raschi，TLFi 原文未直核——**待验证**
   - **\*rivus vs \*riparia** 词源分歧（主流主 \*riparia）——两说并列
   - 首见表述「11 世纪末 vs 12 世纪」不一（未清）
+- **2026-10-13 复收（第十七批）**：raw/vocab-fr-inbox.md 第 331 行**再次收录** `riviere`——本页已存在，按「已存在的词只补充不重复建页」**未另建页**（去重）；词条内容经复核无需改动

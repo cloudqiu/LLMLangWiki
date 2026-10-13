@@ -308,6 +308,31 @@ ferme
 calme
 la bas
 endroit
+mille
+campagne
+meilleyr
+beurre
+ennuyais
+jamais
+passe
+souviens
+champ
+derriere
+jouais
+paysage
+president
+epoque
+heureuse
+sentais
+fatigue
+tranquille
+sud
+foret
+riviere
+ou
+pechait
+calme
+papillon
 
 
 

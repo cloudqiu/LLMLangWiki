@@ -35,7 +35,7 @@ root: "通俗拉丁 \\*deretranus「在后面的」（de retro de「自、离」
 - 词组里常用 **en dernier**（最后地）、**en dernier lieu**（最后、最终）
 
 **词源 / 构词**
-- **拆解**：**de-（← 拉丁 de「自、离、下」）+ retro（「在后面」）+ -anus（形容词后缀）** → 通俗拉丁 **\*deretranus**「在后面的」——同一 **retro** 亦见于英语 retro-、法语 **derrière**（「后面」，同出 de retro）
+- **拆解**：**de-（← 拉丁 de「自、离、下」）+ retro（「在后面」）+ -anus（形容词后缀）** → 通俗拉丁 **\*deretranus**「在后面的」——同一 **retro** 亦见于英语 retro-、法语 **[[derriere]]**（「后面」，同出 de retro）
 - **演变（CNRTL/TLFi，2026-10-04 经 WebSearch 转引）**：
   - 通俗拉丁 **\*deretranus** → 古法语 **derrain**（亦作 *déerrain, daarrain, darrain, derrien*；**1re moitié xiie s.**，见 T.-L.）→ **derrainier → derrenier**（末尾 **-ier** 系**与 premier 类比**而来，TLFi 明言「dér. p. anal. avec premier」）→ 现代 **dernier**（**derrenier 的缩合形**）
   - TLFi 原文句式：「**Dernier**, forme contractée de **derrenier**, dér. p. anal. avec **premier** de l'a. fr. **derrain**（1re moitié xiie s. ds T.-L.）, lui-même issu du lat. vulg. **\*deretranus**, dér. de **de retro**「derrière」」
@@ -43,8 +43,8 @@ root: "通俗拉丁 \\*deretranus「在后面的」（de retro de「自、离」
   - TLFi、Grand dictionnaire universel du xixe s.、Wiktionnaire、Diez（EWRS）**一致作 \*deretranus**（de retro + -anus）
   - **etymonline** 则记英语借词 dernier ← 法 dernier，法词「formed as though from Medieval Latin **\*deretranacius**」——后缀异（-acius）
   - ⚠️ 本次 ingest 提示曾作「**deretinus**」，**在已查诸源中未见此形**——**待验证**
-- **同族 / 派生（法语）**：**derrière**（adv./n.m.「在后面；臀部」——同出 de retro）；**dernièrement**（adv. 最近）；**dernier-né**（n. 最小的孩子）；**en dernier lieu**（最后）
-- **记忆钩**：dernier ＝ de + **retro**（向后）+ -anus——「**落在后面的**」；与英语 retro-（复古／向后）、法语 derrière（后面）**共享同一个 retro**
+- **同族 / 派生（法语）**：**[[derriere]]**（adv./n.m.「在后面；臀部」——同出 de retro，**2026-10-13 建页**）；**dernièrement**（adv. 最近）；**dernier-né**（n. 最小的孩子）；**en dernier lieu**（最后）
+- **记忆钩**：dernier ＝ de + **retro**（向后）+ -anus——「**落在后面的**」；与英语 retro-（复古／向后）、法语 [[derriere]]（后面）**共享同一个 retro**
 
 **英法交叉核对（受影响的英语词）**
 - **借入英语（法语 → 英语，近代借词）**：**`dernier`**（adj. « last, final »，**c. 1600** ← 法语 **dernier**）——英语保留的**法语借词**，在英语中偏生僻／学究，主要活于固定短语

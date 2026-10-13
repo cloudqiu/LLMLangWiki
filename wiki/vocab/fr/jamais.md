@@ -2,7 +2,7 @@
 title: jamais
 type: vocab
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-13
 tags: [vocab, src/duolingo]
 status: growing
 learning: new
@@ -60,3 +60,4 @@ jamais
 
 - raw/vocab-fr-inbox.md（2026-10-01 收录；出处：inbox 未标注——推断 Duolingo，**待确认**）
 - 核对说明：2026-10-01 清账——CNRTL 直连仍 sinkhole，WebSearch 转引核对：jam+mais 组合及与 ne 连用年代已核实（CNRTL/TLFi：10 世纪下半叶起、约 1100 年已见「ne… ja mais」）；jamais vu 借入年代未见确切定年，仍标待验证
+- **2026-10-13 复收（第十七批）**：raw/vocab-fr-inbox.md 第 316 行**再次收录** `jamais`——本页已存在，按「已存在的词只补充不重复建页」**未另建页**（去重）；词条内容经复核无需改动

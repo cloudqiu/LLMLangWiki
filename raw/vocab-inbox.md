@@ -140,6 +140,10 @@ grenade
 piecemeal
 debris
 sting
+let alone
+grit
+extraodinaire
+
 
 
 

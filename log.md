@@ -633,3 +633,22 @@
 - **核实方式**：**4 个子代理并行**核实 22 词（A 乡村名词 5 · B 生物名词 5 · C 形容词 6 · D 动词 + 短语 6）
 - **待办**：约 45 项待回补（首证两 / 三说 8 处 · 词源诸说 6 处 · 首证未获 / 无条目 5 处 · 已勘正 2 处 · 方向反转 / 同源 5 处）——见 [[french-vocabulary]] 第十六批待回补条与各页「来源」节
 - **命名占位提醒**：本批法语页占了全库 basename `sale`、`moustache`、`calme`、`propre`、`frais`、`nord`、`ferme`、`endroit`——**英语侧日后收同形 / 近形词须记 `-en` 后缀**（**`sale` 尤须注意：法语 sale 是「脏的」、英语 sale 是「售卖」，同形异类异源**；已登命名消歧表）
+
+## [2026-10-13] ingest | vocab 第八批 3 词 + vocab-fr 第十七批 25 条→22 新页 + 4 处重出去重（合并提交）
+
+- **动了哪些文件**：新建 **英语 3 页**——`let-alone`、`grit`、`extraordinaire`；新建 **法语 22 页**——`mille`、`meilleur`、`beurre`、`ennuyer`、`passer`、`se-souvenir`、`champ`、`derriere`、`jouer`、`paysage`、`president`、`epoque`、`heureux`、`sentir`、`fatigue`、`tranquille`、`sud`、`foret`、`ou-conj`、`ou-adv`、`pecher`、`papillon`；更新 **4 个重出页**（`campagne` 第 312 行、`jamais` 第 316 行、`riviere` 第 331 行、`calme` 第 334 行——各「来源」节补「复收」条、`updated`→2026-10-13）；更新**交叉引用** 5 处（`bon` 第 54 行 meilleur 链接、`calme` [[tranquille]] 销「待收」、`triste` [[heureux]] 反义链、`dernier` 三处 [[derriere]] 链接、英 `juggle` 加「跨语言」条回链 [[jouer]]）；更新 [[english-vocabulary]]（134→**137**、第八批待回补、词族候选 ×3、待建信号）、[[french-vocabulary]]（285→**307**、第十七批待回补、**命名消歧表 +5 行**、词族候选 ×7、待建信号、retro 候选更新）、`index.md`（Stats 419→**444**、Backlog 增两批待回补）；本 log 条
+- **去重判定**：`git diff` 核对——**英语 inbox 第 143–145 行为新增**（3 词）；**法语 inbox 第 311–335 行为新增**（25 行）——**重出去重 4 处**（`campagne` / `jamais` / `riviere` / `calme`，均已在库、**未另建页**）；**lemma 归并 8 处**（`meilleyr`→meilleur、`ennuyais`→ennuyer、`passe`→passer、`souviens`→se souvenir、`jouais`→jouer、`heureuse`→heureux、`sentais`→sentir、`pechait`→pêcher）；**拼写勘正 2 处**（`meilleyr`→**meilleur**、`pechait`→**pêchait**）
+- **关键决定 / 发现**：
+  - **同音近形分页（本批命名难点的正面处理）**：inbox `ou`（第 332 行）——叙事语境（*la rivière où … pêchait*）指 **où**，按命名表「一律先用带词性后缀」**分建 [[ou-adv]]（où）+ [[ou-conj]]（ou）**——两页名均不含裸 `ou`，杜绝「先到先得」
+  - **三同形消歧**：`pechait` 据「钓鱼」语境判为 **pêcher**（**ê**）→ `pecher.md`；同一 ASCII 下另二词（pêcher 桃树 n.m. / pécher 犯罪）登记 `pecher-nm.md` / `pecher-v.md`
+  - **同形多词判定 2 处**：`mille` 同页收「数词千 / 名词里」；`fatigue` n.f. 主收 + 同页从收 adj. fatigué（**是否分页待用户确认**）
+  - **方向反转 / 同源发现（重要）**：**[[sud]] 与 [[nord]] 同为法语借自古英语（日耳曼）的反向借入**（sud ← 古英语 *suþ*，约 1140）——本库「反向借入」标本之最；**英 butter ↔ 法 [[beurre]] 共祖（拉丁 butyrum）、非借入**；**英 landscape ↔ 法 [[paysage]] 是 calque（仿造）而非借入**（landscape ← 荷兰 landschap）——**「第三种英法关系」标本**（既非同义异源、亦非同源异途）
+  - **一源三分标本**：**拉丁 jocus——法 [[jouer]] 系继承、英 joke 系直借拉丁（与 jouer 共祖）、英 [[juggle]] 经古法 jogler 借入**（三词同根、三条路径）
+  - **同源双式（英内）**：英 **extraordinaire**（1940 借入、后置）与 **extraordinary**（early 15c.、前置）系同一拉丁 extraordinarius 的双式词
+  - **词源多说标本（绝不择一）**：**[[foret]] 四说**（forum / foris / 日耳曼 foraha / 凯尔特 \*dvorestu-）；**[[beurre]]**（希腊构成说 vs 斯基泰俗词源，且「francoprovençal 路线」**权威源未证实**）；**tranquillus 内部构词四说**
+  - **h 的类推**：[[heureux]] 的初始 h 系**与 [[heure]] 同音而类推添加**——二词**无词源关系**
+  - **pêcher 年代矛盾已显式记录**：**fr.wiktionary 记 1677 vs TLFi / Usito「约 1140」**——判 fr.wiktionary 之说误导，两说并存（遵硬规 5）
+- **方法变更（沿用第十四批起）**：**cnrtl.fr 直连仍全 sinkhole + etymonline 直连 403**——法语首证经「**fr.wiktionary 直取 + Académie 9e 直取（ou / pêcher / président 等）+ WebSearch 转引 TLFi / Usito / Littré**」、英语经**检索转引 etymonline**——**状态均属「转引」而非「原条直核」**
+- **核实方式**：**4 个子代理并行**核实（英语 1 组 3 词；法语 3 组：名词 10 · 形容词 4 · 动词与虚词 8）
+- **待办**：约 **60 项**法语待回补 + **≈ 9 项**英语待回补（明细见两 hub 与各页「来源」节）
+- **命名占位提醒**：本批法语页占了全库 basename `mille`、`meilleur`、`beurre`、`champ`、`derriere`、`paysage`、`president`、`epoque`、`heureux`、`sentir`、`fatigue`、`tranquille`、`sud`、`foret`、`papillon`、`pecher`——**英语侧日后收同形 / 近形词须记 `-en` 后缀**（**`president`、`champ`、`passer`、`paysage`、`papillon`、`heureux`、`derriere` 尤须注意**；已登命名消歧表；**`ou-conj` / `ou-adv` 与 `pecher` 之三同形**另见该表）

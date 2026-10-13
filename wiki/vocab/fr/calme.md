@@ -2,7 +2,7 @@
 title: "calme"
 type: vocab
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-13
 tags: [vocab]
 status: growing
 learning: new
@@ -47,7 +47,7 @@ root: "希腊 kauma「酷热」→ 晚期拉丁 cauma「午间炎热、歇凉」
 **同义 / 搭配 / 易混**
 - 搭配：`garder son calme`（保持冷静）｜ `le calme plat`（风平浪静）｜ `en tout calme`（安安静静）｜ `retrouver son calme`（恢复平静）｜ `calme olympien`（泰山崩于前而不变色的镇定）
 - **易混**：**calme**（平静的 / 冷静的）vs **tranquille**（安静的——更日常、偏「无事打扰」）vs **silencieux**（无声的）vs **serein**（安详的）；反义 **agité / nerveux**（不安的 / 焦躁的）
-- 相关：[[tranquille]]（近义，待收）；[[sale]] / [[propre]]（同批形容词）
+- 相关：[[tranquille]]（近义辨析——**已收**，2026-10-13）；[[sale]] / [[propre]]（同批形容词）
 
 ## 闪卡 #flashcards/fr
 
@@ -66,3 +66,4 @@ calme
   - 法语首见 **1418（CNRTL）vs xve s.（Wiktionary）**——两说；TLFi 原文未直连
   - **传入路径争议**（奥克语 vs 伊比利亚语 vs 意大利语）——并列
   - **malacia 竞争词源**（Ménage）——已并列存录
+- **2026-10-13 复收（第十七批）**：raw/vocab-fr-inbox.md 第 334 行**再次收录** `calme`——本页已存在，按「已存在的词只补充不重复建页」**未另建页**（去重）；词条内容经复核无需改动

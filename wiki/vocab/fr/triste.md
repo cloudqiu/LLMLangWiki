@@ -70,7 +70,7 @@ root: "拉丁 tristis「悲伤的、阴郁的」（tristis 自身词源不明）
 
 **同义 / 搭配 / 易混**
 - 搭配：`être triste`｜`avoir l'air triste`｜`une triste nouvelle`（噩耗）｜`un triste état`（狼狈状态）｜`un triste sire`（卑鄙家伙，前置贬义）｜`faire triste mine`｜`ce n'est pas triste`（反讽）｜`triste comme la pluie`
-- 辨析（同义）：**triste** 最通用（悲伤＋阴郁）｜ **malheureux** 侧重境遇不幸、不快乐｜ **abattu / accablé** 被打击后的沮丧｜ **mélancolique** 安静持久的忧郁，带诗意｜ **morose / maussade** 闷闷不乐、脸色难看（脾气与神色）｜ **sombre / lugubre** 阴沉／凄惨，多施于景物气氛。反义：heureux, gai, joyeux, content, épanoui, béat
+- 辨析（同义）：**triste** 最通用（悲伤＋阴郁）｜ **malheureux** 侧重境遇不幸、不快乐｜ **abattu / accablé** 被打击后的沮丧｜ **mélancolique** 安静持久的忧郁，带诗意｜ **morose / maussade** 闷闷不乐、脸色难看（脾气与神色）｜ **sombre / lugubre** 阴沉／凄惨，多施于景物气氛。反义：[[heureux]]（**2026-10-13 建页**）、gai, joyeux, content, épanoui, béat
 - **母语干扰点**：**阴阳同形**——阴性**不加 -e**（*une histoire triste*，非 *triste*+e）；别把英语 sad 的"同源"错觉带进来——**triste 与 sad 是同义异源**（见上节）
 - 相关：[[vie]]（本库「同义异源」写法范本；triste↔sad 与 vie↔life 同型）；[[histoire]]（近邻分工可对照：都带"叙述"色彩的形容词/名词搭配）
 

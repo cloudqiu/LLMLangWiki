@@ -2,7 +2,7 @@
 title: "campagne"
 type: vocab
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-13
 tags: [vocab]
 status: growing
 learning: new
@@ -66,3 +66,4 @@ campagne
   - 法语首见 **1535 vs 1536**——两说并列（TLFi 原文未直连）
   - 「借自意大利语 campagna（REW）」是否为**必要**假说——两说并存（TLFi 判「原野」义不必）
   - 古法 champagne → campaigne 的**诺曼-皮卡第形**扩散细节（未核）
+- **2026-10-13 复收（第十七批）**：raw/vocab-fr-inbox.md 第 312 行**再次收录** `campagne`——本页已存在，按「已存在的词只补充不重复建页」**未另建页**（去重）；词条内容经复核无需改动

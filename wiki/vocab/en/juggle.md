@@ -33,6 +33,7 @@ root: "back-formation ← juggler（c. 1100 ← 古法 jogler ← 晚期拉丁 i
 - 搭配：juggle balls / clubs / knives；juggle a career and a family；juggle several projects / commitments；juggle the books / accounts / figures（做假账）；a juggling act（勉力兼顾的处境）
 - 同义：杂耍——toss、keep in the air；兼顾——balance、multitask、handle at once；篡改——manipulate、falsify、rig、cook (the books)
 - 易混 / 辨析：**juggle vs [[carve-out]]**——juggle 强调「同时抛接 / 兼顾」，carve out 强调凭努力「开辟出（一片天地）」；**juggle vs [[jack-of-all-trades]]**——后者是「样样都会的多面手」（名词），juggle 是「同时应付」的动作
+- **跨语言**：法语 **[[jouer]]**（玩 / 演奏）与本词**同出拉丁 iocus / ioculari**——但路径与义域都不同：jouer 是法语对角色的**继承**（一般「玩 / 演奏」），juggle 经古法 *jogler* **借入**、义偏「抛接 / 同时应付」；英语 **joke** 则是**直借拉丁 iocus**（与 jouer 共祖、与 juggle 同根）——三词同根、三条路径（2026-10-13 由法语 [[jouer]] 页回链补记）
 
 ## 闪卡 #flashcards/en
 
