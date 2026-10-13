@@ -18,7 +18,7 @@ root: "拉丁 ubi「何处」；Académie 9e 记现代 où 兼收 quo（所往�
 
 # où
 
-> 收录说明：inbox 第 332 行作 **`ou`**（无重音）——按上下文（叙事：*la rivière où … pêchait*）判为 **`où`（关系副词「哪里」）**；因与连词 `ou` ASCII 同形，按命名规则分建 [[ou-conj]] / 本页——**判定待用户确认**。
+> 收录说明：inbox 第 332 行作 **`ou`**（无重音）——**2026-10-13 用户确认为 `où`（关系副词「哪里」）**（叙事语境 *la rivière où … pêchait* 相符）；因与连词 `ou` ASCII 同形，按命名规则分建 [[ou-conj]] / 本页——**判定已确认**。
 
 **释义**：**adv.（疑问 + 关系）哪里、在…的地方**——（1）**疑问副词**：问地点（Où es-tu ? 你在哪？；D'où viens-tu ? 你从哪来？）；引申问处境；（2）**关系副词**：引出地点从句（la ville **où** je suis né 我出生的城市），引申表时间或情形｜ où : à quel endroit ; dans lequel / auquel（relatif）
 
@@ -59,7 +59,7 @@ où
 
 ## 来源
 
-- raw/vocab-fr-inbox.md（2026-10-13 收录，第 332 行，inbox 形 **`ou`**——按叙事语境判为 **où**；因与连词 ou 同形，按命名表分建两页，**判定待用户确认**；出处：inbox 未标注——推断 Duolingo，**待确认**）
+- raw/vocab-fr-inbox.md（2026-10-13 收录，第 332 行，inbox 形 **`ou`**——**2026-10-13 用户确认为 `où`**；因与连词 ou 同形，按命名表分建两页；出处：inbox 未标注——推断 Duolingo，**待确认**）
 - 核对说明：2026-10-13 经子代理「fr.wiktionary 直取 + Académie 9e 检索转引」核对——ubi 链、兼收 quo / unde / qua、首证 10 世纪。**cnrtl.fr 直连仍 sinkhole**——状态属「转引」
 - **待回补**：
   - fr.wiktionary 仅记 **ubi**，Académie 9e 又称兼收 **unde / quo / qua**——**两源侧重不同**，须并记（不矛盾）

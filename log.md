@@ -652,3 +652,10 @@
 - **核实方式**：**4 个子代理并行**核实（英语 1 组 3 词；法语 3 组：名词 10 · 形容词 4 · 动词与虚词 8）
 - **待办**：约 **60 项**法语待回补 + **≈ 9 项**英语待回补（明细见两 hub 与各页「来源」节）
 - **命名占位提醒**：本批法语页占了全库 basename `mille`、`meilleur`、`beurre`、`champ`、`derriere`、`paysage`、`president`、`epoque`、`heureux`、`sentir`、`fatigue`、`tranquille`、`sud`、`foret`、`papillon`、`pecher`——**英语侧日后收同形 / 近形词须记 `-en` 后缀**（**`president`、`champ`、`passer`、`paysage`、`papillon`、`heureux`、`derriere` 尤须注意**；已登命名消歧表；**`ou-conj` / `ou-adv` 与 `pecher` 之三同形**另见该表）
+
+## [2026-10-13] ingest | vocab-fr: `ou`（第 332 行）经用户确认为 `où`
+
+- 触发：用户回复「it's où」——确认第十七批 inbox 第 332 行 `ou`（无重音）指**关系副词 `où`**（与叙事语境 *la rivière où … pêchait* 相符）
+- 改动：① [[ou-adv]]（＝où）「收录说明」与「来源」两处由「判定待用户确认」改为**已确认**；② [[ou-conj]]（连词 ou）「收录说明」与「来源」改为**配套姊妹页**说明（非 inbox 直收；**保留页面**，因连词 ou 为最高频虚词、且闭合 ou / où 对照）；③ [[french-vocabulary]] 命名消歧表相应行更新
+- 备注：`ou-conj` 页**保留不删**；如日后不需要，按 schema 硬规 4 标 `status: archived`（不静默删页）
+- 更新：本 log 条；`index.md` 无须改（其第十七批条目未涉 ou 判定）
